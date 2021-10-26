@@ -1,0 +1,20 @@
+content: Patreon Help Topics
+embeds:
+- color: 0x00000f
+  fields:
+  - name: "**test**"
+    value: |
+      this is a test to see if **this** works
+      
+  - name: "**Receive your Testflight Invite**"
+    value: |
+      To get your invite to the Testflight, you need to contact <@796518312397111306>
+      (`Paperback Bot#1108`) and type:\n`pb beta invite PatreonEmail `\n\n> Make sure
+      to replace `PatreonEmail` with your email. \n> <:info:846438436655071302> You
+      need to turn on DMs for this server. \n> **Everything must be done in the bot
+      DMs**
+      
+  - name: "**If you are an old Patreon**"
+    value: |
+      Search for your invite in your email. If you cannot find it, do all the 
+      steps above to receive your invite.
