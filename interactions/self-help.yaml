@@ -3,13 +3,13 @@ options:
   - label: Patreon
     description: Help topics regarding Patreon
     emote:
-    interaction: patreon/patreon
+    value: patreon/patreon
     default: true
     
   - label: App
     description: Help topics regarding the App
     emote:
-    interaction: app_help
+    value: app_help
     
 buttons:
   - label: This is a button
