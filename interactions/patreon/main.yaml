@@ -3,7 +3,6 @@ embeds:
 - color: 0xF96854
   fields:
   - name: "**Patreon Testflight Access**"
-    value: |
   
   - name: "**Get your Patreon role**"
     value: |
