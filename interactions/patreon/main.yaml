@@ -2,7 +2,7 @@ content: Patreon Help Topics
 embeds:
 - color: 0xF96854
   fields:
-  - name: "**Patreon Testflight Access**"
+  - title: "**Patreon Testflight Access**"
   
   - name: "**Get your Patreon role**"
     value: |
