@@ -13,6 +13,6 @@ options:
     
 buttons:
   - label: This is a button
-    link: https://www.google.com
-    type: primary
+    url: https://www.google.com
+    style: LINK
   
