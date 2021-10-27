@@ -7,7 +7,7 @@ embeds:
     value: |
       You need to link your Discord account with Patreon.
       Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
-      :patreonbg: Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
+      <:patreonbg:802238015958548480> Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
       
   - name: "**Receive your Testflight Invite**"
     value: |
