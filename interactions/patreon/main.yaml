@@ -1,20 +1,18 @@
 content: Patreon Help Topics
 embeds:
 - color: 0xF96854
+  title: "**Patreon Testflight Access**"
   fields:
-  - title: "**Patreon Testflight Access**"
-  
   - name: "**Get your Patreon role**"
     value: |
       You need to link your Discord account with Patreon.
       Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
-      <:patreonbg:802238015958548480> Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
+      :patreonbg: Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
       
   - name: "**Receive your Testflight Invite**"
     value: |
       To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
       `pb beta invite PatreonEmail `
-
       > Make sure to replace `PatreonEmail` with your email. 
       > <:info:846438436655071302> You need to turn on DMs for this server. 
       > **Everything must be done in the bot DMs**.
