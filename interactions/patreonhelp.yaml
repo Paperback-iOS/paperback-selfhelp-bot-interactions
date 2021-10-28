@@ -3,3 +3,4 @@ options:
   - label: Patreon
     value: patreon/newpatreon
     description: Help topics regarding Patreon
+    emoji: "<:patreonbg:802238015958548480>"

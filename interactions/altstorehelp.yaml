@@ -3,11 +3,14 @@ options:
   - label: AltStore
     value: altstore/altstore
     description: Help topics regarding Altstore
+    emoji: "<:Altstore:890046218846208002>"
   
   - label: Mac
     value: altstore/mac
     description: Help topics regarding Mac
+    emoji: "<:Apple:893202544246001715>"
 
   - label: Windows
     value: altstore/windows
     description: Help topics regarding Windows
+    emoji: "<:windows:893202544128569414>"

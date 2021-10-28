@@ -8,7 +8,9 @@ options:
   - label: App
     value: apphelp
     description: Help topics regarding the App
+    emoji: "<:paperback:712782695716880423>"
 
   - label: AltStore
     value: altstorehelp
     description: Help topics regarding AltStore
+    emoji: "<:Altstore:898711291160559616>"    
