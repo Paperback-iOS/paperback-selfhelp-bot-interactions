@@ -1,1 +1,21 @@
+content: Support about the App
+embeds:
+- color: 0xECC8F9
+  title: "**Paperback Support Instructions**"
+  fields:
+  - name: "**Be specific**"
+    value: |
+      If you claim something "isn't working", show (with screenshots) and give details like:
+      What is your iOS version? ex: iOS 14.5
+      What is your app version? ex: v0.6.0-b1.0.0
+      What source are you using and what is the version? 
+      ex: Mangadex (1.0.0)
+      What were you trying to read? 
+      ex: I was reincarnated as a manga app developer, chapter 1
+
+  - name: "**Asking in the right channel**"
+    value: |
+      <#702052855623843861> (`#support`) is for App Store/Testflight related problems
+      <#849495749741772850> (`#support-ipa`) is for IPA/AltStore related problems
+      
 
