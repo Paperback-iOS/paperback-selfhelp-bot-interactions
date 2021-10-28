@@ -1,9 +1,13 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Patreon
-    value: patreon/main
+    value: patreonhelp
     description: Help topics regarding Patreon
   
   - label: App
     value: app/main
     description: Help topics regarding the App
+
+  - label: AltStore
+    value: altstorehelp
+    description: Help topics regarding AltStore

@@ -1,0 +1,5 @@
+content: "Please choose a topic to receive help for"
+options: 
+  - label: Patreon
+    value: patreon/newpatreon
+    description: Help topics regarding Patreon

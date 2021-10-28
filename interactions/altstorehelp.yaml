@@ -1,0 +1,13 @@
+content: "Please choose a topic to receive help for"
+options: 
+  - label: AltStore
+    value: altstore/altstore
+    description: Help topics regarding Altstore
+  
+  - label: Mac
+    value: altstore/mac
+    description: Help topics regarding Mac
+
+  - label: Windows
+    value: altstore/windows
+    description: Help topics regarding Windows
