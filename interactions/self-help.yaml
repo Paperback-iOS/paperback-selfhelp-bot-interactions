@@ -3,10 +3,10 @@ options:
   - label: Patreon
     value: patreonhelp
     description: Help topics regarding Patreon
-    emote: ":patreonbg:802238015958548480"
+    emoji: "<:patreonbg:802238015958548480>"
   
   - label: App
-    value: app/main
+    value: apphelp
     description: Help topics regarding the App
 
   - label: AltStore

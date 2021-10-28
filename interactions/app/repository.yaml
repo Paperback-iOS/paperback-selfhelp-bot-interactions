@@ -1,0 +1,34 @@
+content: Adding an external repository
+embeds:
+- color: 0x6612B0
+  title: "**Adding an external repository**"
+  fields:
+  - name: "**<:chevon:846960436431945779> Method 1**"
+    value: |
+      - Open `Paperback` and open back Discord
+      - Navigate to: 
+      <#734871500200476743> (`#external-repos`)
+      - Search for the repository you want to add
+      - Press `Add to Paperback` and confirm
+    enline: yes
+
+  - name: "**<:chevon:846960436431945779> Method 2**"
+    value: |
+      - Navigate to: 
+      <#734871500200476743> (`#external-repos`)
+      - Grab the correct repository you want to install
+      - Copy the link repository and paste it inside the app in your source tab by clicking `Edit` then `+`
+
+  - name: "**<:chevon:846960436431945779> Notes**"
+    value: |
+      Never open the link. You messed up if it says:
+      - `Unable to fetch source list`
+      - `404, File not found`
+    enline: yes
+
+  - name: "**Adding sources**"
+    value: |
+      __Sources are inside the external repository.__
+
+      We recommend you to get a maximum of 10 sources.
+      If you see source filtered, go to <#741031213619478568> (`#bot-commands`) and type `!contentsettings`

@@ -1,0 +1,13 @@
+content: "Please choose a topic to receive help for"
+options: 
+  - label: Additional Support
+    value: app/app
+    description: Additional required information to receive support
+  
+  - label: Adding Repository
+    value: app/repository
+    description: Help with the repositories
+
+  - label: Content Settings
+    value: app/contentsettings
+    description: Help with the repositories

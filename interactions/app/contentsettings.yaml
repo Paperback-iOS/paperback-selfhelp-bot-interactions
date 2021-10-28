@@ -1,0 +1,27 @@
+content: Content Settings stuff
+embeds:
+- color: 0xEC736D
+  title: "**Content Settings**"
+  fields:
+  - name: "**Information**"
+    value: |
+      In order to adjust your content settings, including allowing more mature content to display in Paperback, you need to have a Paperback account.
+
+      1. Visit [Paperback Portal](https://portal.paperback.moe/welcome)
+      2. Login with your Paperback Account
+      - or create one if you don't have one
+      3. Change the content setting to your liking
+      4. Logout of the app if you were logged in
+      5. Login again
+
+      **Notes:** If you set your content settings to "Adult" on the portal, you can restrict what content appears in the app by going into `Settings > General Settings > Content Filtering`
+
+  - name: "**Some common problems**"
+    value: |
+      **I've updated my settings on the portal, why has it not changed in my app?**
+      Simply restart the app by removing it from your app switcher
+      **I have selected `Adult` but it's not saving my selection..**
+      Clear your safari cache, login to the Portal through an incognito window.
+      **It says communication error?**
+      Verify your email, check spam/promotion. 
+      
