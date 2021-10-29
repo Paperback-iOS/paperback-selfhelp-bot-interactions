@@ -11,6 +11,6 @@ options:
     emoji: "<:patreonbg:802238015958548480>"
 
   - label: Patreon Testflight Invite
-    value: patreon/patreontestflight
+    value: patreon/ptestflight
     description: Help with Patreon Testflight
     emoji: "<:patreonbg:802238015958548480>"
