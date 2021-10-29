@@ -1,0 +1,16 @@
+content: Title
+embeds:
+- color: 0xF96854
+  title: "**Title**"
+  fields:
+  - name: "**Field 1**"
+    value: |
+      Field1.1
+
+  - name: "**Field 2**"
+    value: |
+      Field 2.1
+      
+  - name: "**Field 3**"
+    value: |
+      Field 3.1

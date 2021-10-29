@@ -11,9 +11,9 @@ embeds:
     value: |
       > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
     inline: 'true'
-  messageActionRows:
+messageActionRows:
   - rowtype: button
-  buttons:
+buttons:
   - label: 'Visual Explained Demonstration:'
     customid: BackupYTGuide
     style: LINK
