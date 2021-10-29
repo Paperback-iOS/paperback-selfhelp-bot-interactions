@@ -5,6 +5,11 @@ options:
     description: Disclaimer about the app
     emoji: "<:info:846438436655071302>"
 
+  - label: Links
+    value: others/links
+    description: Links related to Paperback
+    emoji: "<:info:846438436655071302>"
+
   - label: Patreon
     value: patreonhelp
     description: Help topics regarding Patreon
@@ -14,6 +19,11 @@ options:
     value: apphelp
     description: Help topics regarding the App
     emoji: "<:paperback:712782695716880423>"
+
+  - label: Testflight
+    value: testflighthelp
+    description: Help topics regarding Testflight
+    emoji: "<:Testflight:898711305924542504>"
 
   - label: AltStore
     value: altstorehelp

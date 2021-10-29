@@ -10,3 +10,7 @@ embeds:
   - name: "**Importing your backup to Paperback:**"
     value: |
       > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
+
+  - name: "**Links:**"
+    value: |
+      Youtube guide: https://youtu.be/5EPN9FORQ1g
