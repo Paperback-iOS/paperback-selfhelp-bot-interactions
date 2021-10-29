@@ -2,37 +2,27 @@ content: Tutorial for backup
 embeds:
 - color: 0x36D162
   title: "**How to backup and how to import to Paperback**"
-    fields:
-    - name: 'Backing your file:'
-      value: "> Settings <:next2:846467349724790816> Backup <:next2:846467349724790816>
-        New Backup  <:next2:846467349724790816> Save to Notes (or any other destination)"
-      inline: 'true'
-    - name: 'Importing your backup to Paperback:'
-      value: "> Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816>
-        Restore"
-      inline: 'true'
-    messageActionRows:
-    - rowtype: button
-      buttons:
-      - label: 'Visual Explained Demonstration:'
-        customid: BackupYTGuide
-        style: LINK
-        emoji: "<:play:846471522259304455>"
-        URL: https://youtu.be/5EPN9FORQ1g
-      - label: GIF
-        customid: BackupGIF
-        style: LINK
-        emoji: "<:play:846471522259304455>"
-        URL: https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif
-    channelname: "${dbsVars.CommandChannel.id}"
-    color: 36D162
-    title: How to backup and how to import to Paperback
-    url: https://www.youtube.com/watch?v=5EPN9FORQ1g
-    authorname: ''
-    authorimageurl: ''
-    authorlink: ''
-    description: ''
-    thumbnail: ''
-    image: ''
-    footer: ''
-    timestamp: 'false'
+  fields:
+  - name: 'Backing your file:'
+    value: |
+      "> Settings <:next2:846467349724790816> Backup <:next2:846467349724790816>
+      New Backup  <:next2:846467349724790816> Save to Notes (or any other destination)"
+    inline: 'true'
+  - name: 'Importing your backup to Paperback:'
+    value: |
+      "> Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816>
+      Restore"
+    inline: 'true'
+  messageActionRows:
+  - rowtype: button
+    buttons:
+    - label: 'Visual Explained Demonstration:'
+      customid: BackupYTGuide
+      style: LINK
+      emoji: "<:play:846471522259304455>"
+      URL: https://youtu.be/5EPN9FORQ1g
+    - label: GIF
+      customid: BackupGIF 
+      style: LINK
+      emoji: "<:play:846471522259304455>"
+      URL: https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif
