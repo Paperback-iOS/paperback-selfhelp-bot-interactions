@@ -5,13 +5,13 @@ embeds:
   fields:
   - name: 'Backing your file:'
     value: |
-      "> Settings <:next2:846467349724790816> Backup <:next2:846467349724790816>
-      New Backup  <:next2:846467349724790816> Save to Notes (or any other destination)"
+      > Settings <:next2:846467349724790816> Backup <:next2:846467349724790816>
+      New Backup  <:next2:846467349724790816> Save to Notes (or any other destination)
     inline: 'true'
   - name: 'Importing your backup to Paperback:'
     value: |
-      "> Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816>
-      Restore"
+      > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816>
+      Restore
     inline: 'true'
   messageActionRows:
   - rowtype: button
