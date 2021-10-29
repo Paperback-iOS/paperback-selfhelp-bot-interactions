@@ -1,0 +1,16 @@
+content: "Please choose a topic to receive help for"
+options: 
+  - label: Adding Repository
+    value: extensions/repository
+    description: Help with sources & repositories
+    emoji: "<:settings:846436799684411402>"
+
+  - label: Content Settings
+    value: extensions/contentsettings
+    description: Help with content settings
+    emoji: "<:settings:846436799684411402>"
+
+  - label: Language
+    value: extensions/language
+    description: Help with languages
+    emoji: "<:settings:846436799684411402>"

@@ -1,0 +1,20 @@
+content: Where did my language filter go?
+embeds:
+- color: 0xFF7673
+  title: "**Where did my language filter go?**"
+  fields:
+  - name: "**It's now handled by the source!**"
+    value: |
+      (only for some sources)
+
+      External Source -> Source -> Content Settings -> Language
+
+      If you don't see this, then your source doesn't support it.
+
+  - name: "**Oh but I still see other languages!**"
+    value: |
+      Fear not, that means you already fetched the chapters. Long press the manga thumbnail in library and `Refresh Stored Chapters`.
+      
+  - name: "**Migrating old IDs to new IDs**"
+    value: |
+      Refer to `!migrate` in <#741031213619478568>

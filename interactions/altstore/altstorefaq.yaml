@@ -19,6 +19,6 @@ embeds:
     value: |
       Re-click the button "I need help" and select Windows or Mac.
 
-  - name: "**Where do I find the IPAs?*"
+  - name: "**Where do I find the IPAs?**"
     value: |
       Check <#705063298231566366> (`#releases`).

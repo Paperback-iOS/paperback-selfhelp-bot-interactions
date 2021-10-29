@@ -1,0 +1,12 @@
+content: "General information about:"
+options:  
+  
+  - label: Disclaimer
+    value: others/disclaimer
+    description: Disclaimer about the app
+    emoji: "<:info:846438436655071302>"
+
+  - label: Links
+    value: others/links
+    description: Links related to Paperback
+    emoji: "<:info:846438436655071302>"
