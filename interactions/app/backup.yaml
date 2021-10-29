@@ -10,7 +10,3 @@ embeds:
   - name: "**Importing your backup to Paperback:**"
     value: |
       > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
-      
-  - name: "**Field 3**"
-    value: |
-      Field 3.1

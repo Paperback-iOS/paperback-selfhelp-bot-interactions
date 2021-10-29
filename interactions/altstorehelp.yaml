@@ -7,10 +7,16 @@ options:
   
   - label: Mac
     value: altstore/mac
-    description: Help topics regarding Mac
+    description: Help topics regarding Mac installation
     emoji: "<:Apple:893202544246001715>"
 
   - label: Windows
     value: altstore/windows
-    description: Help topics regarding Windows
+    description: Help topics regarding Windows installation
     emoji: "<:windows:893202544128569414>"
+
+  - label: AltStore FAQs
+    value: altstore/altstorefaq
+    description: Frequently Asked Questions about AltStore
+    emoji: "<:Altstore:890046218846208002>"
+  

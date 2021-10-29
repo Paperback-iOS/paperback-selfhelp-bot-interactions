@@ -1,0 +1,24 @@
+content: AltStore Frquently Asked Questions
+embeds:
+- color: 0x308489
+  title: "**AltStore FAQs**"
+  fields:
+  - name: "**Paperback is no longer available**"
+    value: |
+      Re-install Altserver
+
+  - name: "**AltStore is no longer available**"
+    value: |
+      Re-install Altserver
+      
+  - name: "**Wait the app expires after 7 days?**"
+    value: |
+      Yes, you need to refresh it before it expires. 
+
+  - name: "**How do I install AltStore**"
+    value: |
+      Re-click the button "I need help" and select Windows or Mac.
+
+  - name: "**Where do I find the IPAs?*"
+    value: |
+      Check <#705063298231566366> (`#releases`).

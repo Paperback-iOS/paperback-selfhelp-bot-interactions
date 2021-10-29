@@ -1,7 +1,7 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Disclaimer
-    value: disclaimer
+    value: others/disclaimer
     description: Disclaimer about the app
     emoji: "<:info:846438436655071302>"
 

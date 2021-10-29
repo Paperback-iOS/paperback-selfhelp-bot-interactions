@@ -7,10 +7,15 @@ options:
   
   - label: Adding Repository
     value: app/repository
-    description: Help with the repositories
+    description: Help with sources & repositories
     emoji: "<:settings:846436799684411402>"
 
   - label: Content Settings
     value: app/contentsettings
-    description: Help with the repositories
+    description: Help with content settings
+    emoji: "<:settings:846436799684411402>"
+
+  - label: Backups
+    value: app/backup
+    description: Help with backup
     emoji: "<:settings:846436799684411402>"

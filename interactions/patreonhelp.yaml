@@ -1,6 +1,16 @@
 content: "Please choose a topic to receive help for"
 options: 
-  - label: Patreon
+  - label: Patreon 
     value: patreon/newpatreon
     description: Help topics regarding Patreon
+    emoji: "<:patreonbg:802238015958548480>"
+
+  - label: Patreon Role
+    value: patreon/patreonrole
+    description: Help with Patreon Discord role
+    emoji: "<:patreonbg:802238015958548480>"
+
+  - label: Patreon Testflight Invite
+    value: patreon/patreontestflight
+    description: Help with Patreon Testflight
     emoji: "<:patreonbg:802238015958548480>"
