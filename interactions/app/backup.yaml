@@ -13,12 +13,12 @@ embeds:
     inline: true
 
 buttons:
-  - label: `Visual Explained Demonstration:`
+  - label: "Visual Explained Demonstration:"
     customId: ""
     style: LINK
     emoji: "<:play:846471522259304455>"
     url: "https://youtu.be/5EPN9FORQ1g"
-  - label: GIF
+  - label: "GIF"
     customId: ""
     style: LINK
     emoji: "<:play:846471522259304455>"
