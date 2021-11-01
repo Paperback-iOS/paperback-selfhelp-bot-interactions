@@ -11,14 +11,15 @@ embeds:
     value: |
       > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
     inline: true
+
 buttons:
-  - label: 'Visual Explained Demonstration:'
-    customId: BackupYTGuide
+  - label: `Visual Explained Demonstration:`
+    customId:
     style: LINK
     emoji: "<:play:846471522259304455>"
     url: https://youtu.be/5EPN9FORQ1g
   - label: GIF
-    customId: BackupGIF 
+    customId:
     style: LINK
     emoji: "<:play:846471522259304455>"
     url: https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif

@@ -1,0 +1,26 @@
+content: Public Reset FAQs
+embeds:
+- color: 0xF8E71C
+  fields:
+  - name: "**<:one:846461367757438978> What is this? I don't understand**"
+    value: |
+      We reset the Testflight to remove inactive/bots who have claimed a spot for new people to join. The existing install you have will be invalidated.
+    inline: true
+
+  - name: "**<:two:846461367841325088> Do I have to make a backup before updating?**"
+    value: |
+      YES, you need to make a backup otherwise you will lose your library.
+    inline: true
+
+  - name: "**<:three:846461368042782750> Will I lose access to the Paperback?**"
+    value: |
+      Yes, you will have to join back.
+    inline: true
+  - name: "**<:four:846461367951425576> Are patrons also affected by this reset?**"
+    value: |
+      This is mainly for public. Though some patrons might lose access because they joined public build first before patron. In that case simply check your email you will be given another code
+    inline: true 
+  - name: "**<:five:846461367993237524> What if I am not able to get in?**"
+    value: |
+      Slots are opened gradually when they get filled until there are no more slots to open. The first batch starts from 2k slots, if its full check back in a couple of hours
+    inline: true

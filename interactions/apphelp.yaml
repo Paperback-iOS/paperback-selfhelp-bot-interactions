@@ -14,4 +14,9 @@ options:
     value: extensionshelp
     description: Help with extensions
     emoji: "<:settings:846436799684411402>"
+  
+  - label: Notifications
+    value: app/notifications
+    description: Help with notifications
+    emoji: "<:settings:846436799684411402>"
 

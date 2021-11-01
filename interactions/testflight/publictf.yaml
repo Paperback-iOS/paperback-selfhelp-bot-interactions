@@ -1,16 +1,19 @@
-content: Title
+content: Public Testflight Tutorial
 embeds:
-- color: 0xF96854
-  title: "**Title**"
+- color: 0xC7F55A
+  title: "**How to get in the Public Testflight **"
   fields:
-  - name: "**Field 1**"
+  - name: "**Contact the right bot**"
     value: |
-      Field1.1
+      Send a message to <@796518312397111306> (`Paperback Bot#1108`)
 
-  - name: "**Field 2**"
+      Type inside the DMs: 
+      `pb invite email@here.com` 
+      > Replace `email@here.com` with your email.
+
+  - name: "**FAQs**"
     value: |
-      Field 2.1
-      
-  - name: "**Field 3**"
-    value: |
-      Field 3.1
+      Do not post your email on the server. Open your DMs for this server and DM <@796518312397111306>.
+
+      You only have one invite per 6 hours.
+      **If you made a typo, make another Discord account and try again**.

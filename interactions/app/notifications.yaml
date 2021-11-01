@@ -1,0 +1,10 @@
+content: App Notifications
+embeds:
+- color: 0x50E3C2
+  title: "**Why are notifications inconsistent?**"
+  description: |
+    We use 3rd party sites for content (aka Sources) so we can't detect when something is out consistently and rely on iOS to let the app run in the background periodically to see if something new is out.
+
+    This coupled with the fact that iOS only lets apps run in the background for 30s means there's not enough time to update a large library, the update fetching is optimized but can still miss some manga. iOS also determines when a background job is started so we have very little control over the frequency of the update checks, however, this should be improved as you use the app and iOS learns to prioritize the app's background jobs over others.
+
+    Sources supporting notifications have a "Notifications" tag in the app and the [website repositories list](https://paperback.moe/help/guides/adding-repos/#known-repositories)

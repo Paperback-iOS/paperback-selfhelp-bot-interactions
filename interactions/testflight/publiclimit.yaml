@@ -1,16 +1,9 @@
-content: Title
+content: Public Limit
 embeds:
-- color: 0xF96854
-  title: "**Title**"
-  fields:
-  - name: "**Field 1**"
-    value: |
-      Field1.1
+- color: 0xFFFFFF
+  title: "**Public TestFlight is currently at capacity**"
+  description: |
+    Public version of the app on TestFlight is currently at capacity, this is due to the 10k testers limit enforced by Apple.
+    The limits will reset when it will be announced and everyone will be pinged in <#673621150152261667>.
 
-  - name: "**Field 2**"
-    value: |
-      Field 2.1
-      
-  - name: "**Field 3**"
-    value: |
-      Field 3.1
+    Alternatively, you can join the Patreon to get access to the beta track of the app or sideload the app through AltStore.
