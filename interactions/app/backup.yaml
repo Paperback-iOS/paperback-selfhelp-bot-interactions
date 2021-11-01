@@ -15,12 +15,12 @@ messageActionRows:
   - rowtype: button
 buttons:
   - label: 'Visual Explained Demonstration:'
-    customid: BackupYTGuide
+    customId: BackupYTGuide
     style: LINK
     emoji: "<:play:846471522259304455>"
-    URL: https://youtu.be/5EPN9FORQ1g
+    url: https://youtu.be/5EPN9FORQ1g
   - label: GIF
-    customid: BackupGIF 
+    customId: BackupGIF 
     style: LINK
     emoji: "<:play:846471522259304455>"
-    URL: https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif
+    url: https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif

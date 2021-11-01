@@ -1,16 +1,12 @@
-content: Title
+content: Beta Expired
 embeds:
 - color: 0xF96854
-  title: "**Title**"
-  fields:
-  - name: "**Field 1**"
-    value: |
-      Field1.1
-
-  - name: "**Field 2**"
-    value: |
-      Field 2.1
-      
-  - name: "**Field 3**"
-    value: |
-      Field 3.1
+  title: "**Your Beta has expired?**"
+  description: |
+    "Seems like you muted <#673621150152261667>... 
+    TestFlight builds expires after 90 days. You need to join the Public TestFlight to be able to
+    update.
+    **What can I do to get Paperback?**
+    You will have to wait to join the next Public Testflight reset **or**
+    You can sideload the app through AltStore **or**
+    You can become a Patreon Supporter and get access with the bot."
