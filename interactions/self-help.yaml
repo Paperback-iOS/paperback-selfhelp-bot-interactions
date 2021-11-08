@@ -21,7 +21,7 @@ options:
     emoji: "<:paperback:712782695716880423>"
 
   - label: Extensions
-    value: extentionhelp
+    value: extentionshelp
     description: Help regarding Extentions
     emoji: "<:paperback:712782695716880423>"
 
