@@ -1,26 +1,31 @@
 content: "Please choose a topic to receive help for"
 options: 
-  - label: Information
-    value: othershelp
-    description: General information about the app
-    emoji: "<:info:846438436655071302>"
-
-  - label: Patreon
-    value: patreonhelp
-    description: Help topics regarding Patreon
-    emoji: "<:patreonbg:802238015958548480>"
-  
-  - label: App
-    value: apphelp
-    description: Help topics regarding the App
-    emoji: "<:paperback:712782695716880423>"
-
-  - label: Testflight
+  - label: Public Testflight
     value: testflighthelp
-    description: Help topics regarding Testflight
+    description: Help regarding the Public Testflight
     emoji: "<:Testflight:898711305924542504>"
 
+  - label: Patreon Testflight
+    value: patreonhelp
+    description: Help topics regarding the Patreon Testflight
+    emoji: "<:patreonbg:802238015958548480>"
+  
   - label: AltStore
     value: altstorehelp
-    description: Help topics regarding AltStore
+    description: Help regarding AltStore
     emoji: "<:Altstore:898711291160559616>"    
+
+  - label: App
+    value: apphelp
+    description: Help regarding the App
+    emoji: "<:paperback:712782695716880423>"
+
+  - label: Extensions
+    value: extentionhelp
+    description: Help regarding Extentions
+    emoji: "<:paperback:712782695716880423>"
+
+  - label: Information
+    value: othershelp
+    description: General information about Paperback
+    emoji: "<:info:846438436655071302>"

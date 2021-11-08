@@ -10,7 +10,7 @@ embeds:
       <#734871500200476743> (`#external-repos`)
       - Search for the repository you want to add
       - Press `Add to Paperback` and confirm
-    inline: 'true'
+    inline: true
 
   - name: "**<:chevon:846960436431945779> Method 2**"
     value: |
@@ -24,7 +24,7 @@ embeds:
       Never open the link. You messed up if it says:
       - `Unable to fetch source list`
       - `404, File not found`
-    inline: 'true'
+    inline: true
 
   - name: "**Adding sources**"
     value: |

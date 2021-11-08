@@ -5,6 +5,11 @@ options:
     description: Help with sources & repositories
     emoji: "<:settings:846436799684411402>"
 
+  - label: Adding a Tracker
+    value: extensions/tracker
+    description: Help with trackers
+    emoji: "<:settings:846436799684411402>"
+
   - label: Content Settings
     value: extensions/contentsettings
     description: Help with content settings

@@ -1,0 +1,15 @@
+content: Adding a tracker to the app
+embeds:
+- color: 0xB072FF
+  title: "**Tracking with Anilist**"
+  fields:
+  - name: "**Adding the Tracker**"
+    value: |
+      Go to your settings (<:settings:846436799684411402>) -> External Trackers -> Edit -> + and add:
+      https://paperback-ios.github.io/trackers-main/main
+
+      Then login to your account by opening Anilist
+
+  - name: "**Tracking**"
+    value: |
+      Open the manga page view, click the Flag icon, track the manga and set the status to reading.

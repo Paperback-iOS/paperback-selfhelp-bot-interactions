@@ -22,3 +22,8 @@ embeds:
       7. Click the AltServer icon in the Notification Area, click “Install AltStore”, then choose your phone.
       8. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
       9. Wait a few seconds, then AltStore will be installed to your phone.
+
+  - name: "**Links**"
+    value: |
+      <:download:846436748024348703> [Download AltStore](https://altstore.io/)
+      <:windows:893202544128569414> [Windows Installation Guide](https://youtu.be/2NBACQHgF-I)
