@@ -13,5 +13,9 @@ options:
   - label: Notifications
     value: app/notifications
     description: Help with notifications
-    emoji: "<:settings:846436799684411402>"
+    emoji: "🔔"
 
+  - label: Download
+    value: app/download
+    description: Help with download
+    emoji: "<:download:846436748024348703>"
