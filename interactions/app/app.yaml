@@ -1,4 +1,3 @@
-content: Support about the App
 embeds:
 - color: 0xECC8F9
   title: "**Paperback Support Instructions**"
@@ -16,6 +15,5 @@ embeds:
   - name: "**Asking in the right channel**"
     value: |
       <#702052855623843861> (`#support`) is for App Store/Testflight related problems
-      <#849495749741772850> (`#support-ipa`) is for IPA/AltStore related problems
       
 

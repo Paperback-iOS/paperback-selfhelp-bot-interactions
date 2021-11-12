@@ -1,4 +1,3 @@
-content: Adding an external repository
 embeds:
 - color: 0x6612B0
   title: "**Adding an external repository**"
@@ -32,3 +31,6 @@ embeds:
 
       We recommend you to get a maximum of 10 sources.
       If you see source filtered, go to <#741031213619478568> (`#bot-commands`) and type `!contentsettings`
+      **My source is not working**
+      Make sure your source is up to date, try to access it on Safari.
+      > If your source doesn't have an image. It is outdated.
