@@ -3,7 +3,7 @@ embeds:
   title: "**Welcome to Paperback!**"
   description: |
     We'd like to inform you about our community guidelines.
-    You agree to comply with the server rules and channel guidelines, regardless if you have read them in their entirety.
+    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety.*
   fields:
   - name: '**1. Follow Discord TOS and Guidelines at all times.**'
     value: |
