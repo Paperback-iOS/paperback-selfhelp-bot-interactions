@@ -1,1 +1,46 @@
-content: Oi! Dun be a bitch ass hoe now, aight?
+embeds:
+- color: 0x6DE194
+  title: "**Welcome to Paperback!**"
+  description: |
+    We'd like to inform you about our community guidelines.
+    You agree to comply with the server rules and channel guidelines, regardless if you have read them in their entirety.
+  fields:
+  - name: '**1. Follow Discord TOS and Guidelines at all times.**'
+    value: |
+      >>> [Discord TOS](https://discord.com/new/terms) & [Discord Guidelines](https://discord.com/new/guidelines)
+    inline: false
+  - name: '**2. Use common sense.**'
+    value: |
+      >>> Spam of any kind is NOT tolerated.
+      Don't be an asshole towards the others.
+      Don't advertise without asking.
+      Don't impersonate someone.
+    inline: true
+  - name: '**3. Keep it English and SFW**'
+    value: |
+      >>> Stick to English.
+      No sexually explicit representations in channels not marked as NSFW.
+      Usernames, Status, PFPs and Banners must be SFW.
+    inline: true
+  - name: '**4. Do not bypass the blacklisted word filter.**'
+    value: |
+      >>> Usage of any form of derogatory slang / terms / overly offensive language will result to a punishment.
+    inline: true
+  - name: '**5. Keep the conversations in their appropriate channels.**'
+    value: |
+      >>> Some channels have description / pinned rules, be sure to read them.
+      Our **Devs/Staff** DMs are not support channels.
+    inline: true
+  - name: '**6. Do not ping staff/roles/people without a valid reason.**'
+    value: |
+      >>> Do not ping **Devs** or **others** for support. 
+      We will help you when **we can**.
+    inline: true
+  - name: '**7. Follow all staff instructions immediately and at all times.**'
+    value: |
+      >>> If a Staff member asks you to stop doing something, do not try to argue.
+    inline: true
+  - name: '**8. You have read the following channels.**'
+    value: |
+      >>> <#811770100419657738> and <#809813745903599676>
+    inline: false
