@@ -1,1 +1,31 @@
-content: This thread will automatically archive after 24hrs of inactivity. This is a **__public__** thread. Do not **send** personal information.
+content: |-
+  This thread will automatically archive after 24hrs of inactivity. This is a **__public__** thread, **do not** send personal information.
+  
+  A reminder to **__not__** ping anyone for support. Support is provided by the community and no one is obligated to help you.
+  
+  Please go through the following help topics. You can resolve most common issues using the help topics and Discord search feature.
+options: 
+  - label: Testflight
+    value: Testflightselector
+    description: Help regarding the Testflight
+    emoji: "<:Testflight:898711305924542504>"
+
+  - label: AltStore
+    value: altstorehelp
+    description: Help regarding AltStore
+    emoji: "<:Altstore:898711291160559616>"    
+
+  - label: App
+    value: apphelp
+    description: Help regarding the App
+    emoji: "<:paperback:712782695716880423>"
+
+  - label: Extensions
+    value: extensionshelp
+    description: Help regarding Extentions
+    emoji: "<:paperback:712782695716880423>"
+
+  - label: Information
+    value: othershelp
+    description: General information about Paperback
+    emoji: "<:info:846438436655071302>"
