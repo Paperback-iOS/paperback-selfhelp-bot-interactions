@@ -5,22 +5,17 @@ content: |-
   
   Please go through the following help topics. You can resolve most common issues using the help topics and Discord search feature.
 options: 
-  - label: Testflight
+  - label: Download Paperback
     value: Testflightselector
-    description: Help regarding the Testflight
-    emoji: "<:Testflight:898711305924542504>"
-
-  - label: AltStore
-    value: altstorehelp
-    description: Help regarding AltStore
-    emoji: "<:Altstore:898711291160559616>"    
+    description: How to download Paperback
+    emoji: "<:download:846436748024348703>"
 
   - label: App
     value: apphelp
     description: Help regarding the App
     emoji: "<:paperback:712782695716880423>"
 
-  - label: Extensions
+  - label: Extensions/Sources
     value: extensionshelp
     description: Help regarding Extentions
     emoji: "<:paperback:712782695716880423>"
