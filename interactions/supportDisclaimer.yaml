@@ -17,5 +17,5 @@ embeds:
       url: https://cdn.discordapp.com/emojis/846438436655071302.png
 permissions:
   blacklist:
-    - "{{roles.supportBanned}}"
+    - "850921753475547167"
     - "763108662201286696"
