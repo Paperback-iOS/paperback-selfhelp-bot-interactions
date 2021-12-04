@@ -42,5 +42,5 @@ embeds:
     inline: true
   - name: '**8. You have read the following channels.**'
     value: |
-      >>> <#811770100419657738> and <#809813745903599676>
+      >>> <#673620355486842920> and <#809813745903599676>
     inline: false
