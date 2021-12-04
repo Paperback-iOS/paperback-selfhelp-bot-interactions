@@ -18,3 +18,4 @@ embeds:
 permissions:
   blacklist:
     - "{{roles.supportBanned}}"
+    - "763108662201286696"
