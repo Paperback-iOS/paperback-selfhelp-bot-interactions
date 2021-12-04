@@ -9,3 +9,8 @@ options:
     value: testflight/newpatreon
     description: Help regarding Patreon Testflight
     emoji: "<:patreonbg:802238015958548480>"
+
+  - label: AltStore
+    value: altstorehelp
+    description: Help regarding AltStore
+    emoji: "<:Altstore:898711291160559616>"    
