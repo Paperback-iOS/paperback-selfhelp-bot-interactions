@@ -11,12 +11,12 @@ embeds:
        ex: Mangadex (1.0.0)
        <:chevon:846960436431945779> What were you trying to read?
        ex: I was reincarnated as a manga app developer, chapter 1
-embeds:
-  - title: This is a **__public__** thread, **do not** send personal information.
-    color: 0xC23F3F
-    description: |-
-       A reminder to **__not__** ping anyone for support. Support is provided by the community.
 
+
+
+
+       This is a **__public__** thread, **do not** send personal information.
+       A reminder to **__not__** ping anyone for support. Support is provided by the community.
        Please go through the following help topics. You can resolve most common issues using the help topics.
 
 options: 
