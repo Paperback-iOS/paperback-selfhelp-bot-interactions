@@ -3,17 +3,22 @@ options:
   - label: Adding Repository
     value: extensions/repository
     description: Help with sources & repositories
-    emoji: "<:settings:846436799684411402>"
+    emoji: "<:chevon:846960436431945779>"
 
   - label: Adding a Tracker
     value: extensions/tracker
     description: Help with trackers
-    emoji: "<:settings:846436799684411402>"
+    emoji: "<:chevon:846960436431945779>"
 
   - label: Content Settings
     value: extensions/contentsettings
     description: Help with content settings
     emoji: "<:settings:846436799684411402>"
+
+  - label: Cloudflare Bypass
+    value: extensions/cloudflare
+    description: Help with Cloudflare Bypass
+    emoji: "<:cloudflare2:846436730948157480>"
 
   - label: Language
     value: extensions/language

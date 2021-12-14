@@ -1,0 +1,12 @@
+embeds:
+- color: 0xF5A623
+  title: "**Content Settings**"
+  fields:
+  - name: "**<:cloudflare2:846436730948157480> Cloudflare Bypass**"
+    value: |
+      There are two ways to bypass Cloudflare:
+
+      1. Go to Discover, scroll to the source you want to use and press the <:cloudflare2:846436730948157480> icon.
+
+      2. Go to Settings <:next2:846467349724790816> Sources <:next2:846467349724790816> The Source <:next2:846467349724790816> Cloudflare bypass
+      <:play:846471522259304455> GIF: [Click me](https://media.discordapp.net/attachments/794353299343933450/834284819663421460/Cloudflare.gif?width=312&height=675)

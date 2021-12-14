@@ -4,12 +4,12 @@ embeds:
   fields:
   - name: "**Paperback is no longer available**"
     value: |
-      Re-install Altserver
+      Reinstall Altstore, then refresh Paperback within Altstore
     inline: true
 
   - name: "**AltStore is no longer available**"
     value: |
-      Re-install Altserver
+      Reinstall Altstore via the same method you installed
     inline: true
 
   - name: "**Wait the app expires after 7 days?**"
