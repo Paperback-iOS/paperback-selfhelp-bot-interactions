@@ -16,6 +16,9 @@ embeds:
       A reminder to **__not__** ping anyone for support. Support is provided by the community.
       Please go through the following help topics. You can resolve most common issues using the help topics.
 
+      **Note**
+      If you cannot talk here because it says __read only__. **Update and Restart** your Discord app.
+
 options: 
   - label: Download Paperback
     value: Testflightselector
