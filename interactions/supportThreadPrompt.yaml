@@ -22,10 +22,11 @@ embeds:
       If you cannot talk here because it says **read only**. 
       **Update and Restart** your Discord app.
 
+      **If you've opened this by accident, let us know immediately.**
+
       Please go through the following help topics. You can resolve most common issues using the help topics.
     inline: true
 
-  footer: "If you've opened this by accident, let us know immediately."
 
 options: 
   - label: Download Paperback
