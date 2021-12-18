@@ -1,11 +1,12 @@
 embeds:
-  - title: Please make sure to **be more specific** about your request/question so we can help you a lot easier.
-    color: 0xECC8F9
-    description: |-
+- color: 0xECC8F9
+  title: "Please make sure to **be more specific** about your request/question so we can help you a lot easier."
+  description: |-
       This is a **__public__** thread, **do not** send personal information.
       A reminder to **__not__** ping anyone for support. Support is provided by the community.
-
-
+  fields:
+  - name: "**Respond to these questions**"
+    value: |
       If you claim something "isn't working", show (with screenshots) and give details like:
       <:chevon:846960436431945779> What is your iOS version?
       ex: iOS 14.5
@@ -15,14 +16,16 @@ embeds:
       ex: Mangadex (1.0.0)
       <:chevon:846960436431945779> What were you trying to read?
       ex: I was reincarnated as a manga app developer, chapter 1
-      
+    inline: true
 
-      **Note**
-      If you cannot talk here because it says **__read only__**. 
+  - name: "**Note**"
+    value: |
+      If you cannot talk here because it says **read only**. 
       **Update and Restart** your Discord app.
 
-      If you've opened this by accident, let us know immediately. 
+      **If you've opened this by accident, let us know immediately.** 
       Please go through the following help topics. You can resolve most common issues using the help topics.
+    inline: true
 
 options: 
   - label: Download Paperback
