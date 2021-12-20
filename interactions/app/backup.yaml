@@ -4,21 +4,25 @@ embeds:
   fields:
   - name: 'Backing your file:'
     value: |
-      > Settings <:next2:846467349724790816> Backup <:next2:846467349724790816> New Backup <:next2:846467349724790816> Save to Notes (or any other destination)
-    inline: true
-  - name: 'Importing your backup to Paperback:'
+      > Settings <:next2:846467349724790816> Backup <:next2:846467349724790816> New Backup  <:next2:846467349724790816> Save to Notes or Files
+    inline: false
+  - name: '📝 Importing using Notes'
     value: |
-      > Open your note <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
+      > Open your note <:next2:846467349724790816> Hold your backup <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
+    inline: true
+  - name: '📁 Importing using Files:'
+    value: |
+      > Open Files <:next2:846467349724790816> Hold your backup <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
     inline: true
 
 buttons:
-  - label: "Visual Explained Demonstration:"
+  - label: "Note"
     customId: 
     style: LINK
-    emoji: "<:play:846471522259304455>"
-    url: "https://youtu.be/5EPN9FORQ1g"
-  - label: "GIF"
+    emoji: "📝"
+    url: "https://cdn.discordapp.com/attachments/870161417993613362/922324966450536538/notemethod.gif"
+  - label: "Folder"
     customId: 
     style: LINK
-    emoji: "<:play:846471522259304455>"
-    url: "https://cdn.discordapp.com/attachments/794353299343933450/797581888507871242/tutorial.gif"
+    emoji: "📁"
+    url: "https://cdn.discordapp.com/attachments/870161417993613362/922330006825369680/backup-method.gif"
