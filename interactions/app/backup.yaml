@@ -2,7 +2,7 @@ embeds:
 - color: 0x36D162
   title: "**How to backup and how to import to Paperback**"
   fields:
-  - name: 'Backing your file:'
+  - name: 'Backing your data:'
     value: |
       > Settings <:next2:846467349724790816> Backup <:next2:846467349724790816> New Backup  <:next2:846467349724790816> Save to Notes or Files
     inline: false
@@ -16,12 +16,12 @@ embeds:
     inline: true
 
 buttons:
-  - label: "Note"
+  - label: "Notes"
     customId: 
     style: LINK
     emoji: "📝"
     url: "https://cdn.discordapp.com/attachments/870161417993613362/922324966450536538/notemethod.gif"
-  - label: "Folder"
+  - label: "Files"
     customId: 
     style: LINK
     emoji: "📁"
