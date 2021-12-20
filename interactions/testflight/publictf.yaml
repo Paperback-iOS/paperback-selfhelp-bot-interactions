@@ -2,18 +2,6 @@ embeds:
 - color: 0xC7F55A
   title: "**How to get in the Public Testflight **"
   fields:
-  - name: "**Contact the right bot**"
+  - name: "**Hold on a minute**"
     value: |
-      Send a message to <@796518312397111306> (`Paperback Bot#1108`)
-
-      Type inside the DMs: 
-      `pb invite email@here.com` 
-      > Replace `email@here.com` with your email.
-
-  - name: "**FAQs**"
-    value: |
-      Do not post your email on the server. Open your DMs for this server and DM <@796518312397111306>.
-
-      You only have one invite per 6 hours.
-      **If you made a typo, make another Discord account and try again**.
-      If the Public Testflight is full, check out <#673621150152261667> for future announcements.
+      We changed the way you get your Public Testflight invite. Check <#673621150152261667>. 
