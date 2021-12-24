@@ -3,7 +3,7 @@ options:
   - label: Public Testflight
     value: testflighthelp
     description: Help regarding the Public Testflight
-    emoji: "<:Testflight:898711305924542504>"
+    emoji: "<:Testflight:923735248020320266>"
   
   - label: Patreon Testflight
     value: testflight/newpatreon
@@ -13,4 +13,4 @@ options:
   - label: AltStore
     value: altstorehelp
     description: Help regarding AltStore
-    emoji: "<:Altstore:898711291160559616>"    
+    emoji: "<:Altstore:923735231234736138>"    

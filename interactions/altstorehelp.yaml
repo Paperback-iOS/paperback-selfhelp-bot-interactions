@@ -3,7 +3,7 @@ options:
   - label: AltStore
     value: altstore/altstore
     description: Help topics regarding Altstore
-    emoji: "<:Altstore:890046218846208002>"
+    emoji: "<:Altstore:923735231234736138>"
   
   - label: Mac
     value: altstore/mac
@@ -18,5 +18,5 @@ options:
   - label: AltStore FAQs
     value: altstore/altstorefaq
     description: Frequently Asked Questions about AltStore
-    emoji: "<:Altstore:890046218846208002>"
+    emoji: "<:Altstore:923735231234736138>"
   

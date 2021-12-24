@@ -3,19 +3,19 @@ options:
   - label: Public Testflight
     value: testflight/publictf
     description: Get the Public Testflight
-    emoji: "<:Testflight:898711305924542504>"
+    emoji: "<:Testflight:923735248020320266>"
 
   - label: Public Limit
     value: testflight/publiclimit
     description: Information about Testflight capacity
-    emoji: "<:Testflight:898711305924542504>"
+    emoji: "<:Testflight:923735248020320266>"
 
   - label: Paperback has expired
     value: testflight/expired
     description: Information about the app being expired
-    emoji: "<:Testflight:898711305924542504>"
+    emoji: "<:Testflight:923735248020320266>"
 
   - label: Public Testflight Reset
     value: testflight/reset
     description: Information about the Public Testflight reset
-    emoji: "<:Testflight:898711305924542504>"
+    emoji: "<:Testflight:923735248020320266>"
