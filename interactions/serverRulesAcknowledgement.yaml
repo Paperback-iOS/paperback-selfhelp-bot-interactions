@@ -3,44 +3,40 @@ embeds:
   title: "**Welcome to Paperback!**"
   description: |
     We'd like to inform you about our community guidelines.
-    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety.*
+    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
   fields:
-  - name: '**1. Follow Discord TOS and Guidelines at all times.**'
+  - name: '**1. You have read the following channels.**'
     value: |
-      >>> [Discord TOS](https://discord.com/new/terms) & [Discord Guidelines](https://discord.com/new/guidelines)
+      >>> <#673620355486842920> (`#rules`), <#916342743301759097> (`#welcome`) and <#809813745903599676> (`#source-status`).
     inline: false
-  - name: '**2. Use common sense.**'
+  - name: '**2. Use common sense, don't behave poorly.**'
     value: |
-      >>> Spam of any kind is NOT tolerated.
+      >>> Spam of any kind is not tolerated.
       Don't be an asshole towards the others.
       Don't advertise without asking.
-      Don't impersonate someone.
-    inline: true
+      Spoilable content needs to be marked with context.
+    inline: false
   - name: '**3. Keep it English and SFW**'
     value: |
       >>> Stick to English.
       No sexually explicit representations in channels not marked as NSFW.
       Usernames, Status, PFPs and Banners must be SFW.
-    inline: true
+    inline: false
   - name: '**4. Do not bypass the blacklisted word filter.**'
     value: |
       >>> Usage of any form of derogatory slang / terms / overly offensive language will result to a punishment.
-    inline: true
+    inline: false
   - name: '**5. Keep the conversations in their appropriate channels.**'
     value: |
       >>> Some channels have description / pinned rules, be sure to read them.
-      Our **Devs/Staff** DMs are not support channels.
-    inline: true
+      Asking or giving support in the wrong channel will get you punished.
+    inline: false
   - name: '**6. Do not ping staff/roles/people without a valid reason.**'
     value: |
-      >>> Do not ping **Devs** or **others** for support. 
-      We will help you when **we can**.
-    inline: true
+      >>> Do not ping **Staff** or **others** for support.
+      If someone ask you to not mention them, do not mention them.
+    inline: false
   - name: '**7. Follow all staff instructions immediately and at all times.**'
     value: |
       >>> If a Staff member asks you to stop doing something, do not try to argue.
-    inline: true
-  - name: '**8. You have read the following channels.**'
-    value: |
-      >>> <#673620355486842920> and <#809813745903599676>
     inline: false
