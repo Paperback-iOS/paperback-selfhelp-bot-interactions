@@ -24,7 +24,7 @@ embeds:
     inline: false
   - name: '**4. Do not bypass the blacklisted word filter.**'
     value: |
-      >>> Usage of any form of derogatory slang / terms / overly offensive language will result to a punishment.
+      >>> Usage of any form of derogatory slang / terms / overly offensive language will result in a punishment.
     inline: false
   - name: '**5. Keep the conversations in their appropriate channels.**'
     value: |
