@@ -3,7 +3,7 @@ embeds:
   - title: Disclaimer
     color: 0xC23F3F
     description: |-
-      Please make sure you've gone through the `I Need Help` options before choosing this option.
+      Please make sure you've gone through the `Troubleshoot Issues` options before choosing this option.
 
       This will open a **__public__** support thread where someone from the community will be able to help you. However, do not expect someone to come immediately.
 
