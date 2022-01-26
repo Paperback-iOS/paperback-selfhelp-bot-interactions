@@ -3,40 +3,8 @@ embeds:
   title: "**Welcome to Paperback!**"
   description: |
     "We'd like to inform you about our community guidelines.
-    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*"
-  fields:
-  - name: '**1. You have read the following channels.**'
-    value: |
-      >>> <#673620355486842920> (`#rules`), <#916342743301759097> (`#welcome`) and <#809813745903599676> (`#source-status`).
-    inline: false
-  - name: '**2. Use common sense, do not behave poorly.**'
-    value: |
-      >>> Spam of any kind is not tolerated.
-      Don't be an asshole towards the others.
-      Don't advertise without asking.
-      Spoilable content needs to be marked with context.
-    inline: false
-  - name: '**3. Keep it English and SFW**'
-    value: |
-      >>> Stick to English.
-      No sexually explicit representations in channels not marked as NSFW.
-      Usernames, Status, PFPs and Banners must be SFW.
-    inline: false
-  - name: '**4. Do not bypass the blacklisted word filter.**'
-    value: |
-      >>> Usage of any form of derogatory slang / terms / overly offensive language will result in a punishment.
-    inline: false
-  - name: '**5. Keep the conversations in their appropriate channels.**'
-    value: |
-      >>> Some channels have description / pinned rules, be sure to read them.
-      Asking or giving support in the wrong channel will get you punished.
-    inline: false
-  - name: '**6. Do not ping staff/roles/people without a valid reason.**'
-    value: |
-      >>> Do not ping **Staff** or **others** for support.
-      If someone ask you to not mention them, do not mention them.
-    inline: false
-  - name: '**7. Follow all staff instructions immediately and at all times.**'
-    value: |
-      >>> If a Staff member asks you to stop doing something, do not try to argue.
-    inline: false
+    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
+    
+    
+    **You will only ask for support in our <#916345093139615744> channel.**"
+
