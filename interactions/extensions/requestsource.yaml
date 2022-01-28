@@ -6,14 +6,10 @@ embeds:
       Do you like a particular website which is currently not supported by Paperback? 
       You can submit a source request for it. 
 
+      Request it [here].(https://github.com/Paperback-iOS/extensions-sources/issues) 
+      https://github.com/Paperback-iOS/extensions-sources/issues
       > Please make sure the source does not exist nor was already requested before submitting a new issue.
-
-  - name: "**Extensions repositories**"
-    value: |
-      * [Extensions Foreign](https://github.com/Paperback-iOS/extensions-foreign/issues) for non English websites
-      * [H Extensions](https://github.com/Paperback-iOS/h-extensions/issues) for +18 specific websites
-      * [Extensions Promises](https://github.com/Paperback-iOS/extensions-promises/issues) for other websites
-
+      
   - name: "**Contribute**"
     value: |
       Would you like to make this extension a reality? You can contribute to its development! Check our [source development](https://paperback.moe/help/contribution/extension-development/) guide to get started. If you need help or have any questions, feel free to use <#705193595715452958> channel.
