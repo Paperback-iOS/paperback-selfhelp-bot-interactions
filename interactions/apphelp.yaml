@@ -9,6 +9,11 @@ options:
     value: app/backup
     description: Help with backup
     emoji: "<:settings:846436799684411402>"
+
+  - label: Migration
+    value: app/migration
+    description: Help with migration
+    emoji: "<:settings:846436799684411402>"
   
   - label: Notifications
     value: app/notifications
