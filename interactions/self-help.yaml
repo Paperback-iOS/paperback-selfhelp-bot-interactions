@@ -1,7 +1,7 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Download Paperback
-    value: Testflightselector
+    value: download/Testflightselector
     description: How to download Paperback
     emoji: "<:download:846436748024348703>"
 
