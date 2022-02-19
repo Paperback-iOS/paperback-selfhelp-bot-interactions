@@ -30,22 +30,22 @@ embeds:
       url: https://cdn.discordapp.com/attachments/886432841536266241/922339528075796480/divider.gif
 
 options: 
+  - label: Getting started
+    value: others/othersmenu
+    description: Getting started with Paperback
+    emoji: "<:info:846438436655071302>"
+
   - label: Download Paperback
-    value: Testflightselector
+    value: download/Testflightmenu
     description: How to download Paperback
     emoji: "<:download:846436748024348703>"
 
   - label: App
-    value: apphelp
+    value: app/appmenu
     description: Help regarding the App
     emoji: "<:paperback:712782695716880423>"
 
   - label: Extensions/Sources
-    value: extensionshelp
+    value: extensions/extensionsmenu
     description: Help regarding Extentions
     emoji: "<:paperback:712782695716880423>"
-
-  - label: Information
-    value: othershelp
-    description: General information about Paperback
-    emoji: "<:info:846438436655071302>"
