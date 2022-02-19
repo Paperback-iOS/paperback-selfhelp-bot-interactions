@@ -1,7 +1,7 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Public Testflight
-    value: download/testflight/publictf
+    value: testflight/publictf
     description: Get the Public Testflight
     emoji: "<:Testflight:923735248020320266>"
 
