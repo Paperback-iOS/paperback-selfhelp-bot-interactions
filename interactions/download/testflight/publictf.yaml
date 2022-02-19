@@ -4,11 +4,15 @@ embeds:
   fields:
   - name: "**Hold on a minute**"
     value: |
-     We changed the way you get your Public Testflight invite.
+     ~~We changed the way you get your Public Testflight invite.~~
 
-     You'll need to fill up a Google Form. 
-     https://invite.paperback.moe/
+     ~~You'll need to fill up a Google Form.~~
+     ~~https://invite.paperback.moe/~~
 
-     Invites will be sent out a couple of hours after your response is recorded to not strain the ratelimits.
+     **Public Testflight is currently full!**
+
+
+
+     
 
     

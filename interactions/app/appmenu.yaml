@@ -1,10 +1,5 @@
 content: "Please choose a topic to receive help for"
 options: 
-  - label: Additional Support
-    value: app/app
-    description: Additional required information to receive support
-    emoji: "<:BlueHint:782136077069713428>"
-  
   - label: Backups
     value: app/backup
     description: Help with backup

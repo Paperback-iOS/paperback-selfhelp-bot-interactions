@@ -27,10 +27,10 @@ embeds:
 
   - name: "**Adding sources**"
     value: |
-      __Sources are inside the external repository.__
-
+      __Sources are inside the external repository.__ You need to open the repository in order to install your sources.
       We recommend you to get a maximum of 10 sources.
-      If you see source filtered, go to <#741031213619478568> (`#bot-commands`) and type `!contentsettings`
+
+      If you see source filtered, type `!contentsettings` in your thread.
       **My source is not working**
       Make sure your source is up to date, try to access it on Safari.
       > If your source doesn't have an image. It is outdated.
