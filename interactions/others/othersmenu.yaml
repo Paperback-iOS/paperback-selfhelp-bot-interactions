@@ -1,7 +1,7 @@
 content: "General information about:"
 options:  
   
-  - label: gettingstarted
+  - label: Get started with Paperback
     value: others/gettingstarted
     description: Must read before anything else!
     emoji: "<:info:846438436655071302>"
