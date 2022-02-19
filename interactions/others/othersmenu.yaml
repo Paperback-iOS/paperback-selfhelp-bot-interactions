@@ -1,6 +1,11 @@
 content: "General information about:"
 options:  
   
+  - label: gettingstarted
+    value: others/gettingstarted
+    description: Must read before anything else!
+    emoji: "<:info:846438436655071302>"
+
   - label: Disclaimer
     value: others/disclaimer
     description: Disclaimer about the app
