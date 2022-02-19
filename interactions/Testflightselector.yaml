@@ -11,6 +11,6 @@ options:
     emoji: "<:patreonbg:802238015958548480>"
 
   - label: AltStore
-    value: altstorehelp
+    value: dropdown/altstorehelp
     description: Help regarding AltStore
     emoji: "<:Altstore:923735231234736138>"    
