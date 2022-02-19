@@ -6,7 +6,7 @@ options:
     emoji: "<:Testflight:923735248020320266>"
   
   - label: Patreon Testflight
-    value: testflight/newpatreon
+    value: download/testflight/newpatreon
     description: Help regarding Patreon Testflight
     emoji: "<:patreonbg:802238015958548480>"
 

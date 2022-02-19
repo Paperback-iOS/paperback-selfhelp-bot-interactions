@@ -1,22 +1,22 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: AltStore
-    value: altstore/altstore
+    value: download/altstore/altstore
     description: Help topics regarding Altstore
     emoji: "<:Altstore:923735231234736138>"
   
   - label: Mac
-    value: altstore/mac
+    value: download/altstore/mac
     description: Help topics regarding Mac installation
     emoji: "<:Apple:893202544246001715>"
 
   - label: Windows
-    value: altstore/windows
+    value: download/altstore/windows
     description: Help topics regarding Windows installation
     emoji: "<:windows:893202544128569414>"
 
   - label: AltStore FAQs
-    value: altstore/altstorefaq
+    value: download/altstore/altstorefaq
     description: Frequently Asked Questions about AltStore
     emoji: "<:Altstore:923735231234736138>"
   
