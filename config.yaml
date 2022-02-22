@@ -11,10 +11,10 @@ modules:
     
     interactions:
       # The initial message displayed when the /verification is run.
-      initial_message: "verification/initial_message"
+      initial_message: "self-help"
       
       # The interaction to display when the user presses the verification button.
-      rules_acknowledgement: "verification/rules_acknowledgement"
+      rules_acknowledgement: "serverRulesAcknowledgement"
     
     # Verification button settings
     button:
