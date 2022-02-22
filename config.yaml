@@ -20,3 +20,23 @@ modules:
     button:
       title: "Verify"
       type: "PRIMARY"
+      
+      
+  supportThreads:
+    permission: "{{ ROLES.MODERATOR }}"
+    
+    configs:
+      main:
+        displayInteractionPath: "verification/arte_test"
+        
+        supportThreadConfirmationInteractionPath: "verification/arte_test"
+        supportThreadDisplayInteractionPath: "verification/arte_test"
+        supportThreadChannel: "{{ CHANNELS.SUPPORT }}"
+        supportThreadButton:
+          title: "HELP"
+          type: "PRIMARY"
+          
+        troubleshootInteractionPath: "verification/arte_test"
+        troubleshootButton:
+          title: "TROUBLESHOOT"
+          type: "SUCCESS"
