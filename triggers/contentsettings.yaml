@@ -1,0 +1,2 @@
+match: "(sources|content)settings"
+interaction: extensions/contentsettings
