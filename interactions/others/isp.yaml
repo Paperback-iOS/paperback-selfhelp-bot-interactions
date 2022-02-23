@@ -1,0 +1,9 @@
+embeds:
+- color: 0xFFFFFF
+  fields:
+  - name: "**Your ISP may be at fault here**"
+    value: |
+      It may be blocking the website you are trying to access. 
+      Try using a VPN to connect to the website.
+
+      Ex: Verizon blocks Mangadex

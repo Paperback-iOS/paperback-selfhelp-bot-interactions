@@ -1,0 +1,12 @@
+embeds:
+- color: 0x3BFFC1
+  fields:
+  - name: "**Skipping same chapter**"
+    value: |
+      You need to enable it first.
+
+      Go to Mangadex > Content Settings > Skip Same Chapter > Then click `Save` on the top right of the app.
+
+      Then hold the manga in library > Refresh Stored chapters
+
+      Didn't work? Try again.

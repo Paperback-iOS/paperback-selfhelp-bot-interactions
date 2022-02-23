@@ -13,3 +13,21 @@ embeds:
   - name: "**Field 3**"
     value: |
       Field 3.1
+
+
+  image: 
+    url: ""
+  thumbnail:
+    url: ""
+
+buttons:
+  - label: ""
+    customId: 
+    style: LINK
+    emoji: "📝"
+    url: ""
+  - label: ""
+    customId: 
+    style: LINK
+    emoji: ""
+    url: ""

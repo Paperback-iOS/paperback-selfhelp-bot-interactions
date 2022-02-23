@@ -1,12 +1,27 @@
 embeds:
-- color: 0xC23F3F
+- color: 0x10D1C3
   fields:
-  - name: "**Disclaimer**"
+  - name: "**Will Paperback ever support Android?**"
     value: |
-      **Paperback is not hosting any copyrighted content.** 
-      We are not affiliated with or responsible for any source.
+      There is no Android version of Paperback yet.
+      You can use [Tachiyomi](https://tachiyomi.org/help/guides/getting-started/)  instead.
 
-      Source are community made.
+      ETA for Paperback on [Android](https://twitter.com/akixawa/status/1372709537740943367?s=20).
 
-      **We are not responsible if it is / has;**
-      slow, down, missing chapters, bad image quality, another language or another manga.
+      If you're looking for the converter
+      Paperback to Tachiyomi [converter](https://deploy-preview-98--paperbackios.netlify.app/tools/backup-converter/)
+
+    thumbnail:
+      url: https://media.discordapp.net/attachments/889313442526269520/889368117640298496/Android.png?width=568&height=676
+
+buttons:
+  - label: "Tachiyomi"
+    customId: 
+    style: LINK
+    emoji: "<:tachi:889374186978566155>"
+    url: "https://tachiyomi.org/help/guides/getting-started/"
+  - label: "ETA"
+    customId: 
+    style: LINK
+    emoji: "⏲️"
+    url: "https://twitter.com/akixawa/status/1372709537740943367?s=20"

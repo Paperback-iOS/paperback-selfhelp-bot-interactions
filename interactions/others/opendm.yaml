@@ -1,0 +1,11 @@
+embeds:
+- color: 0xFFFFFF
+  fields:
+  - name: "**Open your DMs for this server**"
+    value: |
+      There can be a few reasons why you are unable to send a direct message to someone. Here are the possible reasons below:
+
+      • You've disabled direct messages on your shared server.
+      • You have not completed the required membership screening steps in your shared server.
+
+      https://support.discord.com/hc/en-us/articles/360060145013
