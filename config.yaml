@@ -28,7 +28,7 @@ modules:
     
     configs:
       main:
-        displayInteractionPath: "supportThreadPrompt"
+        displayInteractionPath: "support"
         
         supportThreadConfirmationInteractionPath: "supportDisclaimer"
         supportThreadDisplayInteractionPath: "supportThreadPrompt"
