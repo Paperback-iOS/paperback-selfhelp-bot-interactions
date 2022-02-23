@@ -27,16 +27,16 @@ modules:
     
     configs:
       main:
-        displayInteractionPath: "verification/serverRulesAcknowledgement"
+        displayInteractionPath: "serverRulesAcknowledgement"
         
-        supportThreadConfirmationInteractionPath: "verification/serverRulesAcknowledgement"
-        supportThreadDisplayInteractionPath: "verification/serverRulesAcknowledgement"
+        supportThreadConfirmationInteractionPath: "serverRulesAcknowledgement"
+        supportThreadDisplayInteractionPath: "serverRulesAcknowledgement"
         supportThreadChannel: "{{ CHANNELS.SUPPORT }}"
         supportThreadButton:
           title: "HELP"
           type: "PRIMARY"
           
-        troubleshootInteractionPath: "verification/serverRulesAcknowledgement"
+        troubleshootInteractionPath: "serverRulesAcknowledgement"
         troubleshootButton:
           title: "TROUBLESHOOT"
           type: "SUCCESS"
