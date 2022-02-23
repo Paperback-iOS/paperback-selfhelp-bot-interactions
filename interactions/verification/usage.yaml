@@ -1,0 +1,12 @@
+embeds:
+  - title: "**Channels usage**"
+    color: 0x36393E
+    description: |-
+      <#673621150152261667> (`#announcements`) - Important announcements for Paperback related news.
+      <#916342743301759097> (`#welcome`) - Introduction to Paperback, **read first to get help**.
+      <#916345093139615744> (`#support`) - Support channel, user make their own support ticket in #welcome.
+      <#705063298231566366> (`#releases`) - Update logs for Paperback
+      <#734871500200476743> (`#external-repos`) - Channel to get more sources for Paperback
+      <#809813745903599676> (`#source-status`) - Status for sources 
+
+

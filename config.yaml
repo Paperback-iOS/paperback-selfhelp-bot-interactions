@@ -12,14 +12,14 @@ modules:
     
     interactions:
       # The initial message displayed when the /verification is run.
-      initialMessageInteractionPath: "self-help"
+      initialMessageInteractionPath: "verification"
       
       # The interaction to display when the user presses the verification button.
       rulesAcknowledgementInteractionPath: "serverRulesAcknowledgement"
     
     # Verification button settings
     button:
-      title: "Verify"
+      title: "Do you accept"
       type: "PRIMARY"
       
       
@@ -37,7 +37,7 @@ modules:
           title: "HELP"
           type: "PRIMARY"
           
-        troubleshootInteractionPath: "supportThreadPrompt"
+        troubleshootInteractionPath: "self-help"
         troubleshootButton:
           title: "TROUBLESHOOT"
           type: "SUCCESS"

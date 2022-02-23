@@ -1,16 +1,29 @@
 embeds:
-  - title: Disclaimer
+  - title: Disclaimer and how to get support
     color: 0xC23F3F
-    description: |-
-      Please make sure you've gone through the `Troubleshoot Issues` options before choosing this option.
 
+  fields:
+  - name: "**Disclaimer**"
+    value: |
       This will open a **__public__** support thread under <#916345093139615744>. Do not expect someone to come immediately.
-
       **PLEASE NOTE:**
       Abuse of this function will result in a punishment. 
 
+    inline: false
+
+  - name: "**How to get support**"
+    value: |
+      Please make sure you've gone through the `Troubleshoot` options before choosing this option.
+      If you cannot find a solution:
+      Use the **Help** button, you will then make a support thread.
+      Do not hijack/steal someone else thread. 
+    inline: false
+
+    image: 
+      url: "https://cdn.discordapp.com/attachments/870161417993613362/922919915227340830/Capture.PNG"
     thumbnail:
       url: https://cdn.discordapp.com/emojis/846438436655071302.png
+      
 permissions:
   blacklist:
     - "850921753475547167"

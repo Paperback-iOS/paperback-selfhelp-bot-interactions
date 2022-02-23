@@ -1,4 +1,4 @@
-content: "Please choose a topic to receive help for"
+content: "Bellow, you will find guides to troubleshoot stuff by yourself"
 options: 
   - label: Getting started
     value: others/othersmenu
