@@ -2,19 +2,19 @@
 modules:
   # Verification Module
   verification:
-    welcome_channel: "{{ CHANNELS.WELCOME }}"
+    welcomeChannel: "{{ CHANNELS.WELCOME }}"
   
     permission: "{{ ROLES.MODERATOR }}"
   
     # The role to add to users when they successfully accept the rules.
-    verified_role: "{{ ROLES.VERIFIED }}"
+    verifiedRole: "{{ ROLES.VERIFIED }}"
     
     interactions:
       # The initial message displayed when the /verification is run.
-      initial_message: "self-help"
+      initialMessageInteractionPath: "self-help"
       
       # The interaction to display when the user presses the verification button.
-      rules_acknowledgement: "serverRulesAcknowledgement"
+      rulesAcknowledgementInteractionPath: "serverRulesAcknowledgement"
     
     # Verification button settings
     button:
