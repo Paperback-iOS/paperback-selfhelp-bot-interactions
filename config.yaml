@@ -2,7 +2,8 @@
 modules:
   # Verification Module
   verification:
-    welcomeChannel: "{{ CHANNELS.WELCOME }}"
+    # Disabled because this is aids
+    # welcomeChannel: "{{ CHANNELS.WELCOME }}"
   
     permission: "{{ ROLES.MODERATOR }}"
   
