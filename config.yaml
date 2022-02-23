@@ -29,7 +29,7 @@ modules:
       main:
         displayInteractionPath: "supportThreadPrompt"
         
-        supportThreadConfirmationInteractionPath: "supportThreadPrompt"
+        supportThreadConfirmationInteractionPath: "supportDisclaimer"
         supportThreadDisplayInteractionPath: "supportThreadPrompt"
         supportThreadChannel: "{{ CHANNELS.SUPPORT }}"
         supportThreadButton:
