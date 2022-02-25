@@ -19,7 +19,7 @@ modules:
     
     # Verification button settings
     button:
-      title: "Do you accept"
+      title: "I understood the rules and I will follow them"
       type: "PRIMARY"
       
       
@@ -34,10 +34,10 @@ modules:
         supportThreadDisplayInteractionPath: "supportThreadPrompt"
         supportThreadChannel: "{{ CHANNELS.SUPPORT }}"
         supportThreadButton:
-          title: "HELP"
+          title: "Help"
           type: "PRIMARY"
           
         troubleshootInteractionPath: "self-help"
         troubleshootButton:
-          title: "TROUBLESHOOT"
+          title: "Troubleshoot"
           type: "SUCCESS"
