@@ -69,7 +69,7 @@ modules:
       initialMessageInteractionPath: "verification"
       
       # The interaction to display when the user presses the verification button.
-      rulesAcknowledgementInteractionPath: "rules_acknowledgement"
+      rulesAcknowledgementInteractionPath: "serverRulesAcknowledgement"
     
     # Verification button settings
     button:
