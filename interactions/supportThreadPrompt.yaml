@@ -15,19 +15,9 @@ embeds:
       ex: Mangadex (1.0.0)
       <:chevon:846960436431945779> What were you trying to read?
       ex: I was reincarnated as a manga app developer, chapter 1
-    inline: true
+    inline: false
 
-  - name: "**Note:**"
-    value: |
-      If you cannot talk here because it says **read only**. 
-      **Update and Restart** your Discord app.
-
-      **If you've opened this by accident, let us know immediately.**
-
-      Please go through the following help topics. You can resolve most common issues using the help topics.
-    inline: true
-  image:
-      url: https://cdn.discordapp.com/attachments/886432841536266241/922339528075796480/divider.gif
+  footer: Please go through the following help topics. You can resolve most common issues using the help topics.
 
 options: 
   - label: Getting started

@@ -14,8 +14,7 @@ embeds:
 
   - name: "**2. Use common sense, don't behave poorly.**"
     value: |
-      >>> Spam of any kind is not tolerated.
-      Don't be an asshole towards the others.
+      >>> Don't be an asshole towards the others.
       Don't advertise without asking.
       Spoilable content needs to be marked with context.
     inline: true
@@ -29,16 +28,16 @@ embeds:
 
   - name: "**4. Do not bypass the blacklisted word filter.**"
     value: |
-      >>> Usage of any form of derogatory slang / terms / overly offensive language will result to a punishment.
+      >>> Usage of any form of derogatory slang/terms/overly offensive language will result to a punishment.
     inline: true
 
   - name: "**5. Keep the conversations in their appropriate channels.**"
     value: |
-      >>> Some channels have description / pinned rules, be sure to read them.
+      >>> Some channels have description/pinned rules, be sure to read them.
       Asking or giving support in the wrong channel will get you punished.
     inline: true
 
-  - name: "**6. Do not ping staff/roles/people without a valid reason.**"
+  - name: "**6. Do not ping/DM staff/people without a valid reason.**"
     value: |
       >>> Do not ping **Staff** or **others** for support.
       If someone ask you to not mention them, do not mention them.
