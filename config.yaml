@@ -63,13 +63,13 @@ modules:
     
     interactions:
       # You can use this to set a different greeting message. If this is not set then initialMessage is used.
-      greetingsMessageInteractionPath: "verification/initial_message"
+      greetingsMessageInteractionPath: "verification"
       
       # The initial message displayed when the /verification is run.
-      initialMessageInteractionPath: "verification/initial_message"
+      initialMessageInteractionPath: "verification"
       
       # The interaction to display when the user presses the verification button.
-      rulesAcknowledgementInteractionPath: "verification/rules_acknowledgement"
+      rulesAcknowledgementInteractionPath: "rules_acknowledgement"
     
     # Verification button settings
     button:
