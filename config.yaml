@@ -1,21 +1,75 @@
+# override permissions for any command
+permissions:
+#   # Its possible to set permissions for internal commands too.
+#   role:
+#     whitelist:
+#       - "${ ROLES.MODERATOR }"
+#
+#   # Its possible to set permissions for custom commands
+#   echo:
+#     whitelist:
+#       - "${ ROLES.MODERATOR }"
+#
+#   # Its possible to set permissions for custom commands in folders
+#   characters/amber:
+#     whitelist:
+#       - "${ ROLES.MODERATOR }"
+
 # Only delete stuff after this line if you know what you're doing.
 modules:
+  modMail:
+    enabled: true
+    
+    # This restricts who can open a thread. If this is not set, anyone can open a thread by DMing the bot
+    permission: "${ ROLES.VERIFIED }"
+    
+    ignoreRole: "${ ROLES.MODMAIL_IGNORED }"
+    
+    channels:
+      logging: "${ CHANNELS.MODMAIL.LOGGING }"
+      threads: "${ CHANNELS.MODMAIL.THREADS }"
+
+  # Role kits
+  roleKits:
+    enabled: false
+
+    # This restricts who can use the /rolekits command. if its not set, anyone with the MANAGE_ROLES permission can use the command.
+    permission: "${ ROLES.MODERATOR }"
+   
+    # The kits that are available
+    kits:
+      Template:
+        name: 
+        permissions:
+          blacklist:
+            - "" 
+        addRoles:
+          - "" 
+        removeRoles:
+          - "${ ROLES.MODERATOR }"
+          
   # Verification Module
   verification:
-    # Disabled because this is aids
-    # welcomeChannel: "{{ CHANNELS.WELCOME }}"
-  
-    permission: "{{ ROLES.MODERATOR }}"
+    enabled: true
+    
+    # This restricts who can use the /verification command. if its not set, anyone can use the command.
+    permission: "${  ROLES.MODERATOR  }"
+    
+    # This sets the channel to use for sending the initialMessage into. If this is not set then the bot will not automatically send the welcome message.
+    welcomeChannel: "${  CHANNELS.WELCOME  }"
   
     # The role to add to users when they successfully accept the rules.
-    verifiedRole: "{{ ROLES.VERIFIED }}"
+    verifiedRole: "${  ROLES.VERIFIED  }"
     
     interactions:
+      # You can use this to set a different greeting message. If this is not set then initialMessage is used.
+      greetingsMessageInteractionPath: "verification/initial_message"
+      
       # The initial message displayed when the /verification is run.
-      initialMessageInteractionPath: "verification"
+      initialMessageInteractionPath: "verification/initial_message"
       
       # The interaction to display when the user presses the verification button.
-      rulesAcknowledgementInteractionPath: "serverRulesAcknowledgement"
+      rulesAcknowledgementInteractionPath: "verification/rules_acknowledgement"
     
     # Verification button settings
     button:
@@ -24,20 +78,37 @@ modules:
       
       
   supportThreads:
-    permission: "{{ ROLES.MODERATOR }}"
+    enabled: true
+    
+    # This restricts who can use the /supportthreads command. if its not set, anyone with MANAGE_THREADS permission can use the command.
+    permission: "${  ROLES.MODERATOR  }"
     
     configs:
       main:
+        # The interaction to display when the command is run.
         displayInteractionPath: "support"
         
+        # The interaction to display when someone interacts with the supportThreadButton
         supportThreadConfirmationInteractionPath: "supportDisclaimer"
+        
+        # The interaction to send in the opened thread
         supportThreadDisplayInteractionPath: "supportThreadPrompt"
-        supportThreadChannel: "{{ CHANNELS.SUPPORT }}"
+        
+        # The channel to open the thread in
+        supportThreadChannel: "${  CHANNELS.SUPPORT  }"
+        
+        # Configure the button to open a support thread, if this is not set then a button with the label "HELP" is used
         supportThreadButton:
           title: "Help"
           type: "PRIMARY"
           
+        # Interaction to display when the user clicks the troubleshootButton
         troubleshootInteractionPath: "self-help"
+        
+        # An optional button that displays an interaction upon clicking. if this is not set, no button is displayed
         troubleshootButton:
           title: "Troubleshoot"
           type: "SUCCESS"
+
+
+
