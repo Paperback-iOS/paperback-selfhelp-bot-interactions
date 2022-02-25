@@ -22,7 +22,7 @@ embeds:
 
   - name: "**3. Keep it English and SFW**"
     value: |
-      >>> Stick to English.
+      Stick to English.
       No sexually explicit representations in channels not marked as NSFW.
       Usernames, Status, PFPs and Banners must be SFW.
     inline: true
