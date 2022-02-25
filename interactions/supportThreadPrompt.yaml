@@ -16,8 +16,9 @@ embeds:
       <:chevon:846960436431945779> What were you trying to read?
       ex: I was reincarnated as a manga app developer, chapter 1
     inline: false
+  footer:
+    text: "Please go through the following help topics. You can resolve most common issues using the help topics."
 
-  footer: Please go through the following help topics. You can resolve most common issues using the help topics.
 
 options: 
   - label: Getting started
