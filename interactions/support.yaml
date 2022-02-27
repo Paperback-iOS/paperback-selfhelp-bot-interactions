@@ -7,7 +7,8 @@ embeds:
   fields:
   - name: "​"
     value: |
-      <:Greentick:897344399611166761> Use common sense when asking for help and provide detailed explanations.
+      <:Greentick:897344399611166761> Use common sense when asking for help.
+      <:Greentick:897344399611166761> Provide detailed explanations for your issue.
       <:Greentick:897344399611166761> Read <#809813745903599676> for source problems.
       <:Greentick:897344399611166761> Use the Help button to get common troubleshooting topics.
       
