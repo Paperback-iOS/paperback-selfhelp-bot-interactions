@@ -99,16 +99,16 @@ modules:
         
         # Configure the button to open a support thread, if this is not set then a button with the label "HELP" is used
         supportThreadButton:
-          title: "Help"
-          type: "PRIMARY"
+          title: "Open a Thread"
+          type: "SECONDARY"
           
         # Interaction to display when the user clicks the troubleshootButton
         troubleshootInteractionPath: "self-help"
         
         # An optional button that displays an interaction upon clicking. if this is not set, no button is displayed
         troubleshootButton:
-          title: "Troubleshoot"
-          type: "SUCCESS"
+          title: "Help"
+          type: "PRIMARY"
 
 
 
