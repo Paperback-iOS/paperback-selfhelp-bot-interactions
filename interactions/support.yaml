@@ -1,28 +1,29 @@
 embeds:
 - color: 0xD7FFE2
-  title: "**Welcome to Paperback!**"
+  title: "Welcome to **Paperback!**"
   description: |-
-      *Before you get support, we’d like to inform you about our support guidelines.*
-      If you fail to comply to the support guidelines, you'll be support banned.
+      Not following the guidelines stated below will get you banned from receiving support in the future.
 
   fields:
-  - name: "**You should**"
+  - name: "README"
     value: |
-      >>> <:Greentick:897344399611166761> Read <#673620355486842920> to get familiar with the server.
+      <:Greentick:897344399611166761> Use common sense when asking for help and provide detailed explanations.
       <:Greentick:897344399611166761> Read <#809813745903599676> for source problems.
-      <:Greentick:897344399611166761> [Troubleshoot](https://paperback.moe/help/faq/#troubleshooting) your problem yourself with the **Troubleshoot** button.
-      <:Greentick:897344399611166761> Provide all necessary information with your problem.
-      <:Greentick:897344399611166761> Create your support thread with the **HELP**.
-      <:Greentick:897344399611166761> Give us time to reply to your problem.
-
-    inline: true
-
-  - name: "**You can't / shouldn't**"
-    value: |
-      >>> <:Redtick:897344399258837044> Mention Staff to receive support.
-      <:Redtick:897344399258837044> DM Staff to receive support. 
-      <:Redtick:897344399258837044> Create more than one thread at the same time.
-      <:Redtick:897344399258837044> Hijacking someone's thread.
-      <:Redtick:897344399258837044> Cross-post your problems in multiple channels/threads.
-      <:Redtick:897344399258837044> Expect an immediate response.
-    inline: true
+      <:Greentick:897344399611166761> Use the Help button to get common troubleshooting topics.
+      
+      <:Redtick:897344399258837044> Don't mention **anyone** to receive support.
+      <:Redtick:897344399258837044> Don't DM **anyone** to receive support. 
+      <:Redtick:897344399258837044> Don't create more than one thread at the same time.
+      <:Redtick:897344399258837044> Don't ask for help in someone else's thread.
+      <:Redtick:897344399258837044> Don't cross-post your problems in multiple channels/threads.
+      <:Redtick:897344399258837044> Don't expect an immediate response.
+buttons:
+  - label: Server Rules
+    url: "https://discord.com/channels/673606787290759230/673620355486842920"
+    style: LINK
+  - label: Announcements
+    url: "https://discord.com/channels/673606787290759230/673621150152261667"
+    style: LINK
+  - label: Source Statuses
+    url: "https://discord.com/channels/673606787290759230/809813745903599676"
+    style: LINK
