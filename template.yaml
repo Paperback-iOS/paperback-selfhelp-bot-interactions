@@ -13,12 +13,26 @@ embeds:
   - name: "**Field 3**"
     value: |
       Field 3.1
+    inline: true
 
 
   image: 
     url: ""
   thumbnail:
     url: ""
+  footer:
+    text: ""
+
+options: 
+  - label: 
+    value: Linking stuff to your interaction so yourfilename
+    description: 
+    emoji: ""
+
+  - label: 
+    value: 
+    description: 
+    emoji: ""
 
 buttons:
   - label: ""
