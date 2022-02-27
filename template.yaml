@@ -1,10 +1,13 @@
+content: Field (stuff not in embed)
 embeds:
 - color: 0xF96854
-  title: "**Title**"
+  title: "**Field**"
+  description: |
+    Field Text
   fields:
   - name: "**Field 1**"
     value: |
-      Field1.1
+      Field 1.1
 
   - name: "**Field 2**"
     value: |
@@ -21,12 +24,12 @@ embeds:
   thumbnail:
     url: ""
   footer:
-    text: ""
+    text: "Field"
 
 options: 
-  - label: 
+  - label: Field
     value: Linking stuff to your interaction so yourfilename
-    description: 
+    description: Field
     emoji: ""
 
   - label: 
@@ -35,7 +38,7 @@ options:
     emoji: ""
 
 buttons:
-  - label: ""
+  - label: "Field"
     customId: 
     style: LINK
     emoji: "📝"
