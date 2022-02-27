@@ -23,8 +23,8 @@ options:
     description: All links related to Paperback
     emoji: "<:download:846436748024348703>"
 buttons:
-  - label: I need Help
-    url: "https://discord.com/channels/673606787290759230/916345093139615744"
+  - label: Open a Support Thread
+    url: "https://discord.com/channels/673606787290759230/916342743301759097"
     style: LINK
   - label: Announcements
     url: "https://discord.com/channels/673606787290759230/673621150152261667"
