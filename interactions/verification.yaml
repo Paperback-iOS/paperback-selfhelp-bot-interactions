@@ -2,52 +2,16 @@ embeds:
 - color: 0x36393E
   title: "**Welcome to Paperback!**"
   description: |-
-      We'd like to inform you about our community guidelines.
-      *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
-      This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
-
-  fields:
-  - name: "**1. You have read the following channels.**"
-    value: |
-      >>> <#673620355486842920> (`#rules`), <#916342743301759097> (`#welcome`) and <#809813745903599676> (`#source-status`).
-    inline: true
-
-  - name: "**2. Use common sense, don't behave poorly.**"
-    value: |
-      >>> Don't be an asshole towards the others.
-      Don't advertise without asking.
-      Spoilable content needs to be marked with context.
-    inline: true
-
-  - name: "**3. Keep it English and SFW**"
-    value: |
-      >>> Stick to English.
-      No sexually explicit representations in channels not marked as NSFW.
-      Usernames, Status, PFPs and Banners must be SFW.
-    inline: true
-
-  - name: "**4. Do not bypass the blacklisted word filter.**"
-    value: |
-      >>> Usage of any form of derogatory slang/terms/overly offensive language will result to a punishment.
-    inline: true
-
-  - name: "**5. Keep the conversations in their appropriate channels.**"
-    value: |
-      >>> Some channels have description/pinned rules, be sure to read them.
-      Asking or giving support in the wrong channel will get you punished.
-    inline: true
-
-  - name: "**6. Do not ping/DM staff/people without a valid reason.**"
-    value: |
-      >>> Do not ping **Staff** or **others** for support.
-      If someone ask you to not mention them, do not mention them.
-    inline: true
-
-  - name: "**7. Follow all staff instructions immediately and at all times.**"
-    value: |
-      >>> If a Community Moderator asks you to stop doing something, do not try to argue.
-    inline: true
-
+    1. **Use common sense**, respect everyone in the server.
+    2. **Don't Advertise.** You can chat about other servers as long as it fits the topic.
+    3. **Keep it English and SFW.** We're not an NSFW server and we don't tolerate it any of our channels.
+    4. **Do not bypass the blacklisted word filter.** We've placed major derogatory terms under a filter, don't try to bypass it.
+    5. **Keep the conversations in their appropriate channels.** Look at channel descriptions for an idea.
+    6. **Do not ping/DM anyone without a valid reason.** Asking for support is not a valid reason.
+    7. **If a Mod asks you to stop, STOP.** They have full right to mute you if you keep insisting.
+    
+    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
+    This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
 options: 
   - label: Channel usage of the server
     value: verification/usage
@@ -58,3 +22,16 @@ options:
     value: others/links
     description: All links related to Paperback
     emoji: "<:download:846436748024348703>"
+buttons:
+  - label: I need Help
+    url: "https://discord.com/channels/673606787290759230/916345093139615744"
+    style: LINK
+  - label: Announcements
+    url: "https://discord.com/channels/673606787290759230/673621150152261667"
+    style: LINK
+  - label: Source Statuses
+    url: "https://discord.com/channels/673606787290759230/809813745903599676"
+    style: LINK
+  - label: External Repos
+    url: "https://discord.com/channels/673606787290759230/734871500200476743"
+    style: LINK
