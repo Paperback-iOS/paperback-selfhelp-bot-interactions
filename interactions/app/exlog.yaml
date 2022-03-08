@@ -2,13 +2,17 @@ embeds:
 - color: 0x7ED321
   title: "**Exporting your logs**"
   fields:
-  - name: "**Exporting your logs*"
+  - name: "**Exporting your logs**"
     value: |
       Go to your settings page, click `Export logs` and share it to Paperback.
 
+      > This is useful for us to troubleshoot your issue.
+  image: 
+    url: "https://cdn.discordapp.com/attachments/870161417993613362/950902714840272946/IMG_2280.png"
+
 buttons:
-  - label: "GIF"
+  - label: "Open in browser"
     customId: 
     style: LINK
     emoji: "<:play:846471522259304455>"
-    url: "https://media.discordapp.net/attachments/794353299343933450/808168369860640778/export-log.gif?width=312&height=675"
+    url: "https://cdn.discordapp.com/attachments/870161417993613362/950902714840272946/IMG_2280.png"
