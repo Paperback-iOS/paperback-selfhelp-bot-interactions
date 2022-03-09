@@ -1,4 +1,4 @@
-match: "!newpatreon"
+match: "!new(patron|patreon)"
 interaction: download/testflight/newpatreon
 channels:
   whitelist:
