@@ -1,5 +1,2 @@
 match: "!new(patron|patreon)"
 interaction: download/testflight/newpatreon
-channels:
-  whitelist:
-    - 916345093139615744
