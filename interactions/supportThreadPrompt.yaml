@@ -7,13 +7,13 @@ embeds:
   fields:
   - name: "**Show (with screenshots) and give details:**"
     value: |
-      <:chevon:846960436431945779> What is your iOS version?
+      **What is your iOS version?**
       ex: iOS 14.5
-      <:chevon:846960436431945779> What is your app version?
+      **What is your app version?**
       ex: v0.6.0-b1.0.0
-      <:chevon:846960436431945779> What source are you using and what is the version?
+      **What source are you using and what is the version?**
       ex: Mangadex (1.0.0)
-      <:chevon:846960436431945779> What were you trying to read?
+      **What were you trying to read?**
       ex: I was reincarnated as a manga app developer, chapter 1
     inline: false
   footer:
