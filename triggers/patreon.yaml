@@ -1,2 +1,2 @@
-match: "(patreon|patron)Testflight"
+match: "(patreon|patron) Testflight"
 interaction: download/testflight/newpatreon
