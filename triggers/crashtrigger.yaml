@@ -1,2 +1,6 @@
 match: "crash"
 interaction: triggers/crash
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"

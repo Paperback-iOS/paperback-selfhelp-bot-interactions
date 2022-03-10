@@ -25,7 +25,4 @@ permissions:
     - "${ ROLES.MODERATOR }"
     - "${ ROLES.EXDEV }"
 
-channels:
-  whitelist:
-    - "${ CHANNELS.SUPPORT }"
 
