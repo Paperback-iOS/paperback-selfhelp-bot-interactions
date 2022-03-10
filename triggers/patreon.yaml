@@ -1,8 +1,2 @@
 match: "(patreon|patron) Testflight"
 interaction: download/testflight/newpatreon
-
-permissions:
-  blacklist:
-    - 673607398618824704
-    - 705505158293094401
-    - 756206165855043635

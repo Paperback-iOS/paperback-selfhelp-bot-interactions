@@ -19,3 +19,10 @@ embeds:
   - name: "**Paperback crash when I search something **"
     value: |
       Make a backup of your data and you will need to reinstall Paperback. 
+
+permissions:
+  blacklist:
+    - 673607398618824704
+    - 705505158293094401
+    - 756206165855043635
+
