@@ -1,23 +1,15 @@
-content: Field (stuff not in embed)
+content: Template (stuff not in embed)
 embeds:
 - color: 0xF96854
-  title: "**Field**"
+  title: "**Template**"
   description: |
-    Field Text
+    Template
+
   fields:
-  - name: "**Field 1**"
+  - name: "**Template**"
     value: |
-      Field 1.1
-
-  - name: "**Field 2**"
-    value: |
-      Field 2.1
-      
-  - name: "**Field 3**"
-    value: |
-      Field 3.1
+      Template
     inline: true
-
 
   image: 
     url: ""
