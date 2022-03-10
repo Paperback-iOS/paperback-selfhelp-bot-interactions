@@ -1,6 +1,3 @@
 match: "(patreon|patron) Testflight"
 interaction: download/testflight/newpatreon
 
-channels:
-  whitelist:
-    - "${ CHANNELS.SUPPORT }"

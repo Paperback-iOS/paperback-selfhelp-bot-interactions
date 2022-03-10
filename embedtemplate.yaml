@@ -49,3 +49,7 @@ buttons:
     emoji: ""
     url: ""
 
+permissions:
+  blacklist:
+    - "${ ROLES.MODERATOR }"
+    - "${ ROLES.EXDEV }"

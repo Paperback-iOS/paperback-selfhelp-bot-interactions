@@ -1,0 +1,6 @@
+match: ""
+interaction: 
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"
