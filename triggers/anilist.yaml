@@ -1,0 +1,2 @@
+match: "!(anilist|tracker)"
+interaction: extensions/anilist

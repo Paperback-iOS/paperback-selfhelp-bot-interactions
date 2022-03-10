@@ -1,0 +1,3 @@
+match: "!download"
+interaction: app/download
+

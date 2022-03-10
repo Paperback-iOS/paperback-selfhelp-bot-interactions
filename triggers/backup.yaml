@@ -1,0 +1,3 @@
+match: "!backup"
+interaction: app/backup
+

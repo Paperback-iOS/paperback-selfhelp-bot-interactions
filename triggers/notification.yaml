@@ -1,0 +1,2 @@
+match: "!notification"
+interaction: app/notifications

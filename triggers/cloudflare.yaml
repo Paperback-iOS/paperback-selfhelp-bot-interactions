@@ -1,0 +1,2 @@
+match: "!(cloudflare|cf)"
+interaction: extensions/cloudflare

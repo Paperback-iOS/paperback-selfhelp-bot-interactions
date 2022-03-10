@@ -1,0 +1,2 @@
+match: "!(source|sources|repo|repository)"
+interaction: extensions/repository

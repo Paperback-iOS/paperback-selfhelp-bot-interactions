@@ -1,0 +1,2 @@
+match: "!(android|tachi)"
+interaction: others/android

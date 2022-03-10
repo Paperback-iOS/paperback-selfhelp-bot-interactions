@@ -1,0 +1,2 @@
+match: "!expired"
+interaction: download/testflight/expired

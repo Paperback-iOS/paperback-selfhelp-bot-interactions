@@ -1,0 +1,2 @@
+match: "!migration"
+interaction: app/migration

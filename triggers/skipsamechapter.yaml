@@ -1,0 +1,2 @@
+match: "!(ssc|skipsamechapter)"
+interaction: extensions/skipsamechapter

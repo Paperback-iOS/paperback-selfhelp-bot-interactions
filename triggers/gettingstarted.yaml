@@ -1,0 +1,2 @@
+match: "!(getstart|gettingstarted)"
+interaction: others/gettingstarted
