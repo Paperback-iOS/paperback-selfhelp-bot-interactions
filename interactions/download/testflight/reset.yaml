@@ -8,18 +8,18 @@ embeds:
 
   - name: "**<:two:846461367841325088> Do I have to make a backup before updating?**"
     value: |
-      YES, you need to make a backup otherwise you will lose your library.
+      YES, you need to make a backup otherwise you will lose your data.
     inline: true
 
   - name: "**<:three:846461368042782750> Will I lose access to the Paperback?**"
     value: |
-      Yes, you will have to join back.
+      Yes, you will have to join back with a method that will be announced in our announcement channel.
     inline: true
-  - name: "**<:four:846461367951425576> Are patrons also affected by this reset?**"
+  - name: "**<:four:846461367951425576> Are Patreons also affected by this reset?**"
     value: |
-      This is mainly for public. Though some patrons might lose access because they joined public build first before patron. In that case simply check your email you will be given another code
+      This is mainly for public. Though some Patreons supporters might lose access because they joined the Public build first. In that case simply redo the patreon command with Tasukete bot.
     inline: true 
   - name: "**<:five:846461367993237524> What if I am not able to get in?**"
     value: |
-      Slots are opened gradually when they get filled until there are no more slots to open. The first batch starts from 2k slots, if its full check back in a couple of hours
+      Better luck next time!
     inline: true
