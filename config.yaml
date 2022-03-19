@@ -3,17 +3,17 @@ permissions:
 #   # Its possible to set permissions for internal commands too.
 #   role:
 #     whitelist:
-#       - "${ ROLES.MODERATOR }"
+#       - "${ ROLES.COMMUNITY_MODERATOR }"
 #
 #   # Its possible to set permissions for custom commands
 #   echo:
 #     whitelist:
-#       - "${ ROLES.MODERATOR }"
+#       - "${ ROLES.COMMUNITY_MODERATOR }"
 #
 #   # Its possible to set permissions for custom commands in folders
 #   characters/amber:
 #     whitelist:
-#       - "${ ROLES.MODERATOR }"
+#       - "${ ROLES.COMMUNITY_MODERATOR }"
 
 # Only delete stuff after this line if you know what you're doing.
 modules:
@@ -21,7 +21,7 @@ modules:
     enabled: false
     
     # This restricts who can open a thread. If this is not set, anyone can open a thread by DMing the bot
-    permission: "${ ROLES.VERIFIED }"
+    permission: "${ ROLES.COMMUNITY_CLEARANCE }"
     
     ignoreRole: "${ ROLES.MODMAIL_IGNORED }"
     
@@ -31,10 +31,10 @@ modules:
 
   # Role kits
   roleKits:
-    enabled: false
+    enabled: true
 
     # This restricts who can use the /rolekits command. if its not set, anyone with the MANAGE_ROLES permission can use the command.
-    permission: "${ ROLES.MODERATOR }"
+    permission: "${ ROLES.COMMUNITY_MODERATOR }"
    
     # The kits that are available
     kits:
@@ -46,20 +46,20 @@ modules:
         addRoles:
           - "" 
         removeRoles:
-          - "${ ROLES.MODERATOR }"
+          - "${ ROLES.COMMUNITY_MODERATOR }"
           
   # Verification Module
   verification:
     enabled: true
     
     # This restricts who can use the /verification command. if its not set, anyone can use the command.
-    permission: "${  ROLES.MODERATOR  }"
+    permission: "${  ROLES.COMMUNITY_MODERATOR  }"
     
     # This sets the channel to use for sending the initialMessage into. If this is not set then the bot will not automatically send the welcome message.
     welcomeChannel: "${  CHANNELS.WELCOME  }"
   
     # The role to add to users when they successfully accept the rules.
-    verifiedRole: "${  ROLES.VERIFIED  }"
+    COMMUNITY_CLEARANCERole: "${  ROLES.COMMUNITY_CLEARANCE  }"
     
     interactions:
       # You can use this to set a different greeting message. If this is not set then initialMessage is used.
@@ -81,7 +81,7 @@ modules:
     enabled: true
     
     # This restricts who can use the /supportthreads command. if its not set, anyone with MANAGE_THREADS permission can use the command.
-    permission: "${  ROLES.MODERATOR  }"
+    permission: "${  ROLES.COMMUNITY_MODERATOR  }"
     
     configs:
       main:

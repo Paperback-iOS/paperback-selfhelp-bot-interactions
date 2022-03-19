@@ -43,5 +43,5 @@ buttons:
 
 permissions:
   blacklist:
-    - "${ ROLES.MODERATOR }"
+    - "${ ROLES.COMMUNITY_MODERATOR }"
     - "${ ROLES.EXDEV }"
