@@ -1,3 +1,2 @@
-match: "(sources|content) settings"
+match: "!contentsettings"
 interaction: extensions/contentsettings
-
