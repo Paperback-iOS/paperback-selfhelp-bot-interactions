@@ -1,2 +1,2 @@
 match: "!requestsource"
-interaction: extensions/requestsource
+interaction: app_extensions/requestsource

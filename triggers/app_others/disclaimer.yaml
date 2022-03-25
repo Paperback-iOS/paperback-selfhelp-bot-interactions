@@ -1,2 +1,2 @@
 match: "!disclaimer"
-interaction: others/disclaimer
+interaction: app_others/disclaimer

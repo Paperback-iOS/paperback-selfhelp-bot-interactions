@@ -1,2 +1,2 @@
 match: "!spoiler"
-interaction: others/spoiler
+interaction: app_others/spoiler

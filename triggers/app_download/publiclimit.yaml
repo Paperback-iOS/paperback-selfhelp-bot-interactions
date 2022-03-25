@@ -1,2 +1,2 @@
 match: "!publiclimit"
-interaction: download/testflight/publiclimit
+interaction: app_download/testflight/publiclimit

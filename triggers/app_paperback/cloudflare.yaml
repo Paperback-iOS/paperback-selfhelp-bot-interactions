@@ -1,2 +1,2 @@
 match: "!(cloudflare|cf)"
-interaction: extensions/cloudflare
+interaction: app_extensions/cloudflare

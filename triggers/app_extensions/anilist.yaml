@@ -1,2 +1,2 @@
 match: "!(anilist|tracker)"
-interaction: extensions/anilist
+interaction: app_extensions/anilist

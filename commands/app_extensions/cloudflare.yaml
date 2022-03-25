@@ -1,2 +1,2 @@
-interaction: extensions/cloudflare
+interaction: app_extensions/cloudflare
 description: Cloudflare tutorial 

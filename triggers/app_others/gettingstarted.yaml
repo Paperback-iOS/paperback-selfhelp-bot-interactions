@@ -1,2 +1,2 @@
 match: "!(getstart|gettingstarted)"
-interaction: others/gettingstarted
+interaction: app_others/gettingstarted

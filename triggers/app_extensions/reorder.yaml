@@ -1,2 +1,2 @@
 match: "!reorder"
-interaction: app/reorder
+interaction: app_paperback/reorder

@@ -1,2 +1,2 @@
 match: "!language"
-interaction: extensions/language
+interaction: app_extensions/language

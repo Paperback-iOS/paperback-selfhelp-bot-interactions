@@ -1,2 +1,2 @@
-interaction: others/hijack
+interaction: app_others/hijack
 description: Don't hijack other's thread

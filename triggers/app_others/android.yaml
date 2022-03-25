@@ -1,2 +1,2 @@
 match: "!(android|tachi)"
-interaction: others/android
+interaction: app_others/android

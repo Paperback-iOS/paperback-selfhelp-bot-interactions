@@ -1,2 +1,2 @@
 match: "!opendm"
-interaction: others/opendm
+interaction: app_others/opendm

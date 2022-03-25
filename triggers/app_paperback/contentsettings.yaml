@@ -1,2 +1,2 @@
 match: "!contentsettings"
-interaction: extensions/contentsettings
+interaction: app_extensions/contentsettings

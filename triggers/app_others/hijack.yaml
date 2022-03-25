@@ -1,2 +1,2 @@
 match: "!hijack"
-interaction: others/hijack
+interaction: app_others/hijack

@@ -1,2 +1,2 @@
 match: "!notification"
-interaction: app/notifications
+interaction: app_paperback/notifications

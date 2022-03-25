@@ -1,2 +1,2 @@
 match: "!(source|sources|repo|repository)"
-interaction: extensions/repository
+interaction: app_extensions/repository

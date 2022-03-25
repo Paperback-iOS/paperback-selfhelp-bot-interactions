@@ -1,2 +1,2 @@
 match: "!pat(reon|ron)role"
-interaction: download/testflight/patreonrole
+interaction: app_download/testflight/patreonrole

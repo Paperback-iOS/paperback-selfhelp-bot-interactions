@@ -1,2 +1,2 @@
 match: "!converter"
-interaction: others/converter
+interaction: app_others/converter

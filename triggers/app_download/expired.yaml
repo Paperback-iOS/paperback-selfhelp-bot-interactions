@@ -1,2 +1,2 @@
 match: "!expired"
-interaction: download/testflight/expired
+interaction: app_download/testflight/expired

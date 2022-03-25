@@ -1,2 +1,2 @@
 match: "!altstore"
-interaction: download/altstore/altstore
+interaction: app_download/altstore/altstore

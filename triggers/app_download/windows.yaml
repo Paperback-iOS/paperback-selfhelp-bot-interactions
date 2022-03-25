@@ -1,2 +1,2 @@
 match: "!windows"
-interaction: download/altstore/windows
+interaction: app_download/altstore/windows

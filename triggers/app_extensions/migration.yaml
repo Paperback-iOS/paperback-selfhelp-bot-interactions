@@ -1,2 +1,2 @@
 match: "!migration"
-interaction: app/migration
+interaction: app_paperback/migration
