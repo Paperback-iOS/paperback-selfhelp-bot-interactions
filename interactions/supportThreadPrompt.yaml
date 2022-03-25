@@ -16,6 +16,10 @@ embeds:
       **What were you trying to read?**
       ex: I was reincarnated as a manga app developer, chapter 1
     inline: false
+  - name: "Unable to talk in this thread even though you opened it?"
+    value: |
+      That's a bug due to Discord! Make sure your Discord app is up to date and restart Discord.
+    inline: false
   footer:
     text: "Use the Topic dropdown first. You can resolve most common issues."
 
