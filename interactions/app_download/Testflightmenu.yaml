@@ -1,16 +1,16 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Public Testflight
-    value: download/testflighthelp
+    value: app_download/testflighthelp
     description: Help regarding the Public Testflight
     emoji: "<:Testflight:923735248020320266>"
   
   - label: Patreon Testflight
-    value: download/testflight/newpatreon
+    value: app_download/testflight/newpatreon
     description: Help regarding Patreon Testflight
     emoji: "<:patreonbg:802238015958548480>"
 
   - label: AltStore
-    value: download/altstorehelp
+    value: app_download/altstorehelp
     description: Help regarding AltStore
     emoji: "<:Altstore:923735231234736138>"    

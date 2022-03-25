@@ -1,21 +1,21 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Public Testflight
-    value: download/testflight/publictf
+    value: app_download/testflight/publictf
     description: Get the Public Testflight
     emoji: "<:Testflight:923735248020320266>"
 
   - label: Public Limit
-    value: download/testflight/publiclimit
+    value: app_download/testflight/publiclimit
     description: Information about Testflight capacity
     emoji: "<:Testflight:923735248020320266>"
 
   - label: Paperback has expired
-    value: download/testflight/expired
+    value: app_download/testflight/expired
     description: Information about the app being expired
     emoji: "<:Testflight:923735248020320266>"
 
   - label: Public Testflight Reset
-    value: download/testflight/reset
+    value: app_download/testflight/reset
     description: Information about the Public Testflight reset
     emoji: "<:Testflight:923735248020320266>"

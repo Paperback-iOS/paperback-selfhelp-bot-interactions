@@ -21,7 +21,7 @@ options:
     emoji: "<:info:846438436655071302>"
 
   - label: Links related to Paperback
-    value: others/links
+    value: app_others/links
     description: All links related to Paperback
     emoji: "<:download:846436748024348703>"
 buttons:

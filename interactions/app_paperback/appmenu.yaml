@@ -1,21 +1,21 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Backups
-    value: app/backup
+    value: app_paperback/backup
     description: Help with backup
     emoji: "<:settings:846436799684411402>"
 
   - label: Migration
-    value: app/migration
+    value: app_paperback/migration
     description: Help with migration
     emoji: "<:settings:846436799684411402>"
   
   - label: Notifications
-    value: app/notifications
+    value: app_paperback/notifications
     description: Help with notifications
     emoji: "🔔"
 
   - label: Download
-    value: app/download
+    value: app_paperback/download
     description: Help with download
     emoji: "<:download:846436748024348703>"

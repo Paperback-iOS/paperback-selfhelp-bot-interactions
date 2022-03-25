@@ -1,31 +1,31 @@
 content: "Please choose a topic to receive help for"
 options: 
   - label: Adding Repository
-    value: extensions/repository
+    value: app_extensions/repository
     description: Help with sources & repositories
     emoji: "<:chevon:846960436431945779>"
 
   - label: Adding a Tracker
-    value: extensions/tracker
+    value: app_extensions/tracker
     description: Help with trackers
     emoji: "<:chevon:846960436431945779>"
 
   - label: Content Settings
-    value: extensions/contentsettings
+    value: app_extensions/contentsettings
     description: Help with content settings
     emoji: "<:settings:846436799684411402>"
 
   - label: Cloudflare Bypass
-    value: extensions/cloudflare
+    value: app_extensions/cloudflare
     description: Help with Cloudflare Bypass
     emoji: "<:cloudflare2:846436730948157480>"
 
   - label: Language
-    value: extensions/language
+    value: app_extensions/language
     description: Help with languages
     emoji: "<:settings:846436799684411402>"
 
   - label: Request a source
-    value: extensions/requestsource
+    value: app_extensions/requestsource
     description: How to request a source
     emoji: "<:info:846438436655071302>"

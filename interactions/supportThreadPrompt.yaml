@@ -22,21 +22,21 @@ embeds:
 
 options: 
   - label: Getting started
-    value: others/othersmenu
+    value: app_others/othersmenu
     description: Getting started with Paperback
     emoji: "<:info:846438436655071302>"
 
   - label: Download Paperback
-    value: download/Testflightmenu
+    value: app_download/Testflightmenu
     description: How to download Paperback
     emoji: "<:download:846436748024348703>"
 
   - label: App
-    value: app/appmenu
+    value: app_paperback/appmenu
     description: Help regarding the App
     emoji: "<:paperback:712782695716880423>"
 
   - label: Extensions/Sources
-    value: extensions/extensionsmenu
+    value: app_extensions/extensionsmenu
     description: Help regarding Extentions
     emoji: "<:paperback:712782695716880423>"
