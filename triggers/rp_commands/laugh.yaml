@@ -1,4 +1,4 @@
-match: "${ TRIGGER_PREFIX }laugh\s(.*)"
+match: ${ TRIGGER_PREFIX }laugh\s(.*)
 interaction:
   embeds:
     - description: "**<@${ $USER.ID }>** laughs at ${ $MATCH[1] }"
