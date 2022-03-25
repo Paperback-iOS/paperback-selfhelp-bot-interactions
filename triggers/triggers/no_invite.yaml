@@ -2,7 +2,6 @@ match: "(no|didn't get my|didn't receive my) invite"
 interaction: 
 embeds:
 - color: 0x6DE194
-  title: "*Don't worry!**"
   fields:
   - name: "You might receive it later!"
     value: |
