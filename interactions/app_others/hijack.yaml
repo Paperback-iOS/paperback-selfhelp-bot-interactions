@@ -1,12 +1,13 @@
 embeds:
 - color: 0xFFFFFF
   fields:
-  - name: "****OI!!!** It appears that you are hijacking someone else thread!**"
+  - name: "**Getting support**"
     value: |
-      STOP. Make your own support thread. 
+      STOP LOOKING IN THIS CHANNEL. 
+      Don't steal someone else thread!
 
-      Go to <#916342743301759097> and make sure to **read whatever is there.**
 
-      We will not help you in this thread. Thanks.
-
-      This **will not affect** the person who made the support thread.
+      Make your own support thread from <#673620355486842920>.
+      Then you can talk in your own support thread.
+  footer:
+    text: "Failure to comply will result in punishment."
