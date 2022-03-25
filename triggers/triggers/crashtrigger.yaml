@@ -2,6 +2,8 @@ match: "crash"
 interaction: triggers/crash
 
 channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"
   blacklist:
     - "${ CHANNELS.WELCOME }"
     - "${ CHANNELS.RULES }"
