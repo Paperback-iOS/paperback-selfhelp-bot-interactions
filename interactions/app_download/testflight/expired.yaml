@@ -1,11 +1,20 @@
 embeds:
 - color: 0x6DE194
   title: "**Your Beta has expired?**"
-  description: |
-    Seems like you muted <#673621150152261667>... 
-    TestFlight builds expires after 90 days. You need to join the Public TestFlight to be able to
-    update.
-    **What can I do to get Paperback?**
-    You will have to wait to join the next Public Testflight reset **or**
-    You can sideload the app through AltStore **or**
-    You can become a Patreon Supporter and get access with the bot.
+  fields:
+  - name: "**Public Testflight**"
+    value: |
+      TestFlight builds expires after 90 days. You need to join the Public TestFlight to be able to update.
+      It might be full so you will need to wait until it opens again.
+      
+  - name: "**Patreon Testflight**"
+    value: |
+      To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
+      `pb beta invite PatreonEmail `
+      > Make sure to replace `PatreonEmail` with your email. 
+      > <:info:846438436655071302> You need to turn on DMs for this server. 
+      > **Everything must be done in the bot DMs**.
+      
+  - name: "**Sideload**"
+    value: |
+      Sideloading is a good option if you do not want to wait for the Public Testflight nor join the Patreon. Use the bot in <#673620355486842920> to learn how to sideload.
