@@ -1,2 +1,6 @@
 match: "my app has expired"
 interaction: app_download/testflight/expired
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"
