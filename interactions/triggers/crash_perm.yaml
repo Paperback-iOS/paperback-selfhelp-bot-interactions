@@ -1,0 +1,24 @@
+embeds:
+- color: 0xC23F3F
+  title: "**Paperback is crashing!**"
+  description: |
+    Worry not, it happens a lot. Make sure to share the crash log (if you are using the Testflight version) as it will help us to locate the issue. 
+    You might also need to share your app logs. Here's some troubleshooting you can do to fix your issue.
+
+  fields:
+  - name: "**Paperback crash when I open the app**"
+    value: |
+      Turn off your WiFi connection and your LTE connection. Open Paperback and remove your downloads.
+      If that doesn't work, you will need to reinstall Paperback. 
+
+  - name: "**Papperback crash when I open my library/history**"
+    value: |
+      Go to your Paperback settings (in the app) and clear your image cache. 
+      If that doesn't work, you will need to reinstall Paperback. 
+      
+  - name: "**Paperback crash when I search something **"
+    value: |
+      Make a backup of your data and you will need to reinstall Paperback. 
+
+
+
