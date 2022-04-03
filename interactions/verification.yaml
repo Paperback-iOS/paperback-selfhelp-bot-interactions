@@ -2,8 +2,8 @@ embeds:
 - color: 0x2f3136
   title: "**Welcome to Paperback!**"
   description: |-
-    *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
-    This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
+    You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
+    This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
     1. **Use common sense**
     2. **Don't Advertise.**
@@ -13,11 +13,42 @@ embeds:
     6. **Do not ping/DM anyone without a valid reason.**
     7. **If a Mod asks you to stop, STOP.**
 
-    Use the dropdown menu for examples if you are unsure about a rule or open a ModMail.
+    Use the dropdown menu for examples.
+    If you are unsure about a rule, open a ModMail.
 
-options: 
-  - label: Additional information about the rules!
-    value: rules/rules_menu
-    description: Additional information about the rules!
-    emoji: "<:info:846438436655071302>"
+options:  
+  
+  - label: Rule 1
+    value: rules/rules_one
+    description: 
+    emoji: "<:one:846461367757438978>"
 
+  - label: Rule 2
+    value: rules/rules_two
+    description: 
+    emoji: "<:two:846461367841325088>"
+
+  - label: Rule 3
+    value: rules/rules_three
+    description: 
+    emoji: "<:three:846461368042782750>"
+
+  - label: Rule 4
+    value: rules/rules_four
+    description: 
+    emoji: "<:four:846461367951425576>"
+
+  - label: Rule 5
+    value: rules/rules_five
+    description: 
+    emoji: "<:five:846461367993237524>"
+
+  - label: Rule 6
+    value: rules/rules_six
+    description: 
+    emoji: "<:six:846461368005951488>"
+
+  - label: Rule 7
+    value: rules/rules_seven
+    description: 
+    emoji: "<:seven:846461368059035709>"
