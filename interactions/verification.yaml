@@ -2,38 +2,22 @@ embeds:
 - color: 0x2f3136
   title: "**Welcome to Paperback!**"
   description: |-
-    1. **Use common sense**, respect everyone in the server.
-    2. **Don't Advertise.** You can chat about other servers as long as it fits the topic.
-    3. **Keep it English and SFW.** We're not an NSFW server and we don't tolerate it in any of our channels.
-    4. **Do not bypass the blacklisted word filter.** We've placed major derogatory terms under a filter, don't try to bypass it.
-    5. **Keep the conversations in their appropriate channels.** Look at channel descriptions for an idea.
-    6. **Do not ping/DM anyone without a valid reason.** Asking for support is not a valid reason.
-    7. **If a Mod asks you to stop, STOP.** They have full right to mute you if you keep insisting.
-    
     *You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
     This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).*
-  footer:
-    text: "Use the dropdown to get more information about Paperback."
+
+    1. **Use common sense**
+    2. **Don't Advertise.**
+    3. **Keep it English and SFW.**
+    4. **Do not bypass the blacklisted word filter.**
+    5. **Keep the conversations in their appropriate channels.**
+    6. **Do not ping/DM anyone without a valid reason.**
+    7. **If a Mod asks you to stop, STOP.**
+
+    Use the dropdown menu for examples if you are unsure about a rule or open a ModMail.
+
 options: 
-  - label: Channel usage of the server
-    value: verification/usage
-    description: Learn the channel descriptions!
+  - label: Additional information about the rules!
+    value: rules/rules_menu
+    description: Additional information about the rules!
     emoji: "<:info:846438436655071302>"
 
-  - label: Links related to Paperback
-    value: app_others/links
-    description: All links related to Paperback
-    emoji: "<:download:846436748024348703>"
-buttons:
-  - label: Open a Support Thread
-    url: "https://discord.com/channels/673606787290759230/673620355486842920"
-    style: LINK
-  - label: Announcements
-    url: "https://discord.com/channels/673606787290759230/673621150152261667"
-    style: LINK
-  - label: Source Status
-    url: "https://discord.com/channels/673606787290759230/809813745903599676"
-    style: LINK
-  - label: External Repos
-    url: "https://discord.com/channels/673606787290759230/734871500200476743"
-    style: LINK

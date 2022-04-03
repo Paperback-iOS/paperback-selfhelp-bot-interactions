@@ -1,0 +1,37 @@
+content: "Additional information about the rules"
+options:  
+  
+  - label: Rule 1
+    value: rules/rules_one
+    description: 
+    emoji: "<:one:846461367757438978>"
+
+  - label: Rule 2
+    value: rules/rules_two
+    description: 
+    emoji: "<:two:846461367841325088>"
+
+  - label: Rule 3
+    value: rules/rules_three
+    description: 
+    emoji: "<:three:846461368042782750>"
+
+  - label: Rule 4
+    value: rules/rules_four
+    description: 
+    emoji: "<:four:846461367951425576>"
+
+  - label: Rule 5
+    value: rules/rules_five
+    description: 
+    emoji: "<:five:846461367993237524>"
+
+  - label: Rule 6
+    value: rules/rules_six
+    description: 
+    emoji: "<:six:846461368005951488>"
+
+  - label: Rule 7
+    value: rules/rules_seven
+    description: 
+    emoji: "<:seven:846461368059035709>"
