@@ -49,7 +49,7 @@ modules:
     permissions:
       whitelist: "${ ROLES.COMMUNITY_MANAGER }"
   
-      theoryreadme:
+      OS:
         title: "What is your primary device of use for Paperback?"
         color: 0x2f3136
         description: |-
