@@ -17,6 +17,58 @@ permissions:
 
 # Only delete stuff after this line if you know what you're doing.
 modules:
+  userNotes:
+    enabled: false
+    permissions:
+      whitelist: "${ ROLES.COMMUNITY_MANAGER }"
+
+  pointsSystem:
+    enabled: false
+    permissions:
+      whitelist: "${ ROLES.COMMUNITY_MANAGER }"
+        
+    loggingChannel: 
+
+  vanityRoles:
+    enabled: false
+
+    # Who can use the /vanityrole command, anyone with MANAGE_ROLES if not set.
+    permissions:
+      whitelist:
+        - 
+
+    # Log whenever someone's custom role is updated
+    loggingChannel: 
+
+    createRoleAfter: 
+
+  reactRoles:
+    enabled: true
+
+    # Who can use the /reactroles command, anyone with MANAGE_ROLES if not set.
+    permissions:
+      whitelist: "${ ROLES.COMMUNITY_MANAGER }"
+  
+      theoryreadme:
+        title: "What is your primary device of use for Paperback?"
+        color: 0x2f3136
+        description: |-
+          React with the matching emoji for specific roles
+
+        reactions:
+          # REACTION EMOJI ID: ROLE
+          "iOS:960393067087667230":
+            role: "${ ROLES.IOS }"
+            description: "<@&${ ROLES.IOS }>"
+
+          "iPadOS:960393067117043712":
+            role: "${ ROLES.IPADOS }"
+            description: "<@&${ ROLES.IPADOS }>"
+
+          "MacOS:960393067138023484":
+            role: "${ ROLES.MACOS }"
+            description: "<@&${ ROLES.MACOS }>"
+
   modMail:
     enabled: true
     
@@ -34,7 +86,7 @@ modules:
     enabled: true
 
     # This restricts who can use the /rolekits command. if its not set, anyone with the MANAGE_ROLES permission can use the command.
-    permission: "${ ROLES.COMMUNITY_MODERATOR }"
+    permission: "${ ROLES.COMMUNITY_MANAGER }"
    
     # The kits that are available
     kits:
@@ -53,7 +105,7 @@ modules:
     enabled: true
     
     # This restricts who can use the /verification command. if its not set, anyone can use the command.
-    permission: "${  ROLES.COMMUNITY_MODERATOR  }"
+    permission: "${ ROLES.COMMUNITY_MANAGER }"
     
     # This sets the channel to use for sending the initialMessage into. If this is not set then the bot will not automatically send the welcome message.
     welcomeChannel: "${  CHANNELS.WELCOME  }"
@@ -73,7 +125,7 @@ modules:
     
     # Verification button settings
     button:
-      title: "I understood the rules and I will follow them"
+      title: "I agree*"
       type: "PRIMARY"
       
       
@@ -81,7 +133,7 @@ modules:
     enabled: true
     
     # This restricts who can use the /supportthreads command. if its not set, anyone with MANAGE_THREADS permission can use the command.
-    permission: "${  ROLES.COMMUNITY_MODERATOR  }"
+    permission: "${ ROLES.COMMUNITY_MANAGER }"
     
     configs:
       main:
