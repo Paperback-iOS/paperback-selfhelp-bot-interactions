@@ -1,5 +1,6 @@
 # override permissions for any command
 permissions:
+  whitelist: "${ ROLES.COMMUNITY_MANAGER }"
 #   # Its possible to set permissions for internal commands too.
 #   role:
 #     whitelist:
