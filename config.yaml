@@ -51,6 +51,7 @@ modules:
       whitelist: 
        - "${ ROLES.COMMUNITY_MANAGER }"
   
+    configs:
       DEVICEOS:
         title: "What is your primary device of use for Paperback?"
         color: 0x2f3136
