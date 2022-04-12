@@ -1,13 +1,6 @@
 embeds:
-  - title: "**Get started with Paperback**"
-    color: 0xD7FFE2
-    description: |-
-       Below, you will find important information on how to get started with Paperback. Such as:
-       - How to get started with Paperback
-       - Disclaimer about the app
-       - Related links to Paperback
-
   - title: "**Download Paperback**"
+    color: 0xD7FFE2
     description: |-
        Below, you will find important information on how to install Paperback from Testflight. Such as:
     fields:
@@ -32,21 +25,12 @@ embeds:
           - Frequently asked questions about AltStore
         inline: false
 
-  - title: "**Help regarding Paperback**"
-    description: |-
-       Below, you will find important information on Paperback features. Such as:
-       - How to make and use a Backup
-       - Migrating your content to another third party source
-       - Information on how notifications works in Paperback
-       - Downloading chapters from the manga view detail.
+options: 
+  - label: Download Paperback
+    value: app_download/Testflightmenu
+    description: How to download Paperback
+    emoji: "<:download:846436748024348703>"
 
-
-  - title: "**Extensions**"
-    description: |-
-       Below, you will find important information about third party sources. Such as:
-       - Adding a third party source
-       - Adding a third party tracker
-       - Adjusting your content settings
-       - How to perform a Cloudflare Bypass
-       - Adjusting the language of the third party source
-
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"

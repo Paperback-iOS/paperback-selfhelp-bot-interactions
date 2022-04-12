@@ -1,0 +1,19 @@
+embeds:
+  - title: "**Help regarding Paperback**"
+    color: 0xD7FFE2
+    description: |-
+       Below, you will find important information on Paperback features. Such as:
+       - How to make and use a Backup
+       - Migrating your content to another third party source
+       - Information on how notifications works in Paperback
+       - Downloading chapters from the manga view detail.
+
+options: 
+  - label: App
+    value: app_paperback/appmenu
+    description: Help regarding the App
+    emoji: "<:paperback:712782695716880423>"
+  
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"

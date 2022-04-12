@@ -1,0 +1,20 @@
+embeds:
+  - title: "**Extensions**"
+    color: 0xD7FFE2
+    description: |-
+       Below, you will find important information about third party sources. Such as:
+       - Adding a third party source
+       - Adding a third party tracker
+       - Adjusting your content settings
+       - How to perform a Cloudflare Bypass
+       - Adjusting the language of the third party source
+
+options: 
+  - label: Extensions/Sources
+    value: app_extensions/extensionsmenu
+    description: Help regarding Extentions
+    emoji: "<:paperback:712782695716880423>"
+
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"
