@@ -3,7 +3,6 @@ embeds:
   title: "Welcome to **Paperback!**"
   description: |-
       Not following the guidelines stated below will get you banned from receiving support in the future.
-
   fields:
   - name: "​"
     value: |
@@ -24,9 +23,6 @@ embeds:
     inline: true
 
   title: "Welcome to **Paperback!**"
-  description: |-
-      Not following the guidelines stated below will get you banned from receiving support in the future.
-
   fields:
   - name: "​"
     value: |
