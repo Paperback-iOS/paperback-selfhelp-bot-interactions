@@ -2,9 +2,6 @@ embeds:
 - color: 0x2f3136
   title: "**Welcome to Paperback!**"
   description: |-
-    You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety. 
-    This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-
     1. **Use common sense**
     2. **Don't Advertise.**
     3. **Keep it English and SFW.**
@@ -13,8 +10,8 @@ embeds:
     6. **Do not ping/DM anyone without a valid reason or for support.**
     7. **If a Mod asks you to stop, STOP.**
 
-    Use the dropdown menu for examples.
-    If you are unsure about a rule, open a ModMail.
+    Use the dropdown menu for additional information about the rules*.
+    If you are unsure about a rule, open a ModMail to contact with the moderation team.
 
 options:  
   

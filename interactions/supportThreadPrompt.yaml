@@ -2,7 +2,7 @@ embeds:
 - color: 0xECC8F9
   title: "**__Be more specific__ about your problem/question so we can help you.**"
   description: |-
-      This is a **__public__** thread, **do not** send personal information.
+      This is a **__public__** thread, **do not** send personal information such as your email address.
       A reminder to **__not__** ping anyone for support. Support is provided by the community.
   fields:
   - name: "**Show (with screenshots) and give details:**"
@@ -11,10 +11,6 @@ embeds:
       ex: iOS 14.5
       **What is your app version?**
       ex: v0.6.0-b1.0.0
-      **What source are you using and what is the version?**
-      ex: Mangadex (1.0.0)
-      **What were you trying to read?**
-      ex: I was reincarnated as a manga app developer, chapter 1
     inline: false
   - name: "Unable to talk in this thread even though you opened it?"
     value: |
