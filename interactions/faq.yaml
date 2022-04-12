@@ -1,0 +1,52 @@
+embeds:
+  - title: "**Get started with Paperback**"
+    color: 0xD7FFE2
+    description: |-
+       Below, you will find important information on how to get started with Paperback. Such as:
+       - How to get started with Paperback
+       - Disclaimer about the app
+       - Related links to Paperback
+  options: 
+   - label: Getting started
+     value: app_others/othersmenu
+     description: Getting started with Paperback
+     emoji: "<:info:846438436655071302>"
+
+  - title: "Title"
+    description: |-
+       Desc
+    fields:
+      - name: "​"
+        value: |
+          Field
+        inline: true
+      - name: "​"
+        value: |
+          Field
+        inline: true
+
+  - title: "Title"
+    description: |-
+       Desc
+    fields:
+      - name: "​"
+        value: |
+          Field
+        inline: true
+      - name: "​"
+        value: |
+          Field
+        inline: true
+
+  - title: "Title"
+    description: |-
+       Desc
+    fields:
+      - name: "​"
+        value: |
+          Field
+        inline: true
+      - name: "​"
+        value: |
+          Field
+        inline: true
