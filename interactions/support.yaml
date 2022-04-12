@@ -8,15 +8,12 @@ embeds:
         value: |
           >>> <:Greentick:897344399611166761> Use common sense when asking for help.
           <:Greentick:897344399611166761> Provide detailed explanations for your issue.
-          <:Greentick:897344399611166761> Read <#809813745903599676> for source problems.
           <:Greentick:897344399611166761> Use the Help button to get common troubleshooting topics.
         inline: true
       - name: "​"
         value: |
-          >>> <:Redtick:897344399258837044> Don't mention **anyone** to receive support.
-          <:Redtick:897344399258837044> Don't DM **anyone** to receive support. 
+          >>> <:Redtick:897344399258837044> Don't mention/DM **anyone** to receive support.
           <:Redtick:897344399258837044> Don't create more than one thread at the same time.
-          <:Redtick:897344399258837044> Don't ask for help in someone else's thread.
           <:Redtick:897344399258837044> Don't cross-post your problems in multiple channels/threads.
           <:Redtick:897344399258837044> Don't expect an immediate response.
         inline: true
