@@ -23,3 +23,20 @@ embeds:
       <:Redtick:897344399258837044> Don't expect an immediate response.
     inline: true
 
+title: "This is a test"
+  description: |-
+      Nasdsada
+
+  fields:
+  - name: "​"
+    value: |
+      >>> <:Greentick:8973443996111667asdasdsadadshooting topics.
+    inline: true
+
+  - name: "​"
+    value: |
+      >>> <:Redtick:897344399258837044> Don't mention **anyone** to receive support.
+      <:Redtick:897dasdasdadt ask for help in someone else's thread.
+      <:Redtick:897344399258837044> Don't cross-post your problems in multiple channels/threads.
+      <:Redtick:897344399258837044> Don't expect an immediate response.
+    inline: true
