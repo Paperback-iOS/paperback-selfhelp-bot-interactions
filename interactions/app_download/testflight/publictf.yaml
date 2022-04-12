@@ -5,6 +5,7 @@ embeds:
   - name: "**We changed the way you get your Public Testflight invite.**"
     value: |
      You'll need to fill up a Google Form to be able to join the Testflight.
+     If it is full, you must wait for the next Testflight reset.
 
      Requirements:
      - a Google Account

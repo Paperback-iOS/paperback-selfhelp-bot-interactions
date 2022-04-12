@@ -4,7 +4,7 @@ embeds:
   - name: "**Getting started with Paperback**"
     value: |
 
-      Use this bot with the **Troubleshoot Issues** button to guide yourself through the most asked questions.
+      Use this bot with the **Help** button to guide yourself through the most asked questions.
 
       **Per example, how to add sources?**
       Click the **Help** button, click **Extensions/Sources** and then click **Adding Repository**. 

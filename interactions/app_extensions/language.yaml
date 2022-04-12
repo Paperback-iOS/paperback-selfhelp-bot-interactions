@@ -16,4 +16,4 @@ embeds:
       
   - name: "**Migrating old IDs to new IDs**"
     value: |
-      Refer to `!migrate` in <#741031213619478568>
+      Refer to `!migration` 

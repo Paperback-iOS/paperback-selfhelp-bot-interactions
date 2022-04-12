@@ -24,8 +24,3 @@ options:
     value: app_extensions/language
     description: Help with languages
     emoji: "<:settings:846436799684411402>"
-
-  - label: Request a source
-    value: app_extensions/requestsource
-    description: How to request a source
-    emoji: "<:info:846438436655071302>"
