@@ -1,11 +1,11 @@
 content: "Please choose a topic to receive help for"
 options: 
-  - label: Adding Repository
+  - label: Adding a third party repository
     value: app_extensions/repository
-    description: Help with sources & repositories
+    description: Help with third party repository
     emoji: "<:chevon:846960436431945779>"
 
-  - label: Adding a Tracker
+  - label: Adding a third party tracker
     value: app_extensions/tracker
     description: Help with trackers
     emoji: "<:chevon:846960436431945779>"

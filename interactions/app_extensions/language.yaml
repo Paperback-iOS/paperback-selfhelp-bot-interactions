@@ -6,7 +6,7 @@ embeds:
     value: |
       (only for some sources)
 
-      External Source -> Source -> Content Settings -> Language
+      External Source -> Third Party Source -> Content Settings -> Language
 
       If you don't see this, then your source doesn't support it.
 
