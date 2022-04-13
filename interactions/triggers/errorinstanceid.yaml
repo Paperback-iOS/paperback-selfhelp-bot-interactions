@@ -1,0 +1,23 @@
+embeds:
+- color: 0xC23F3F
+  title: "**ERROR INSTANCE ID**"
+  description: |
+    Worry not, it happens time to time. Here's some troubleshooting you can do to fix your issue.
+
+  fields:
+  - name: "**Make sure your name is standard**"
+    value: |
+      Make sure your Discord name has A-Z or 1-9 characters only.
+      Remove any emojis, any special characters. 
+
+  - name: "**Try again**"
+    value: |
+      Sometimes, Testflight bugs, just simply try again. 
+      If that doesn't work, come back here. 
+      
+permissions:
+  blacklist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"
+    - "${ ROLES.EXDEV }"
+
+

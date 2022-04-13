@@ -15,3 +15,7 @@ interaction:
         and type: `pb beta invite PatreonEmail `
         > Make sure to replace `PatreonEmail` with your email. 
       inline: false
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"

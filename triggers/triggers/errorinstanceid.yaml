@@ -1,0 +1,6 @@
+match: "ERROR INSTANCE ID"
+interaction: triggers/errorinstanceid
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"
