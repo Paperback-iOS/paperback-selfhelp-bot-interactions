@@ -1,21 +1,27 @@
 embeds:
-- color: 0xF96854
-  title: "**Patreon Testflight Access**"
-  fields:
-  - name: "**Get your Patreon role**"
-    value: |
-      You need to link your Discord account with Patreon.
-      Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
-      <:patreonbg:802238015958548480> Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
-      
-  - name: "**Receive your Testflight Invite**"
-    value: |
-      To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
-      `pb beta invite PatreonEmail `
-      > Make sure to replace `PatreonEmail` with your email. 
-      > **Everything must be done in the bot DMs**.
-      
-  - name: "**If you are an old Patreon**"
-    value: |
-      Search for your invite in your email. If you cannot find it, do all the 
-      steps above to receive your invite.
+  - title: "**Patreon Testflight Access**"
+    color: 0xF96854
+    fields:
+      - name: "Get your Patreon role"
+        value: |
+          You need to link your Discord account with Patreon.
+          Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
+          <:patreonbg:802238015958548480> Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
+        inline: false
+      - name: "If you are an old Patreon"
+        value: |
+          Search for your invite in your email. If you cannot find it, do all the 
+          steps above to receive your invite.
+        inline: false
+
+
+  - title: "Receive your Testflight Invite"
+    description: |-
+       If you have followed all of the above and your invite does not work, invite yourself.
+       To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
+       `pb beta invite PatreonEmail `
+       > Make sure to replace `PatreonEmail` with your email. 
+       > **Everything must be done in the bot DMs**.
+    image: 
+    url: "https://media.discordapp.net/attachments/870161417993613362/963622608845307924/unknown.png"
+
