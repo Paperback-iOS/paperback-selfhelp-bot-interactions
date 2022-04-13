@@ -2,7 +2,7 @@ embeds:
   - title: "**Get started with Paperback**"
     color: 0xD7FFE2
     description: |-
-       Below, you will find important information on how to get started with Paperback. Such as:
+       Below, you will find information on how to get started with Paperback.
        - How to get started with Paperback
        - Disclaimer about the app
        - Related links to Paperback
@@ -10,7 +10,7 @@ embeds:
   - title: "**Download Paperback**"
     color: 0xD7FFE2
     description: |-
-       Below, you will find important information on how to install Paperback from Testflight. Such as:
+       Below, you will find information on how to install Paperback from Testflight.
     fields:
       - name: "Public Testflight"
         value: |
@@ -26,7 +26,7 @@ embeds:
         inline: false
       - name: "AltStore"
         value: |
-          Below, you will find important information on how to install Paperback from AltStore. Such as:
+          Below, you will find information on how to install Paperback from AltStore.
           - What is AltStore?
           - MacOS Tutorial on how to install AltStore
           - Windows Tutorial on how to install AltStore
@@ -36,16 +36,16 @@ embeds:
   - title: "**Help regarding Paperback**"
     color: 0xD7FFE2
     description: |-
-       Below, you will find important information on Paperback features. Such as:
+       Below, you will find information on Paperback features.
        - How to make and use a Backup
        - Migrating your content to another third party source
-       - Information on how notifications works in Paperback
+       - Information on how notifications work in Paperback
        - Downloading chapters from the manga view detail.
 
   - title: "**Extensions**"
     color: 0xD7FFE2
     description: |-
-       Below, you will find important information about third party sources. Such as:
+       Below, you will find information about third party sources.
        - Adding a third party source
        - Adding a third party tracker
        - Adjusting your content settings

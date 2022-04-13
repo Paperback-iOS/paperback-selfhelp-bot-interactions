@@ -1,6 +1,5 @@
 content: "General information about:"
 options:  
-  
   - label: Get started with Paperback
     value: app_others/gettingstarted
     description: Must read before anything else!
