@@ -16,6 +16,7 @@ embeds:
 
 
   - title: "Receive your Testflight Invite"
+    color: 0xF96854
     description: |-
        If you have followed all of the above and your invite does not work, invite yourself.
        To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
@@ -23,5 +24,5 @@ embeds:
        > Make sure to replace `PatreonEmail` with your email. 
        > **Everything must be done in the bot DMs**.
     image: 
-    url: "https://media.discordapp.net/attachments/870161417993613362/963622608845307924/unknown.png"
+      url: "https://media.discordapp.net/attachments/870161417993613362/963622608845307924/unknown.png"
 
