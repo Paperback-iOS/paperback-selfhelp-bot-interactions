@@ -1,6 +1,6 @@
 embeds:
 - color: 0xB072FF
-  title: "**Title**"
+  title: "**Tracking with Anilist**"
   fields:
   - name: "**Adding the Tracker**"
     value: |
