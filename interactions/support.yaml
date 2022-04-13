@@ -3,6 +3,7 @@ embeds:
     color: 0xD7FFE2
     description: |-
        Not following the guidelines stated below will get you banned from receiving support in the future.
+       Try to troubleshoot your problems first before opening a support thread.
     fields:
       - name: "​"
         value: |
