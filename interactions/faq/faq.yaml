@@ -52,3 +52,6 @@ embeds:
        - How to perform a Cloudflare Bypass
        - Adjusting the language of the third party source
 
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MANAGER }"

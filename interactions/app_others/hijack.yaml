@@ -11,3 +11,7 @@ embeds:
       Then you can talk in your own support thread.
   footer:
     text: "Failure to comply will result in punishment."
+
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"

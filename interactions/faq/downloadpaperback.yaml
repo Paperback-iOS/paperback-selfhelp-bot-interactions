@@ -43,4 +43,4 @@ options:
 
 permissions:
   whitelist:
-    - "${ ROLES.COMMUNITY_MODERATOR }"
+    - "${ ROLES.COMMUNITY_MANAGER }"

@@ -49,3 +49,7 @@ options:
     value: rules/rules_seven
     description: 
     emoji: "<:seven:846461368059035709>"
+
+permissions:
+  whitelist:
+    - "${ ROLES.COMMUNITY_MANAGER }"
