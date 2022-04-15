@@ -10,10 +10,13 @@ embeds:
       url: "https://cdn.discordapp.com/attachments/870161417993613362/964571206051328110/unknown.png"
 
   - title: "How to get support"
+    color: 0xC23F3F
     description: |-
        Please make sure you've gone through the `Help` options before choosing this option.
        If you cannot find a solution: Open a thread.
        Do not hijack/steal someone else thread. 
+
+       Click the **Open a thread** once then **Continue** once otherwise you will open multiple threads.
 
     
 permissions:
