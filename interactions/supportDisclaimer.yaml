@@ -6,17 +6,18 @@ embeds:
        Do not expect someone to come immediately.
        **PLEASE NOTE:**
        Abuse of this function will result in a punishment. 
-    image: 
-      url: "https://cdn.discordapp.com/attachments/870161417993613362/964571206051328110/unknown.png"
 
   - title: "How to get support"
     color: 0xC23F3F
     description: |-
        Please make sure you've gone through the `Help` options before choosing this option.
        If you cannot find a solution: Open a thread.
+       Your thread will open under <#916345093139615744>.
        Do not hijack/steal someone else thread. 
 
        Click the **Open a thread** once then **Continue** once otherwise you will open multiple threads.
+    image: 
+      url: "https://cdn.discordapp.com/attachments/870161417993613362/964571206051328110/unknown.png"
 
     
 permissions:
