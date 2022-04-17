@@ -51,6 +51,11 @@ options:
     description: 
     emoji: "<:seven:846461368059035709>"
 
+  - label: Rule 8
+    value: rules/rules_eight
+    description: 
+    emoji: "<:eight:846461367992451102>"
+
 permissions:
   whitelist:
     - "${ ROLES.COMMUNITY_MANAGER }"
