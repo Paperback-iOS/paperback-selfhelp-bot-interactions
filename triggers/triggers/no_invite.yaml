@@ -19,3 +19,9 @@ interaction:
 channels:
   whitelist:
     - "${ CHANNELS.SUPPORT }"
+  blacklist:
+    - "${ CHANNELS.WELCOME }"
+    - "${ CHANNELS.RULES }"
+    - "${ CHANNELS.ANNOUNCEMENTS }"
+    - "${ CHANNELS.RELEASES }"
+    - "${ CHANNELS.ALPHA_CHAT }"

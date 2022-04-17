@@ -1,0 +1,12 @@
+match: "(readm|mangakakalot|manganelo|manganato|mangadex|sources|source|nhentai|manga4life|mangalife|mangasee|madaradex|toonily|webtoon|webtoonxyz|mangabat|mangapill|readcomicsonline|mangahub)"
+interaction: triggers/sourcesrec
+
+channels:
+  whitelist:
+    - "${ CHANNELS.SUPPORT }"
+  blacklist:
+    - "${ CHANNELS.WELCOME }"
+    - "${ CHANNELS.RULES }"
+    - "${ CHANNELS.ANNOUNCEMENTS }"
+    - "${ CHANNELS.RELEASES }"
+    - "${ CHANNELS.ALPHA_CHAT }"

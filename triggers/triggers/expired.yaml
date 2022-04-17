@@ -4,3 +4,9 @@ interaction: app_download/testflight/expired
 channels:
   whitelist:
     - "${ CHANNELS.SUPPORT }"
+  blacklist:
+    - "${ CHANNELS.WELCOME }"
+    - "${ CHANNELS.RULES }"
+    - "${ CHANNELS.ANNOUNCEMENTS }"
+    - "${ CHANNELS.RELEASES }"
+    - "${ CHANNELS.ALPHA_CHAT }"
