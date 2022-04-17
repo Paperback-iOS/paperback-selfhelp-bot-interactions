@@ -18,6 +18,14 @@ permissions:
 
 # Only delete stuff after this line if you know what you're doing.
 modules:
+  moderation:
+    enabled: true
+    loggingChannel: ${CHANNELS.MODMAIL.LOGGING}
+    muteConfig:
+      # set this up later
+      #permissions: 
+      muteRole: ${ROLES.MUTED}
+
   userNotes:
     enabled: false
     permissions:
