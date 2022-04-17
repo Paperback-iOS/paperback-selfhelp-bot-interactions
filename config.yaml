@@ -41,7 +41,7 @@ modules:
     # Log whenever someone's custom role is updated
     loggingChannel: "${ CHANNELS.CUSTOM_ROLES }"
 
-    createRoleAfter: "794360403454722100"
+    createRoleAfter: "741007547254964325"
 
   reactRoles:
     enabled: true
