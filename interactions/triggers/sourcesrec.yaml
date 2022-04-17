@@ -5,5 +5,8 @@ embeds:
     Paperback has decided to no longer provide help or recommend third party sources. 
     You must find the solution on your own or join a third party source Discord server.
 
-
+permissions:
+  blacklist:
+    - "${ ROLES.COMMUNITY_MODERATOR }"
+    - "${ ROLES.COMMUNITY_HELPER }"
 
