@@ -18,6 +18,6 @@ embeds:
 permissions:
   blacklist:
     - "${ ROLES.COMMUNITY_MODERATOR }"
-    - "${ ROLES.EXDEV }"
+    - "${ ROLES.COMMUNITY_HELPER }"
 
 
