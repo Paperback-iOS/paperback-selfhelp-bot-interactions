@@ -4,17 +4,6 @@ embeds:
   fields:
   - name: "**<:chevon:846960436431945779> Method 1**"
     value: |
-      - Open `Paperback` and open back Discord
-      - Navigate to: 
-      <#734871500200476743> (`#external-repos`)
-      - Search for the repository you want to add
-      - Press `Add to Paperback` and confirm
-    inline: true
-
-  - name: "**<:chevon:846960436431945779> Method 2**"
-    value: |
-      - Navigate to: 
-      <#734871500200476743> (`#external-repos`)
       - Grab the correct repository you want to install
       - Copy the link repository and paste it inside the app in your source tab by clicking `Edit` then `+`
 
