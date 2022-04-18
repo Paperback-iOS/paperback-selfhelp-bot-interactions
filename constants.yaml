@@ -37,6 +37,7 @@ ROLES:
   COMMUNITY_CLEARANCE: "916347966577602560"
 
 CHANNELS:
+  WARN_LOGS: "965740329506590740"
   # Default channels that users SHOULD see when they join the server. (Do not have a category)
   WELCOME: ""
   SUPPORT: "916345093139615744"
