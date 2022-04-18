@@ -21,6 +21,35 @@ modules:
   moderation:
     enabled: true
     loggingChannel: ${CHANNELS.MODMAIL.LOGGING}
+    
+    warnConfig:
+      permissions:
+          whitelist:
+            - "${ ROLES.COMMUNITY_HELPER }"
+            
+      cooldownPeriod: 1 month
+      
+      levels:
+        # Free warning
+        - action: NOTICE
+        
+        - action: MUTE
+          duration: 5 mins
+          
+        - action: MUTE
+          duration: 15 mins
+          
+        - action: MUTE
+          duration: 30 mins
+          
+        - action: MUTE
+          duration: 1 hour
+        
+        - action: MUTE
+          duration: 1 day
+          
+        - action: BAN
+            
     muteConfig:
       permissions:
         whitelist:
