@@ -20,7 +20,7 @@ permissions:
 modules:
   moderation:
     enabled: true
-    loggingChannel: ${CHANNELS.MODMAIL.LOGGING}
+    loggingChannel: ${ CHANNELS.WARN_LOGS }
     
     warnConfig:
       permissions:
