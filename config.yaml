@@ -98,15 +98,15 @@ modules:
 
         reactions:
           # REACTION EMOJI ID: ROLE
-          "iOS:960393067087667230":
+          "iOS:965748659964772382":
             role: "${ ROLES.IOS }"
             description: "<@&${ ROLES.IOS }>"
 
-          "iPadOS:960393067117043712":
+          "iPadOS:965748660078018590":
             role: "${ ROLES.IPADOS }"
             description: "<@&${ ROLES.IPADOS }>"
 
-          "MacOS:960393067138023484":
+          "MacOS:965748659847303219":
             role: "${ ROLES.MACOS }"
             description: "<@&${ ROLES.MACOS }>"
 
