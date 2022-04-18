@@ -22,8 +22,9 @@ modules:
     enabled: true
     loggingChannel: ${CHANNELS.MODMAIL.LOGGING}
     muteConfig:
-      # set this up later
-      #permissions: 
+      permissions:
+        whitelist:
+          - "${ ROLES.COMMUNITY_HELPER }"
       muteRole: ${ROLES.MUTED}
 
   userNotes:
