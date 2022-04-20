@@ -2,6 +2,6 @@ match: <(.*)>
 interaction: 
   content: "**Search:** ${ $MATCH[1] }"
   buttons: 
-    - title: RESULTS
+    - label: RESULTS
       url: "https://anilist.co/search/manga?search=${ encodeURIComponent($MATCH[1]) }&sort=SEARCH_MATCH"
       style: LINK
