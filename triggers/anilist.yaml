@@ -1,4 +1,4 @@
-match: <(?![@:!]|t:)(.*)>
+match: <(?![@:!#]|t:|a:)(.*)>
 interaction: 
   content: "**Search:** ${ $MATCH[1] }"
   buttons: 
