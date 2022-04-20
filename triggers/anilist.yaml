@@ -4,5 +4,4 @@ interaction:
   buttons: 
     - title: RESULTS
       url: "https://anilist.co/search/manga?search=${ encodeURIComponent($MATCH[1]) }&sort=SEARCH_MATCH"
-      
-  
+      style: LINK
