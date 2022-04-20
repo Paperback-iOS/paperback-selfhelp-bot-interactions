@@ -22,6 +22,41 @@ modules:
     enabled: true
     loggingChannel: ${ CHANNELS.WARN_LOGS }
     
+    wordCensorConfig:
+      matches:
+        - regex: gook\b
+          flags: i
+          warn: true 
+        - regex: niglet\b
+          flags: i
+          warn: true
+        - regex: tranny\b
+          flags: i
+          warn: true
+        - regex: cunt\b
+          flags: i
+        - regex: retard\b
+          flags: i
+        - regex: fag\b
+          flags: i
+          warn: true
+        - regex: nigur\b
+          flags: i
+          warn: true
+        - regex: cum\b
+          flags: i
+        - regex: chink\b
+          flags: i
+          warn: true
+        - regex: autist\b
+          flags: i
+        - regex: ni(gg|bb)(er|a)?\b
+          flags: i
+          warn: true
+        - regex: faggot\b
+          flags: i
+          warn: true
+    
     warnConfig:
       permissions:
           whitelist:
