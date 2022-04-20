@@ -35,9 +35,7 @@ modules:
           warn: true
         - regex: cunt\b
           flags: i
-        - regex: retard\b
-          flags: i
-        - regex: fag\b
+        - regex: retard(ed)?\b
           flags: i
           warn: true
         - regex: nigur\b
@@ -53,7 +51,7 @@ modules:
         - regex: ni(gg|bb)(er|a)?\b
           flags: i
           warn: true
-        - regex: faggot\b
+        - regex: fagg(ot)?\b
           flags: i
           warn: true
     
