@@ -108,7 +108,7 @@ modules:
     permissions:
       whitelist:
         - "${ ROLES.SUPPORTER_AAA }"
-        - "${ ROLES.SUPPORTER_AAA }"
+        - "${ ROLES.BOOSTER }"
 
     # Log whenever someone's custom role is updated
     loggingChannel: "${ CHANNELS.CUSTOM_ROLES }"
