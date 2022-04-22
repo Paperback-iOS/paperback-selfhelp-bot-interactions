@@ -107,7 +107,7 @@ modules:
     # Who can use the /vanityrole command, anyone with MANAGE_ROLES if not set.
     permissions:
       whitelist:
-        - 
+        - "${ ROLES.SUPPORTER_AAA }"
 
     # Log whenever someone's custom role is updated
     loggingChannel: "${ CHANNELS.CUSTOM_ROLES }"
