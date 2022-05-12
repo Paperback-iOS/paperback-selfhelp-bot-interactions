@@ -41,7 +41,7 @@ modules:
         - regex: nigur\b
           flags: i
           warn: true
-        - regex: cum\b
+        - regex: \bcum\b
           flags: i
         - regex: chink\b
           flags: i
