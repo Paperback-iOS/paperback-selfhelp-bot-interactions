@@ -11,4 +11,4 @@ embeds:
 
   - name: "**Tracking**"
     value: |
-      Open the manga page view, click the Flag icon, track the manga and set the status to reading.
+      Open the manga page view, click the link icon (:link:), track the manga and set the status to reading.
