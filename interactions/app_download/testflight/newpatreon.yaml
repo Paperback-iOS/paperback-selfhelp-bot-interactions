@@ -23,6 +23,8 @@ embeds:
        `pb beta invite PatreonEmail `
        > Make sure to replace `PatreonEmail` with your email. 
        > **Everything must be done in the bot DMs**.
+
+       Note: Make sure your name is in english alphabet (A-Z or 1-9). Using others special characters will not work.
     image: 
       url: "https://media.discordapp.net/attachments/870161417993613362/963622608845307924/unknown.png"
 
