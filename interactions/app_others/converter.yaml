@@ -1,9 +1,0 @@
-embeds:
-- color: 0x10D1C3
-  fields:
-  - name: "**Tachiyomi to Paperback Converter**"
-    value: |
-      Tachiyomi to Paperback [converter](https://deploy-preview-98--paperbackios.netlify.app/tools/backup-converter/)
-
-    thumbnail:
-      url: https://media.discordapp.net/attachments/889313442526269520/889368117640298496/Android.png?width=568&height=676
