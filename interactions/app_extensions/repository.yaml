@@ -14,6 +14,13 @@ embeds:
       - `404, File not found`
     inline: true
 
+  - name: "**Getting sources**"
+    value: |
+      Paperback does not hotlink to third party repositories anymore. You must find it yourself.
+      You can use Google or other means but you can not ask in a support thread where to find it. 
+
+      We are not responsible for third party repositories.
+
   - name: "**Adding sources**"
     value: |
       __Sources are inside the external repository.__ You need to open the repository in order to install your sources.
