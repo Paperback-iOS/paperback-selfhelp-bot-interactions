@@ -58,6 +58,8 @@ modules:
     warnConfig:
       permissions:
           whitelist:
+            - "${ ROLES.COMMUNITY_MANAGER }"
+            - "${ ROLES.COMMUNITY_MODERATOR }"
             - "${ ROLES.COMMUNITY_HELPER }"
             
       cooldownPeriod: 1 month
