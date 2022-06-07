@@ -4,8 +4,8 @@ embeds:
   fields:
   - name: "**Information**"
     value: |
-      Komga is a self-hosted server. It is important that you read everything.
-      Paperback will not help you set up a Komga server.
+      Komga is a self-hosted comic/manga server. So you run the Komga software on your own PC/server to serve your own files. And then enter the IP of your server into Paperback. 
+      It is important that you read everything. Paperback will not help you set up a Komga server.
       Every information is available here: https://komga.org/
 
   - name: "**Download Komga on your server**"
