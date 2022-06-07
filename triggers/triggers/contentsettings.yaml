@@ -1,6 +1,0 @@
-match: "(sources|content) settings"
-interaction: app_extensions/contentsettings
-
-channels:
-  whitelist:
-    - "${ CHANNELS.SUPPORT }"
