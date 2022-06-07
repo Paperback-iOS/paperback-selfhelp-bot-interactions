@@ -27,9 +27,6 @@ modules:
         - regex: gook\b
           flags: i
           warn: true
-        - regex: orgy\b
-          flags: i
-          warn: true 
         - regex: niglet\b
           flags: i
           warn: true
