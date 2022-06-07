@@ -1,4 +1,4 @@
-match: "(readm|mangakakalot|manganelo|manganato|mangadex|sources|source|nhentai|manga4life|mangalife|mangasee|madaradex|toonily|webtoon|webtoonxyz|mangabat|mangapill|readcomicsonline|mangahub)"
+match: "(!source)"
 interaction: triggers/sourcesrec
 
 channels:
