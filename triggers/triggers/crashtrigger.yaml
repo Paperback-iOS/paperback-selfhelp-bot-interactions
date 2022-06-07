@@ -1,4 +1,4 @@
-match: "crash"
+match: "!crash"
 interaction: triggers/crash
 
 channels:

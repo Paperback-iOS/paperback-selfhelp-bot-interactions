@@ -1,4 +1,4 @@
-match: "(!source)"
+match: "!source"
 interaction: triggers/sourcesrec
 
 channels:
