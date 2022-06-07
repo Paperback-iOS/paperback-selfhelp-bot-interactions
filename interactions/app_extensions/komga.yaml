@@ -1,0 +1,18 @@
+embeds:
+- color: 0xEC736D
+  title: "**How to use Komga**"
+  fields:
+  - name: "**Information**"
+    value: |
+      Komga is a self-hosted server. It is important that you read everything.
+      Paperback will not help you set up a Komga server.
+      Every information is available here: https://komga.org/
+
+  - name: "**Download Komga on your server**"
+    value: |
+      https://komga.org/installation/
+
+  - name: "**Use Komga on Paperback**"
+    value: |
+      https://komga.org/guides/paperback.html
+      
