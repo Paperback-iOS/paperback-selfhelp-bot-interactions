@@ -4,6 +4,7 @@ embeds:
   fields:
   - name: "**Adding the Tracker**"
     value: |
+    **You need to add this manually to Paperback** Do not open the link.
       Go to your settings (<:settings:846436799684411402>) -> External Trackers -> Edit -> + and add:
       https://paperback-ios.github.io/trackers-main/main
 
