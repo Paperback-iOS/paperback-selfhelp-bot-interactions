@@ -126,6 +126,18 @@ modules:
        - "${ ROLES.COMMUNITY_MANAGER }"
   
     configs:
+      FEEDBACK:
+        title: "Feedback Role"
+        description: |- 
+          React with 📣 to get notifications when feedback is required for any new features of the app.
+          *Note: Reactions will be removed if the bot successfully gives you the role.*
+          
+        reactions:
+          "📣":
+            role: "676012997264539649"
+            description: "Get pinged for feedback"
+        
+        
       DEVICEOS:
         title: "What is your primary device of use for Paperback?"
         color: 0x2f3136
