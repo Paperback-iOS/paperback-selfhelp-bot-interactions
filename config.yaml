@@ -130,7 +130,7 @@ modules:
         title: "Feedback Role"
         description: |- 
           React with 📣 to get notifications when feedback is required for any new features of the app.
-          *Note: Reactions will be removed if the bot successfully gives you the role.*
+          ***Note**: Reactions will be removed if the bot successfully gives you the role.*
           
         reactions:
           "📣":
