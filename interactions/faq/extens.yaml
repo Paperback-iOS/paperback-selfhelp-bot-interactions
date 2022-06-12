@@ -6,8 +6,6 @@ embeds:
        - Adding a third party source
        - Adding a third party tracker
        - Adjusting your content settings
-       - How to perform a Cloudflare Bypass
-       - Adjusting the language of the third party source
 
 options: 
   - label: Adding a third party repository
@@ -23,16 +21,6 @@ options:
   - label: Content Settings
     value: app_extensions/contentsettings
     description: Help with content settings
-    emoji: "<:settings:846436799684411402>"
-
-  - label: Cloudflare Bypass
-    value: app_extensions/cloudflare
-    description: Help with Cloudflare Bypass
-    emoji: "<:cloudflare2:846436730948157480>"
-
-  - label: Language
-    value: app_extensions/language
-    description: Help with languages
     emoji: "<:settings:846436799684411402>"
 
 permissions:

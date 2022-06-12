@@ -1,8 +1,8 @@
 embeds:
 - color: 0x508DEB
-  title: "**<:download:846436748024348703> Downloading / Removing chapters **"
+  title: "**Downloading / Removing chapters **"
   fields:
-  - name: '<:next:846452869175050240> Downloading chapters:'
+  - name: 'Downloading chapters:'
     value: |
       Go to your manga page
       Scroll down until you see "All Chapters" 
@@ -10,7 +10,7 @@ embeds:
       Select what you want to download 
       and then click "Manage" - > "Queue Download"
     inline: true
-  - name: '<:next:846452869175050240> Removing downloaded chapters:'
+  - name: 'Removing downloaded chapters:'
     value: |
       Same steps but at the end, click "Remove Download`
     inline: true

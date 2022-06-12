@@ -1,5 +1,10 @@
 content: "Please choose a topic to receive help for"
 options: 
+  - label: App Store
+    value: app_download/testflighthelp
+    description: Help regarding the App Store
+    emoji: ""
+
   - label: Public Testflight
     value: app_download/testflighthelp
     description: Help regarding the Public Testflight

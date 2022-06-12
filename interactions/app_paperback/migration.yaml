@@ -2,12 +2,12 @@ embeds:
 - color: 2ECC71
   title: "**Migrating your library**"
   fields:
-  - name: '<:next:846452869175050240> Downloading chapters:'
+  - name: 'Downloading chapters:'
     value: |
-      Migration can be useful if you want to read your manga from one source to another. Follow these steps to migrate. 
+      Migration can be useful if you want to read your title from one source to another. Follow these steps to migrate. 
 
       Open your library in any collection.
-      Migrate (<:migration:883030306452537414>)<:next2:846467349724790816> Select one source to migrate from <:next2:846467349724790816> Select source(s) to migrate to <:next2:846467349724790816> Select your migration parameters <:next2:846467349724790816> Backup  <:next2:846467349724790816> Wait for the migration to finish  <:next2:846467349724790816> Confirm the migration
+      Migrate (<:migration:883030306452537414>) -> Select one source to migrate from -> Select source(s) to migrate to -> Select your migration parameters -> Backup -> Wait for the migration to finish -> Confirm the migration
 
       Note : The bigger your library is, the longer you will need to wait.
  

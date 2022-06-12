@@ -14,9 +14,4 @@ options:
     value: app_download/altstore/windows
     description: Help topics regarding Windows installation
     emoji: "<:windows:893202544128569414>"
-
-  - label: AltStore FAQs
-    value: app_download/altstore/altstorefaq
-    description: Frequently Asked Questions about AltStore
-    emoji: "<:Altstore:923735231234736138>"
   

@@ -1,11 +1,9 @@
 embeds:
-- color: 0xF5A623
-  title: "**Content Settings**"
-  fields:
-  - name: "**<:cloudflare2:846436730948157480> Cloudflare Bypass**"
-    value: |
+  - title: "**CloudFlare Bypass**"
+    color: 0xF5A623
+    description: |-
       There are two ways to bypass Cloudflare:
 
-      1. Go to Discover, scroll to the source you want to use and press the <:cloudflare2:846436730948157480> icon.
+      1. Go to Discover, scroll to the source you want to use and press the cloud icon.
 
-      2. Go to Settings <:next2:846467349724790816> Sources <:next2:846467349724790816> The Source <:next2:846467349724790816> Cloudflare bypass
+      2. Go to Settings -> Sources -> The Source -> Cloudflare bypassDesc

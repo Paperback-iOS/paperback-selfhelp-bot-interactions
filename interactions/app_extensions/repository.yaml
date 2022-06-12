@@ -2,31 +2,21 @@ embeds:
 - color: 0x6612B0
   title: "**Adding an external repository**"
   fields:
-  - name: "**<:chevon:846960436431945779> Method 1**"
+  - name: "**Get the repository**"
     value: |
+      Paperback does not hotlink to third party repositories. You must find it yourself.
+      You can use Google or other means but you can not ask in a support thread where to find it. 
+      We are not responsible for third party repositories.
+
       - Grab the correct repository you want to install
       - Copy the link repository and paste it inside the app in your source tab by clicking `Edit` then `+`
 
-  - name: "**<:chevon:846960436431945779> Notes**"
-    value: |
-      Never open the link. You messed up if it says:
-      - `Unable to fetch source list`
-      - `404, File not found`
-    inline: true
-
-  - name: "**Getting sources**"
-    value: |
-      Paperback does not hotlink to third party repositories anymore. You must find it yourself.
-      You can use Google or other means but you can not ask in a support thread where to find it. 
-
-      We are not responsible for third party repositories.
-
   - name: "**Adding sources**"
     value: |
-      __Sources are inside the external repository.__ You need to open the repository in order to install your sources.
+      __Sources are inside the repository.__ You need to open the repository in order to install your sources.
       We recommend you to get a maximum of 10 third party sources at the same time.
 
-      If you see source filtered, go to #support and select `-Adjusting your content settings` under Extensions
-      **My source is not working**
-      Make sure your source is up to date, try to access it on Safari.
-      > If your third party source doesn't have an image. It is outdated.
+  - name: "**Sources Settings**"
+    value: |
+      External Source -> Third Party Source -> Content Settings -> Language
+      If you don't see this, then your third party source doesn't support it.

@@ -15,7 +15,7 @@ options:
     description: Help with notifications
     emoji: "🔔"
 
-  - label: Download
+  - label: Download Chapters
     value: app_paperback/download
     description: Help with download
     emoji: "<:download:846436748024348703>"

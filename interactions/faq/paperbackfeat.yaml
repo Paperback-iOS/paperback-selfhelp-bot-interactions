@@ -6,7 +6,7 @@ embeds:
        - How to make and use a Backup
        - Migrating your content to another third party source
        - Information on how notifications works in Paperback
-       - Downloading chapters from the manga view detail.
+       - How to download chapters
 
 options: 
   - label: Backups
@@ -24,7 +24,7 @@ options:
     description: Help with notifications
     emoji: "🔔"
 
-  - label: Download
+  - label: Download Chapters
     value: app_paperback/download
     description: Help with download
     emoji: "<:download:846436748024348703>"

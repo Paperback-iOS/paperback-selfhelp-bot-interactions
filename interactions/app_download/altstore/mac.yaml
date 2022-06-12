@@ -28,6 +28,6 @@ embeds:
 
   - name: "**Links**"
     value: |
-      <:download:846436748024348703> [Download AltStore](https://altstore.io/)
-      <:Apple:893202544246001715> [Mac Installation Guide](https://youtu.be/qTgiHQVgulg)
-      <:download:846436748024348703> Grab the IPA from <#705063298231566366>
+      [Download AltStore](https://altstore.io/)
+      [Mac Installation Guide](https://youtu.be/qTgiHQVgulg)
+      Grab the IPA from <#705063298231566366>

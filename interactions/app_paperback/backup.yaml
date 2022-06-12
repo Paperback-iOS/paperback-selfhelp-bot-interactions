@@ -4,15 +4,15 @@ embeds:
   fields:
   - name: 'Backing your data:'
     value: |
-      > Settings <:next2:846467349724790816> Backup <:next2:846467349724790816> New Backup  <:next2:846467349724790816> Save to Notes or Files
+      > Settings -> Backup -> New Backup -> Save to Notes or Files
     inline: false
   - name: '📝 Importing using Notes'
     value: |
-      > Open your note <:next2:846467349724790816> Hold your backup <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
+      > Open your note -> Hold your backup -> Export to Paperback -> Restore
     inline: true
   - name: '📁 Importing using Files:'
     value: |
-      > Open Files <:next2:846467349724790816> Hold your backup <:next2:846467349724790816> Export to Paperback <:next2:846467349724790816> Restore
+      > Open Files -> Hold your backup -> Export to Paperback -> Restore
     inline: true
 
 buttons:
