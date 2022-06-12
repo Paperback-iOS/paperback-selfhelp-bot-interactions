@@ -8,12 +8,6 @@ embeds:
           Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
           Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
         inline: false
-      - name: "If you are an old Patreon"
-        value: |
-          Search for your invite in your email. If you cannot find it, do all the 
-          steps above to receive your invite.
-        inline: false
-
 
   - title: "Receive your Testflight Invite"
     color: 0xF96854
