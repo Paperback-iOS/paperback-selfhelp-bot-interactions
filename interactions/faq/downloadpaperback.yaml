@@ -7,22 +7,21 @@ embeds:
       - name: "App Store"
         value: |
           Information on how to get the app from the App Store
-        inline: true
+        inline: false
       - name: "Testflight"
         value: |
           Below the Testflight option, you will find:
           - How to get into the Public Testflight
           - Information about the app being expired
           - Information on how to get into the Patreon Testflight
-        inline: true
+        inline: false
       - name: "AltStore"
         value: |
           Below, you will find information on how to install Paperback from AltStore.
           - What is AltStore?
           - How to install AltStore on MacOS
           - How to install AltStore on Windows
-          - Frequently asked questions about AltStore
-        inline: true
+        inline: false
 
 options:
   - label: App Store
