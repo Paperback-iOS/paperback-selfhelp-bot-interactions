@@ -4,7 +4,7 @@ embeds:
     description: |-
        Below, you will find information on how to install Paperback.
     fields:
-        - name: "App Store"
+      - name: "App Store"
         value: |
           Information on how to get the app from the App Store
         inline: true
