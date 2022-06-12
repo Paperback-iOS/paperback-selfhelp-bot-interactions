@@ -143,6 +143,7 @@ modules:
         color: 0x2f3136
         description: |-
           React with the matching emoji for specific roles
+          ***Note**: Reactions will be removed if the bot successfully gives you the role.*
 
         reactions:
           # REACTION EMOJI ID: ROLE

@@ -2,6 +2,7 @@ embeds:
 - color: 0x2f3136
   title: "**Welcome to Paperback!**"
   description: |-
+    **Paperback Rules**
     1. **Use common sense**
     2. **Don't Advertise.**
     3. **Keep it English and SFW.**
@@ -10,11 +11,9 @@ embeds:
     6. **Do not ping/DM anyone without a valid reason or for support.**
     7. **If a Mod asks you to stop, STOP.**
     8. **Do not mention third party sources**
-
-    It is recommended to turn off your DMs for this server and reopen them for Testflight resets.
     
-    Use the dropdown menu for additional information about the rules*.
     If you are unsure about a rule, open a ModMail to contact with the moderation team.
+    Use the dropdown menu for additional information about the rules*.
 
 options:  
   
