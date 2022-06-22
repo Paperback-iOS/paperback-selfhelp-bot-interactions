@@ -3,14 +3,13 @@ embeds:
     color: 0xD7FFE2
     description: |-
        Not following the guidelines stated below will get you banned from receiving support in the future.
-       Try to troubleshoot your problems first in [#FAQ](https://discord.com/channels/673606787290759230/985399243093196820) (<#985399243093196820>) before opening a support thread.
+       Try to troubleshoot your problems first before opening a support thread.
     fields:
       - name: "​"
         value: |
           >>> <:greentick:985401856345927731> Use common sense when asking for help.
           <:greentick:985401856345927731> Provide detailed explanations for your issue.
           <:greentick:985401856345927731> Use the Help button to get common troubleshooting topics.
-          <:greentick:985401856345927731> Use [#FAQ](https://discord.com/channels/673606787290759230/985399243093196820) (<#985399243093196820>) to get common troubleshooting topics.
         inline: true
       - name: "​"
         value: |
