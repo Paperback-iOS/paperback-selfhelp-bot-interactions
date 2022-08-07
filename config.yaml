@@ -128,6 +128,17 @@ modules:
        - "${ ROLES.COMMUNITY_MANAGER }"
   
     configs:
+      ALPHA_PING:
+        title: "Get pinged for alpha releases"
+        description: |- 
+          React with 📣 to get notifications when a new alpha is released.
+          ***Note**: Reactions will be removed if the bot successfully gives you the role.*
+        reactions:
+          "📣":
+            role: "1005830991945941003"
+            description: "Get pinged for Alpha Releases"
+        
+    
       FEEDBACK:
         title: "Feedback Role"
         description: |- 
