@@ -12,12 +12,6 @@ embeds:
       We are **not** AltStore. 
       We just recommend you their app to sideload Paperback. Join their [Discord](https://discord.gg/ERssHqy) server, they know better than us.
 
-  - name: "**Links**"
-    value: |
-      [Download AltStore](https://altstore.io/)
-      [Windows Installation Guide](https://youtu.be/2NBACQHgF-I)
-      [Mac Installation Guide](https://youtu.be/qTgiHQVgulg)
-      Grab the IPA from <#965076953038200832> (`#releases`)
 
   - name: "**Paperback is no longer available**"
     value: |
