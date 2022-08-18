@@ -6,21 +6,20 @@ embeds:
     fields:
       - name: "App Store"
         value: |
-          Information on how to get the app from the App Store
+          Information on how to get the app from the [App Store](https://paperback.moe/help/installation/app-store/)
         inline: false
       - name: "Testflight"
         value: |
           Below the Testflight option, you will find:
-          - How to get into the Public Testflight
-          - Information about the app being expired
-          - Information on how to get into the Patreon Testflight
+          - How to get into the [Public Testflight](https://paperback.moe/help/installation/public-testflight/)
+          - Information on how to get into the [Patreon Testflight](https://paperback.moe/help/installation/beta-testflight/)
         inline: false
       - name: "AltStore"
         value: |
           Below, you will find information on how to install Paperback from AltStore.
-          - What is AltStore?
-          - How to install AltStore on MacOS
-          - How to install AltStore on Windows
+          - What is [AltStore](https://altstore.io/)?
+          - How to install AltStore on [MacOS](https://paperback.moe/help/installation/public-altstore/#prerequisites)
+          - How to install AltStore on [Windows](https://paperback.moe/help/installation/public-altstore/#prerequisites)
         inline: false
 
 options:

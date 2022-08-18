@@ -3,10 +3,10 @@ embeds:
     color: 0xD7FFE2
     description: |-
        Below, you will find information on Paperback features.
-       - How to make and use a Backup
+       - How to make and use a [Backup](https://paperback.moe/help/guides/backups/)
        - Migrating your content to another third party source
-       - Information on how notifications works in Paperback
-       - How to download chapters
+       - Information on how [notifications](https://paperback.moe/help/faq/#how-do-notifications-work) works in Paperback
+       - How to [download chapters](https://paperback.moe/help/faq/#how-can-i-download-manga-to-my-device-for-offline-viewing)
 
 options: 
   - label: Backups
