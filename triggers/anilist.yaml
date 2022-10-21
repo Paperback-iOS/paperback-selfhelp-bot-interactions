@@ -3,5 +3,5 @@ interaction:
   content: "**Search:** ${ $MATCH[1].replace(/[\\{\\}\\$]/g, '') }"
   buttons: 
     - label: RESULTS
-      url: "https://anilist.co/search/manga?search=${ encodeURIComponent($MATCH[1].replace(\/[\{\}\$]\/gi, '')) }&sort=SEARCH_MATCH"
+      url: "https://anilist.co/search/manga?search=${ encodeURIComponent($MATCH[1].replace(/[{}$]/gi, '')) }&sort=SEARCH_MATCH"
       style: LINK
