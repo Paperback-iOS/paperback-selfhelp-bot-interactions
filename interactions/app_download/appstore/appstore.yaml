@@ -1,10 +1,12 @@
 embeds:
 - color: 0xC7F55A
-  title: "**WIP**"
+  title: "**Get Paperback on the App Store**"
+    description: |-
+       [Click here](https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373) to get Paperback on the App Store
   fields:
-  - name: "**WIP**"
+  - name: "**Paperback is not available in this country**"
     value: |
-     WIP
+     For multiple reasons, Paperback may not be available in your country. Use another method to get the app.
 
   footer:
     text: "Paperback will never ask you for your password."
