@@ -1,8 +1,8 @@
 embeds:
 - color: 0xC7F55A
   title: "**Get Paperback on the App Store**"
-    description: |-
-       [Click here](https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373) to get Paperback on the App Store
+  description: |-
+      [Click here](https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373) to get Paperback on the App Store
   fields:
   - name: "**Paperback is not available in this country**"
     value: |
