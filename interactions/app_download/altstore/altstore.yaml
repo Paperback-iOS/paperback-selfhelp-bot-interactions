@@ -3,27 +3,24 @@ embeds:
   fields:
   - name: "**AltStore**"
     value: |
-      AltStore is an amazing third-party app installer for non-jailbroken devices. You can sideload Paperback using AltStore.
+      AltStore is a reliable third-party app installer that can be used for non-jailbroken devices. You can conveniently sideload Paperback using AltStore.
 
-      If you need additional help with [AltStore](https://altstore.io/). 
-      Read their [FAQs](https://altstore.io/faq/)
+      If you require additional assistance with AltStore, please visit their official website at https://altstore.io/faq/ to review their frequently asked questions.
 
-      **Disclaimer**"
-      We are **not** AltStore. 
-      We just recommend you their app to sideload Paperback. Join their [Discord](https://discord.gg/ERssHqy) server, they know better than us.
-
+      **Disclaimer:**
+      We are not affiliated with AltStore. We simply recommend their app to sideload Paperback. For further support, we suggest joining their Discord server at https://discord.gg/ERssHqy for more information.
 
   - name: "**Paperback is no longer available**"
     value: |
-      Reinstall Altstore, then refresh Paperback within Altstore
+      To refresh Paperback, please reinstall AltStore, then refresh Paperback within AltStore.
     inline: true
 
   - name: "**AltStore is no longer available**"
     value: |
-      Reinstall Altstore via the same method you installed
+      To reinstall AltStore, please use the same method you used to install it originally.
     inline: true
 
-  - name: "**Wait the app expires after 7 days?**"
+  - name: "**Will the app expire after 7 days?**"
     value: |
-      Yes, you need to refresh it before it expires. 
+      Yes, the app will expire after 7 days. You will need to refresh it before it expires to continue using it.
     inline: true

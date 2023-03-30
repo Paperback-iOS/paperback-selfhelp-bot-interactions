@@ -4,25 +4,28 @@ embeds:
   fields:
   - name: "**Before Installing:**"
     value: |
-      Download the latest version of [iTunes](https://www.apple.com/itunes/) directly from Apple (not the Microsoft Store).
-      Download the latest version of [iCloud](https://support.apple.com/en-us/HT204283) directly from Apple (not the Microsoft Store).
+      To install AltStore on Windows, you will need to download the latest version of iTunes and iCloud directly from Apple (not the Microsoft Store). You can download them from the following links:
 
       iTunes: https://www.apple.com/itunes/
       iCloud: https://support.apple.com/en-us/HT204283
 
-  - name: "**How do I install AltStore?**"
+  - name: "**How to Install AltStore**"
     value: |
+      Follow these steps to install AltStore on Windows:
+
       1. Download AltServer for Windows.
       2. Extract the downloaded “AltInstaller.zip” file.
       3. Double-click “setup.exe”, then follow the installation instructions.
       4. Launch AltServer (it will appear as an icon in the Notification Area).
-      5. Trust your iPhone with your computer (if needed).
-      6. Open iTunes and enable iTunes Wi-Fi sync for your phone.
-      7. Click the AltServer icon in the Notification Area, click “Install AltStore”, then choose your phone.
-      8. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
-      9. Wait a few seconds, then AltStore will be installed to your phone.
+      5. Connect your iPhone to your computer and make sure it is unlocked.
+      6. Trust your iPhone with your computer (if needed).
+      7. Open iTunes and enable iTunes Wi-Fi sync for your phone.
+      8. Click the AltServer icon in the Notification Area, click “Install AltStore”, then choose your phone.
+      9. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
+      10. Wait a few seconds, then AltStore will be installed to your phone.
 
   - name: "**Links**"
     value: |
-      [Download AltStore](https://altstore.io/)
-      Grab the IPA from <#705063298231566366>
+    value: |
+      For more information and to download AltStore, please visit their official website at https://altstore.io/.
+      You can also grab the IPA from <#705063298231566366>.

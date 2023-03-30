@@ -1,20 +1,11 @@
 embeds:
-- color: 0xC7F55A
-  title: "**Get Paperback on the App Store**"
-  description: |-
-      [Click here](https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373) to get Paperback on the App Store
-  fields:
-  - name: "**Paperback is not available in this country**"
-    value: |
-     For multiple reasons, Paperback may not be available in your country. Use another method to get the app.
-
+- title: "Get Paperback on the App Store"
+  description: "Download Paperback, a Komga client, from the App Store today."
+  url: "https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373"
+  color: 0xC7F55A
   footer:
-    text: "Paperback will never ask you for your password."
-     
-
-
-
-
-     
-
-    
+    text: "Paperback will never ask for your password."
+  fields:
+  - name: "Paperback Not Available in Your Country"
+    value: "Unfortunately, Paperback may not be available in your country due to multiple reasons. Please try another method to obtain the app."
+    inline: false
