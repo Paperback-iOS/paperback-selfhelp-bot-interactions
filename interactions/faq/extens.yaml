@@ -52,8 +52,8 @@ options:
     description: "Instructions for adjusting content settings"
     emoji: "<:settings:846436799684411402>"
 
-  permissions:
-    whitelist:
-      - "${ROLES.COMMUNITY_MANAGER}"
-      - "${ROLES.COMMUNITY_MODERATOR}"
-      - "${ROLES.COMMUNITY_HELPER}"
+permissions:
+  whitelist:
+    - "${ROLES.COMMUNITY_MANAGER}"
+    - "${ROLES.COMMUNITY_MODERATOR}"
+    - "${ROLES.COMMUNITY_HELPER}"
