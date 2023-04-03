@@ -1,22 +1,28 @@
 embeds:
 - color: 0x6612B0
-  title: "**Adding an external repository**"
+  title: "**Adding an External Repository**"
   fields:
-  - name: "**Get the repository**"
+  - name: "**Get the Repository**"
     value: |
-      Paperback does not hotlink to third party repositories. You must find it yourself.
-      You can use Google or other means but you can not ask in a support thread where to find it. 
-      We are not responsible for third party repositories.
+      Please note that Paperback does not hotlink to third-party repositories. You are responsible for finding the correct repository yourself. You can use Google or other search engines to find it, but we cannot provide support in finding third-party repositories.
 
-      - Grab the correct repository you want to install
-      - Copy the link repository and paste it inside the app in your source tab by clicking `Edit` then `+`
+      To add a repository, follow these steps:
+      1. Find the repository you want to install.
+      2. Copy the repository link.
+      3. Open the app and navigate to the Source tab.
+      4. Click on "Edit" and then "+"
+      5. Paste the repository link in the appropriate field.
 
-  - name: "**Adding sources**"
+  - name: "**Adding Sources**"
     value: |
-      __Sources are inside the repository.__ You need to open the repository in order to install your sources.
-      We recommend you to get a maximum of 10 third party sources at the same time.
+      To add sources, you will need to open the repository you just installed. Please note that sources are specific to each repository, and you cannot install them outside of the repository.
 
-  - name: "**Sources Settings**"
+      We recommend that you only install up to 10 third-party sources at once, as having too many sources can cause performance issues and slow down the app.
+
+  - name: "**Source Settings**"
     value: |
-      External Source -> Third Party Source -> Content Settings -> Language
-      If you don't see this, then your third party source doesn't support it.
+      Some third-party sources support language filtering. To change the language filter settings for a specific third-party source, follow these steps:
+      1. Navigate to the External Source tab.
+      2. Click on the Third Party Source you want to configure.
+      3. Click on "Content Settings" and then select the desired language filter setting.
+      Note that if you do not see the language filter settings, it means that the third-party source does not support this feature.

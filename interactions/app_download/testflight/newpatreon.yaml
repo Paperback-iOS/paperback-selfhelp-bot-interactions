@@ -2,23 +2,23 @@ embeds:
   - title: "**Patreon Testflight Access**"
     color: 0xF96854
     fields:
-      - name: "Get your Patreon role"
-        value: |
-          You need to link your Discord account with Patreon.
-          Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
-          Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
+      - name: "Link Your Discord Account with Patreon"
+        value: "To get access to the Patreon Testflight, you need to link your Discord account with Patreon. Follow the instructions [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role) to learn how to link your accounts."
         inline: false
 
-  - title: "Receive your Testflight Invite"
+  - title: "Get Your Testflight Invite for the version 0.7"
     color: 0xF96854
     description: |-
-       If you have followed all of the above and your invite does not work, invite yourself.
-       To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type:
-       `pb beta invite PatreonEmail `
-       > Make sure to replace `PatreonEmail` with your email. 
-       > **Everything must be done in the bot DMs**.
+      To get your invite to the Testflight, you need to contact <@796518312397111306> (`Paperback Bot#1108`) and type: `pb beta invite PatreonEmail`.
+      Replace `PatreonEmail` with your email. 
+      **All communication must be done in the bot DMs.**
 
-       Note: Make sure your name is in english alphabet (A-Z or 1-9). Using others special characters will not work.
+      Note: Your name must be in English alphabet (A-Z or 1-9). Using other special characters will not work.
+
+  - title: "Get Your Testflight Invite for the version 0.8"
+    color: 0xF96854
+    description: |-
+      To get your invite to the Testflight, you need to use the command : `/invite`
+
     image: 
       url: "https://media.discordapp.net/attachments/870161417993613362/963622608845307924/unknown.png"
-

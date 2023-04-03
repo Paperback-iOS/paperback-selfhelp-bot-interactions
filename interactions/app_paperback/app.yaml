@@ -2,17 +2,19 @@ embeds:
 - color: 0xECC8F9
   title: "**Paperback Support Instructions**"
   fields:
-  - name: "**Be specific**"
+  - name: "**Provide specific details**"
     value: |
-      If you claim something "isn't working", show (with screenshots) and give details like:
+      When reporting an issue, please provide specific details and include screenshots if possible. This will help us diagnose the problem more quickly and effectively. 
 
-      **What is your iOS version?** 
-      ex: iOS 14.5
-      **What is your app version?** 
-      ex: v0.6.0-b1.0.0
-      **What source are you using and what is the version?**
-      ex: Mangadex (1.0.0)
-      **What were you trying to read?**
-      ex: I was reincarnated as a manga app developer, chapter 1
+      Please include the following information:
+
+      **iOS version:** 
+      Example: iOS 14.5
+      **App version:** 
+      Example: v0.6.0-b1.0.0
+      **Source and version:** 
+      Example: Mangadex (1.0.0)
+      **Title and chapter:** 
+      Example: I Was Reincarnated as a Manga App Developer, Chapter 1
       
-
+      Thank you for your cooperation.

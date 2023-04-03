@@ -1,9 +1,11 @@
 embeds:
-  - title: "**CloudFlare Bypass**"
+  - title: "**Cloudflare Bypass**"
     color: 0xF5A623
     description: |-
-      There are two ways to bypass Cloudflare:
+      If you're having trouble accessing a source due to Cloudflare, here's a workaround:
 
-      1. Go to Discover, scroll to the source you want to use and press the cloud icon.
+      1. Open the "Discover" tab in Paperback and scroll to the third-party source you want to use.
+      2. Press the cloud icon next to the source's name.
+      3. The source should now load without issue.
 
-      2. Go to Settings -> Sources -> The Source -> Cloudflare bypassDesc
+      Note that this method may not work for all sources and may require multiple attempts. Additionally, we do not condone or encourage the use of this method for any malicious purposes.

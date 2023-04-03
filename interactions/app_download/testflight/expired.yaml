@@ -1,19 +1,15 @@
 embeds:
-- color: 0x6DE194
-  title: "**Your Beta has expired?**"
-  fields:
-  - name: "**Public Testflight**"
-    value: |
-      TestFlight builds expires after 90 days. You need to join the Public TestFlight to be able to update.
-      It might be full so you will need to wait until it opens again.
-      
-  - name: "**Patreon Testflight**"
-    value: |
-      To get your invite to the Testflight, 
-      you need to **DM** <@796518312397111306> (`Paperback Bot#1108`) 
-      and type: `pb beta invite PatreonEmail `
-      > Make sure to replace `PatreonEmail` with your email. 
-      
-  - name: "**Sideload**"
-    value: |
-      Sideloading is a good option if you do not want to wait for the Public Testflight nor join the Patreon. Use the bot in <#673620355486842920> to learn how to sideload.
+  - title: "Expired Beta Access"
+    description: "If your beta access has expired, there are several options available for you to continue using the app. Please see below for details:"
+    color: "#6DE194"
+    fields:
+      - name: "Public TestFlight"
+        value: "TestFlight builds expire after 90 days. To continue using the app, you need to join the Public TestFlight. Please note that the Public TestFlight may be full, so you may need to wait until it opens again."
+      - name: "Patreon TestFlight - Version 0.7"
+        value: "To get an invite to the TestFlight, please **DM** <@796518312397111306> (`Paperback Bot#1108`) with the command `pb beta invite PatreonEmail`, replacing `PatreonEmail` with your email."
+      - name: "Patreon TestFlight - Version 0.8"
+        value: "To get an invite to the TestFlight, please use the `/invite` command."
+      - name: "Sideload"
+        value: "Sideloading is a good option if you do not want to wait for the Public TestFlight or join the Patreon. Please see the instructions in <#673620355486842920> to learn how to sideload."
+    footer:
+      text: "If you have any questions, please contact us using Modmail."

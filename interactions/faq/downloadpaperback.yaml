@@ -1,47 +1,52 @@
 embeds:
-  - title: "**How to get Paperback on your device**"
-    color: 0xD7FFE2
+  - title: "**How to Install Paperback on Your Device**"
+    color: 0x7ED321
     description: |-
-       Below, you will find information on how to install Paperback.
+       Below, you'll find instructions on how to install Paperback on your device.
+
     fields:
       - name: "App Store"
         value: |
-          Information on how to get the app from the [App Store](https://paperback.moe/help/installation/app-store/)
+          Follow these steps to install Paperback from the [App Store](https://paperback.moe/help/installation/app-store/).
+
         inline: false
+
       - name: "Testflight"
         value: |
-          Below the Testflight option, you will find:
-          - How to get into the [Public Testflight](https://paperback.moe/help/installation/public-testflight/)
-          - Information on how to get into the [Patreon Testflight](https://paperback.moe/help/installation/beta-testflight/)
+          Follow these steps to install Paperback from Testflight:
+          - To get into the [Public Testflight](https://paperback.moe/help/installation/public-testflight/), follow these steps.
+          - To get into the [Patreon Testflight](https://paperback.moe/help/installation/beta-testflight/), follow these steps.
+
         inline: false
+
       - name: "AltStore"
         value: |
-          Below, you will find information on how to install Paperback from AltStore.
-          - What is [AltStore](https://altstore.io/)?
-          - How to install AltStore on [MacOS](https://paperback.moe/help/installation/public-altstore/#prerequisites)
-          - How to install AltStore on [Windows](https://paperback.moe/help/installation/public-altstore/#prerequisites)
+          Follow these steps to install Paperback from AltStore:
+          - First, you'll need to download and install [AltStore](https://altstore.io/) on your device.
+          - Once AltStore is installed, follow these instructions to install Paperback on [MacOS](https://paperback.moe/help/installation/public-altstore/#prerequisites) or [Windows](https://paperback.moe/help/installation/public-altstore/#prerequisites).
+
         inline: false
 
 options:
   - label: App Store
     value: app_download/appstore/appstore
-    description: Help regarding the App Store
-    emoji: ""
+    description: Instructions for downloading from the App Store.
+    emoji: "<:Apple:893202544246001715>"
 
   - label: Public Testflight
     value: app_download/testflighthelp
-    description: Help regarding the Public Testflight
+    description: Instructions for downloading from the Public Testflight.
     emoji: "<:Testflight:923735248020320266>"
   
   - label: Patreon Testflight
     value: app_download/testflight/newpatreon
-    description: Help regarding Patreon Testflight
+    description: Instructions for downloading from the Patreon Testflight.
     emoji: "<:patreonbg:802238015958548480>"
 
   - label: AltStore
     value: app_download/altstorehelp
-    description: Help regarding AltStore
-    emoji: "<:Altstore:923735231234736138>"    
+    description: Instructions for downloading from AltStore.
+    emoji: "<:Altstore:923735231234736138>"
 
 permissions:
   whitelist:

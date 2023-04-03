@@ -1,27 +1,16 @@
 embeds:
 - color: 0xC7F55A
-  title: "**How to get in the Public Testflight **"
+  title: "**How to join the Public Testflight**"
   fields:
-  - name: "**We changed the way you get your Public Testflight invite.**"
+  - name: "**The Public Testflight is currently full. Please wait**"
     value: |
-     You'll need to fill up a Google Form to be able to join the Testflight.
-     If it is full, you must wait for the next Testflight reset.
+     ~~We've changed the way to get your Public Testflight invite. To join, you need to fill out a Google Form. If the Testflight is full, you'll have to wait until the next reset.
 
      Requirements:
-     - a Google Account
+     - A Google Account
 
-     Open this link:
-     https://invite.paperback.moe/
-
-     Type your email in the correct field.
+     Follow this link to access the form: https://invite.paperback.moe/
+     Enter your email in the correct field.~~
 
   footer:
-    text: "Paperback will never ask you for your password."
-     
-
-
-
-
-     
-
-    
+    text: "Paperback will never ask for your password."

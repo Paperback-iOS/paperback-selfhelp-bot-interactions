@@ -1,19 +1,26 @@
 embeds:
-- color: 2ECC71
-  title: "**Migrating your library**"
+- color: 0x2ECC71
+  title: "**Migrating Your Library**"
   fields:
-  - name: 'Downloading chapters:'
+  - name: "**Downloading Chapters**"
     value: |
-      Migration can be useful if you want to read your title from one source to another. Follow these steps to migrate. 
+      Migrating your library can be useful if you want to read your titles from one source to another. Here are the steps to migrate:
 
-      Open your library in any collection.
-      Migrate (<:migration:883030306452537414>) -> Select one source to migrate from -> Select source(s) to migrate to -> Select your migration parameters -> Backup -> Wait for the migration to finish -> Confirm the migration
+      1. Open your library in any collection.
+      2. Click the migrate button.
+      3. Select the source(s) to migrate from.
+      4. Select the source(s) to migrate to.
+      5. Select your migration parameters.
+      6. Backup your library.
+      7. Wait for the migration to finish.
+      8. Confirm the migration.
 
-      Note : The bigger your library is, the longer you will need to wait.
+      Note: The larger your library is, the longer you will need to wait.
  
     inline: true
-  - name: 'Migrating old IDs to new IDs:'
+  - name: "**Migrating Old IDs to New IDs**"
     value: |
-      Some sources requires a **migration** after a change in their IDs system. 
+      Some sources require a **migration** after a change in their IDs system. To migrate old IDs to new IDs:
 
-      Migrate your source to the same source but make sure to select **include migrated manga**. Then while it is migrating,  press "Mark All" and Replace.
+      1. Migrate your source to the same source, but make sure to select **include migrated manga**.
+      2. While it is migrating, press "Mark All" and Replace.

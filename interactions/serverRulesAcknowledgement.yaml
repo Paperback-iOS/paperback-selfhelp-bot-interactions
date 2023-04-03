@@ -1,10 +1,17 @@
 embeds:
-- color: 0x6DE194
-  title: "**Read carefully!**"
-  description: |
-    You **agree** to comply with the server rules and channel guidelines, regardless if you have read them in their entirety.
-    This also includes the [Discord Terms of Services](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-  
-    **You will only ask for support by making a thread in our <#916345093139615744> channel.**
-    **You will not hijack/steal anyone thread in <#916345093139615744>.**
+  - title: "Server Rules and Guidelines"
+    color: 0x2ECC71
+    description: |-
+      By joining and participating in this server, you agree to abide by the rules and guidelines:
 
+      In addition to the rules, you must also comply with the [Discord Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+
+      Failure to follow these rules may result in disciplinary action, up to and including permanent ban from the server.
+      If you have any questions or concerns, please contact a server staff member for assistance.
+
+      Thank you for your cooperation.
+
+permissions:
+  whitelist:
+    - "${ROLES.COMMUNITY_MANAGER}"
+    - "${ROLES.COMMUNITY_MODERATOR}"

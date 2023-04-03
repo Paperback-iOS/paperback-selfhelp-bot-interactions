@@ -4,12 +4,19 @@ embeds:
   fields:
   - name: "**Adding the Tracker**"
     value: |
-      Go to your settings -> External Trackers -> Edit -> + and add:
-      https://paperback-ios.github.io/trackers-main/main
+      To add the Anilist tracker to Paperback, you'll need to do it manually. Please do not open the link provided.
 
-      Then login to your account by opening Anilist
+      Here's how you can add the tracker:
+      1. Go to your Paperback settings and select "External Trackers."
+      2. Click "Edit" and then the "+" button.
+      3. Enter the following URL: https://paperback-ios.github.io/trackers-main/main
+      4. Save your changes.
+
+      Once you've added the tracker, you'll need to log in to your Anilist account.
 
   - name: "**Tracking**"
     value: |
-      Open the manga page view, click the link icon (:link:), track the manga and set the status to reading.
-
+      To track a manga on Anilist, follow these steps:
+      1. Open the manga page view in Paperback.
+      2. Click the link icon (🔗).
+      3. Track the manga and set the status to "reading."

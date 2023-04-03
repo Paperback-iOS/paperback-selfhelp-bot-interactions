@@ -1,7 +1,13 @@
 embeds:
 - color: 0x6612B0
-  title: "**Reordering your discover page**"
-  description: |
-    Go to Settings -> Then External Sources -> Edit and drag sources up and down.
-
-    Your top source will be the first one in your Discover page.
+  title: "**Reordering your Discover Page**"
+  description: "You can easily reorder your Discover page by following these simple steps:"
+  fields:
+  - name: "Step 1"
+    value: "Open Paperback and go to Settings."
+  - name: "Step 2"
+    value: "Click on External Sources."
+  - name: "Step 3"
+    value: "Click on Edit and drag your sources up and down to change the order."
+  - name: "Step 4"
+    value: "The top source on your list will be the first one shown on your Discover page."

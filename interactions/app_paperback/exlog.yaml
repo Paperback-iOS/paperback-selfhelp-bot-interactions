@@ -4,14 +4,16 @@ embeds:
   fields:
   - name: "**Exporting your logs**"
     value: |
-      Go to your settings page, click `Export logs` and share it to Paperback.
+      To troubleshoot your issue, we may need your logs. To export them:
 
-      > This is useful for us to troubleshoot your issue.
-  image: 
+      > Go to your settings page, click `Export logs` and share the file with us.
+
+      The logs can provide valuable information that helps us identify the cause of any issues you're experiencing.
+  image:
     url: "https://cdn.discordapp.com/attachments/870161417993613362/950902714840272946/IMG_2280.png"
 
 buttons:
-  - label: "Open in browser"
+  - label: "View Screenshot"
     customId: 
     style: LINK
     emoji: "<:play:846471522259304455>"

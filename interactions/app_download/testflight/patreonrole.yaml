@@ -1,7 +1,11 @@
 embeds:
 - color: 0xF96854
-  title: "**Patreon Role linked with your Discord account**"
+  title: "**Link your Patreon Role to your Discord account**"
   description: |
-    Link it from your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
+    To link your Patreon role with your Discord account, please follow these steps:
 
-    Read more on how to do it [here](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).
+    1. Go to your [Patreon Profile Settings](https://www.patreon.com/settings/profile).
+    2. Scroll down to the "Apps & integrations" section.
+    3. Click on the "Connect Discord" button and follow the prompts.
+
+    For more information and detailed instructions, please see [this support article](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role).

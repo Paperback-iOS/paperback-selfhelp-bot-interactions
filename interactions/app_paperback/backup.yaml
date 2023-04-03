@@ -1,28 +1,35 @@
 embeds:
 - color: 0x36D162
-  title: "**How to backup and how to import to Paperback**"
+  title: "**Backing up and Importing to Paperback**"
   fields:
-  - name: 'Backing your data:'
+  - name: 'Backing up your data'
     value: |
+      To backup your data, go to:
       > Settings -> Backup -> New Backup -> Save to Notes or Files
-    inline: false
-  - name: '📝 Importing using Notes'
+
+  - name: 'Importing using Notes'
     value: |
-      > Open your note -> Hold your backup -> Export to Paperback -> Restore
-    inline: true
-  - name: '📁 Importing using Files:'
+      To import using Notes:
+      1. Open your note
+      2. Hold your backup
+      3. Export to Paperback
+      4. Restore
+
+  - name: 'Importing using Files'
     value: |
-      > Open Files -> Hold your backup -> Export to Paperback -> Restore
-    inline: true
+      To import using Files:
+      1. Open Files
+      2. Hold your backup
+      3. Export to Paperback
+      4. Restore
 
 buttons:
-  - label: "Notes"
-    customId: 
+  - label: "Notes Method"
     style: LINK
     emoji: "📝"
     url: "https://cdn.discordapp.com/attachments/870161417993613362/922324966450536538/notemethod.gif"
-  - label: "Files"
-    customId: 
+
+  - label: "Files Method"
     style: LINK
     emoji: "📁"
     url: "https://cdn.discordapp.com/attachments/870161417993613362/922330006825369680/backup-method.gif"

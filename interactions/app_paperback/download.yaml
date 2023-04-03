@@ -4,24 +4,12 @@ embeds:
   fields:
   - name: 'Downloading chapters:'
     value: |
-      Go to your manga page
-      Scroll down until you see "All Chapters" 
-      Click "View" then "Edit"
-      Select what you want to download 
-      and then click "Manage" - > "Queue Download"
+      To be updated
     inline: true
   - name: 'Removing downloaded chapters:'
     value: |
-      Same steps but at the end, click "Remove Download`
+      To be updated
     inline: true
   - name: 'Notes'
     value: |
       You need to let the app open so it can download your chapters. Downloading in the background doesn't work. 
-    
-
-buttons:
-  - label: "GIF"
-    customId: 
-    style: LINK
-    emoji: "<:play:846471522259304455>"
-    url: "https://cdn.discordapp.com/attachments/794353299343933450/821848033994080366/download.gif"

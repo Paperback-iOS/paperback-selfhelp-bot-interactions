@@ -2,7 +2,8 @@ embeds:
 - color: 0xFFFFFF
   title: "**Public TestFlight is currently full**"
   description: |
-    Public version of the app on TestFlight is currently at max capacity, this is due to the 10k testers limit enforced by Apple.
-    The limits will reset when it will be announced and everyone will be pinged in our announcement channel. Do not ask for an ETA.
+    We're sorry to inform you that the public version of the app on TestFlight has reached its maximum capacity. This is due to the 10,000 tester limit enforced by Apple.
 
-    Alternatively, you can join the Patreon to get access to the beta track of the app or sideload the app through AltStore.
+    We are working to increase this limit, but unfortunately, we cannot provide an ETA for when this will happen. We will announce when the limits reset and everyone will be notified in our announcement channel.
+
+    However, there are other options to gain access to the beta version of the app. You can join our Patreon to get access to the beta track of the app, or sideload the app through AltStore.

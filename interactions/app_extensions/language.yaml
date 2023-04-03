@@ -1,17 +1,13 @@
 embeds:
 - color: 0xFF7673
-  title: "**Where did my language filter go?**"
+  title: "**Changes to Language Filtering**"
   fields:
-  - name: "**It's now handled by the third party source!**"
+  - name: "**Third Party Sources Now Handle Language Filtering**"
     value: |
-      External Source -> Third Party Source -> Content Settings -> Language
-
-      If you don't see this, then your third party source doesn't support it.
-
-  - name: "**Oh but I still see other languages!**"
+      The location of the language filter has changed. To access it, go to External Sources -> Third Party Sources -> Content Settings -> Language. If you don't see this option, it means that your third-party source doesn't support it.
+  - name: "**Refreshing Stored Chapters**"
     value: |
-      Fear not, that means you already fetched the chapters. Long press the thumbnail in library and `Refresh Stored Chapters`.
-      
-  - name: "**Migrating old IDs to new IDs**"
+      If you still see chapters in other languages, it means you've already fetched them. To refresh the chapters, long press the thumbnail in the library and select 'Refresh Stored Chapters.'
+  - name: "**Migrating Old IDs to New IDs**"
     value: |
-      Refer to `!migration` 
+      If you're experiencing issues with the migration of old IDs to new IDs, please refer to the `!migration` command for more information.
