@@ -10,8 +10,3 @@ embeds:
       If you have any questions or concerns, please contact a server staff member for assistance.
 
       Thank you for your cooperation.
-
-permissions:
-  whitelist:
-    - "${ROLES.COMMUNITY_MANAGER}"
-    - "${ROLES.COMMUNITY_MODERATOR}"
