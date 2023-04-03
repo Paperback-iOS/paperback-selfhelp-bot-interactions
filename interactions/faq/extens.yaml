@@ -36,21 +36,21 @@ embeds:
 
         inline: false
 
-  options:
-    - label: "Adding a Third-Party Repository"
-      value: "app_extensions/repository"
-      description: "Instructions for adding a third-party repository"
-      emoji: "<:chevron:846960436431945779>"
+options:
+  - label: "Adding a Third-Party Repository"
+    value: "app_extensions/repository"
+    description: "Instructions for adding a third-party repository"
+    emoji: "<:chevron:846960436431945779>"
 
-    - label: "Adding a Third-Party Tracker"
-      value: "app_extensions/tracker"
-      description: "Instructions for adding a third-party tracker"
-      emoji: "<:chevron:846960436431945779>"
+  - label: "Adding a Third-Party Tracker"
+    value: "app_extensions/tracker"
+    description: "Instructions for adding a third-party tracker"
+    emoji: "<:chevron:846960436431945779>"
 
-    - label: "Adjusting Your Content Settings"
-      value: "app_extensions/contentsettings"
-      description: "Instructions for adjusting content settings"
-      emoji: "<:settings:846436799684411402>"
+  - label: "Adjusting Your Content Settings"
+    value: "app_extensions/contentsettings"
+    description: "Instructions for adjusting content settings"
+    emoji: "<:settings:846436799684411402>"
 
   permissions:
     whitelist:
