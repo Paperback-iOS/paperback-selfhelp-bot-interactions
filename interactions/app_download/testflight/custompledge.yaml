@@ -1,16 +1,9 @@
 embeds:
-- color: 0xF96854
-  title: "**Custom Pledge with Patreon**"
-  description: |
-    Making a **Custom Pledge** with Patreon will not allow you to have access to the Patreon Testflight.
-
-    Make sure to verify that **YOU HAVE SELECTED A TIER**. You will only get your supporter role and your invite if you select a tier.
-
-    Everything is sold out? **WAIT**. Do not pledge.
-    If you want a refund, please let us know immediately. 
-
-  image: 
-    url: "https://cdn.discordapp.com/attachments/870161417993613362/928505276594790440/Screenshot_2022-01-05_232018.png"
-
-
-
+  - title: "Custom Pledge with Patreon"
+    description: "Thank you for considering to support us through Patreon! Please note the following:\n\n• Making a **Custom Pledge** with Patreon will not allow you to have access to the Patreon Testflight.\n• Make sure to verify that **YOU HAVE SELECTED A TIER**. You will only get your supporter role and your invite if you select a tier.\n• Everything is sold out? **WAIT**. Do not pledge.\n• If you want a refund, please let us know immediately."
+    color: "#F96854"
+    image:
+      url: "https://cdn.discordapp.com/attachments/870161417993613362/928505276594790440/Screenshot_2022-01-05_232018.png"
+    footer:
+      text: "Our Patreon page: https://www.patreon.com/yourpage"
+    timestamp: "2023-04-03T12:00:00Z"
