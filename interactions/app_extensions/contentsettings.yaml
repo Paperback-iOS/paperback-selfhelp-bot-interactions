@@ -1,10 +1,8 @@
 embeds:
 - color: 0xEC736D
-  title:
-    text: "Content Settings"
+  title: "Content Settings"
   fields:
-  - name:
-      text: "Information"
+  - name: "Information"
     value: |
       To adjust your content settings and allow more mature content to display in Paperback, you need to have a Paperback account. Follow these steps:
 
@@ -16,8 +14,7 @@ embeds:
 
       Note: If you set your content settings to "Adult" on the portal, you can restrict what content appears in the app by going into `Settings > General Settings > Content Filtering`.
 
-  - name:
-      text: "Some common problems"
+  - name: "Some common problems"
     value: |
       - **I've updated my settings on the portal, but it hasn't changed in my app.**
         Simply restart the app by removing it from your app switcher.
