@@ -1,34 +1,4 @@
 embeds:
 - color: 0x308489
   title: "**Installing AltStore on macOS**"
-  fields:
-  - name: "**How do I install AltStore?**"
-    value: |
-      Here are the steps to install AltStore on your macOS:
-      1. Download AltServer for Mac.
-      2. Copy “AltServer.app” to your Applications folder.
-      3. Launch AltServer (it will appear as an icon in the menu bar).
-      4. Connect your iPhone to your computer and ensure it is unlocked.
-      5. Trust your iPhone with your computer (if needed).
-      6. (Mojave only) Open iTunes and enable iTunes Wi-Fi sync for your phone.
-      7. (Catalina only) Open Finder and enable “Show this iPhone when on WiFi” for your phone.
-      8. Click the AltServer icon in the Mac menu bar, click “Install AltStore”, then select your phone.
-      9. Enter your Apple ID email and password (NOTE: both email address and password are case sensitive).
-      10. (First time only) AltServer will prompt you to install a Mail plug-in. Follow the instructions to continue (or see below for more detailed instructions).
-      11. Wait a few seconds, and AltStore will be installed on your phone.
-
-  - name: "**How do I install the Mail plug-in?**"
-    value: |
-      Here are the steps to install the Mail plug-in:
-      1. Click “Install Mail Plug-in” from the AltServer menu.
-      2. Enter your password to grant AltServer permission to install the plug-in.
-      3. Open Mail (quit Mail first if it was already running).
-      4. Open Mail > Preferences.
-      5. Click “Manage Plug-ins...”
-      6. Enable “AltPlugin.mailbundle”
-      7. Click “Apply and Restart Mail” to complete the installation.
-
-  - name: "**Links**"
-    value: |
-      For more information and to download AltStore, please visit their official website at https://altstore.io/.
-      You can also grab the IPA from <#705063298231566366>.
+  description: "Visit [Altstore MacOS installation guide](https://faq.altstore.io/getting-started/how-to-install-altstore-macos)"
