@@ -1,6 +1,0 @@
-match: "!source"
-interaction: triggers/sourcesrec
-
-channels:
-  whitelist:
-    - "${ CHANNELS.SUPPORT }"

@@ -1,2 +1,0 @@
-match: "!(getstart|gettingstarted)"
-interaction: app_others/gettingstarted

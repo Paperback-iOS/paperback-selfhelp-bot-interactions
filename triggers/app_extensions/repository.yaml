@@ -1,2 +1,0 @@
-match: "!(source|sources|repo|repository)"
-interaction: app_extensions/repository

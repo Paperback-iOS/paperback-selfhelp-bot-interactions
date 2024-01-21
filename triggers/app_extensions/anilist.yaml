@@ -1,2 +1,0 @@
-match: "!(anilist|tracker)"
-interaction: app_extensions/anilist

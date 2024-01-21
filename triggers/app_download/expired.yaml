@@ -1,2 +1,0 @@
-match: "!expired"
-interaction: app_download/testflight/expired

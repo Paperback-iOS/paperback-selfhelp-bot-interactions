@@ -1,2 +1,0 @@
-match: "!(ssc|skipsamechapter)"
-interaction: app_extensions/skipsamechapter

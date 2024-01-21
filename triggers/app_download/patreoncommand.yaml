@@ -1,2 +1,0 @@
-match: "!new(patron|patreon)"
-interaction: app_download/testflight/newpatreon
