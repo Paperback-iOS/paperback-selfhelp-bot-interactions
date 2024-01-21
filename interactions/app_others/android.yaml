@@ -14,8 +14,8 @@ buttons:
   - label: "Maybe this would work?"
     customId: 
     style: LINK
-    emoji: "<:tachi:889374186978566155>"
-    url: "https://tachiyomi.org/help/guides/getting-started/"
+    emoji: "<:fumocheers:1197309360586641418>"
+    url: "https://discord.gg/mihon"
   - label: "ETA"
     customId: 
     style: LINK

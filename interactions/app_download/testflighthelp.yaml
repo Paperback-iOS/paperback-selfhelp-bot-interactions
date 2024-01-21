@@ -1,10 +1,5 @@
 content: "Please choose a topic to receive help for"
 options: 
-  - label: Public Testflight
-    value: app_download/testflight/publictf
-    description: Get the Public Testflight
-    emoji: "<:Testflight:923735248020320266>"
-
   - label: Paperback has expired
     value: app_download/testflight/expired
     description: Information about the app being expired
