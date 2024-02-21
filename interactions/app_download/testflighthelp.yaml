@@ -1,6 +1,0 @@
-content: "Please choose a topic to receive help for"
-options: 
-  - label: Paperback has expired
-    value: app_download/testflight/expired
-    description: Information about the app being expired
-    emoji: "<:Testflight:923735248020320266>"
