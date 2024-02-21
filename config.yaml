@@ -233,7 +233,7 @@ modules:
       
       
   supportThreads:
-    enabled: true
+    enabled: false
     
     # This restricts who can use the /supportthreads command. if its not set, anyone with MANAGE_THREADS permission can use the command.
     permission: "${ ROLES.COMMUNITY_MANAGER }"
