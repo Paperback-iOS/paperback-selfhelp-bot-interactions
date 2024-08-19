@@ -106,7 +106,7 @@ modules:
     loggingChannel: 
 
   vanityRoles:
-    enabled: false
+    enabled: true
 
     # Who can use the /vanityrole command, anyone with MANAGE_ROLES if not set.
     permissions:
