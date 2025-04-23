@@ -4,10 +4,7 @@ embeds:
     description: |-
       > You need to have your Discord account link with Patreon to be able to request a TestFlight invite. [Learn More](https://support.patreon.com/hc/en-us/articles/212052266-Get-my-Discord-role)
     fields:
-      - name: "Request 0.8 Beta Access"
-        value: "Simply run the `/invite` command in <#957820701044256889> (#beta-chat) with the appropriate information."
+      - name: "Request TestFlight Access"
+        value: "Simply click the TestlFight button in <#1356087630886080632> (#📨・testflight) with the appropriate information."
         inline: false
-                                                                                                                        
-      - name: "Unable to send messages in #beta-chat"
-        value: "You need to read and accept the server rules from <#1009857785925750794> (#rules)"
-        inline: false
+
