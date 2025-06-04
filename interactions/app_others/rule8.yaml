@@ -1,0 +1,15 @@
+embeds:
+- color: 0x2f3136
+  title: "**Rule 8**"
+  fields:
+  - name: "**Do not mention third party extensions.**"
+    value: |
+      This is crucial for legal reasons. Do not share or name third-party extensions.
+  - name: "Where can I get support for it?"
+    value: |
+      You may get help on the server where you have taken your third-party extension from. If you're not on those servers, you may Google `Paperback Sources`. 
+  - name: "Why do you see this?"
+    value: |
+      Your post has been flagged as a rule 8 issue.
+
+  
