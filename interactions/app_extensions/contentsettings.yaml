@@ -10,8 +10,8 @@ embeds:
       2. In Paperback, go to your Settings > General  Settings > Content settings
 
       Note: Your Paperback account is no longer needed for content settings.
-    footer:
-      text: "Click on the image to see the details."
+  footer:
+    text: "Click on the image to see the details."
 
   image:
     url: "https://cdn.discordapp.com/attachments/1274894781658697749/1379644351361187950/ContentSettingsv9.png?ex=6840fd6d&is=683fabed&hm=7e911f7fb447081bb5a162ee8d25128c8fe98cd1df09ba045ec0bc79b1697fb3&"
