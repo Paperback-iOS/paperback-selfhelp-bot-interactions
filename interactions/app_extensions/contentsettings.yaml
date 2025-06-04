@@ -1,26 +1,14 @@
 embeds:
 - color: 0xEC736D
-  title: "Content Settings"
+  title: "Content Settings for 0.9+"
   fields:
   - name: "Information"
     value: |
-      To adjust your content settings and allow more mature content to display in Paperback, you need to have a Paperback account. Follow these steps:
+      To adjust your content settings and allow more mature content to display in Paperback, you need to follow these steps:
 
-      1. Go to the [Paperback Portal](https://portal.paperback.moe/welcome).
-      2. Log in with your Paperback account, or create one if you don't have one.
-      3. Change the content settings to your liking.
-      4. Log out of the app if you were logged in.
-      5. Log in again.
+      1. Go to your iOS System settings > Apps > Paperback > Enable content settings
+      2. In Paperback, go to your Settings > General  Settings > Content settings
 
-      Note: If you set your content settings to "Adult" on the portal, you can restrict what content appears in the app by going into `Settings > General Settings > Content Filtering`.
-
-  - name: "Some common problems"
-    value: |
-      - **I've updated my settings on the portal, but it hasn't changed in my app.**
-        Simply restart the app by removing it from your app switcher.
-      - **I have selected 'Adult', but it's not saving my selection.**
-        Clear your browser's cache, and then log in to the Portal through an incognito window.
-      - **It says 'communication error'.**
-        Verify your email and check spam/promotions folder.
-      - **My content settings haven't changed yet.**
-        Follow steps 4 and 5 again.
+      Note: Your Paperback account is no longer needed for content settings.
+image:
+    url: "https://cdn.discordapp.com/attachments/1274894781658697749/1379644351361187950/ContentSettingsv9.png?ex=6840fd6d&is=683fabed&hm=7e911f7fb447081bb5a162ee8d25128c8fe98cd1df09ba045ec0bc79b1697fb3&"
