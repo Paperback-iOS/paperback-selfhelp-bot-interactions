@@ -1,6 +1,6 @@
 embeds:
 - color: 0xB072FF
-  title: "**Tracking with Anilist**"
+  title: "**Tracking with Anilist for Paperback 0.8**"
   fields:
   - name: "**Adding the Tracker**"
     value: |
@@ -20,3 +20,5 @@ embeds:
       1. Open the manga page view in Paperback.
       2. Click the link icon (🔗).
       3. Track the manga and set the status to "reading."
+  footer:
+    text: "Anilist for 0.8 will not work on 0.9."

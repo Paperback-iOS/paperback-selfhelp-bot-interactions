@@ -1,6 +1,6 @@
 embeds:
 - color: 0xEC736D
-  title: "Content Settings"
+  title: "Content Settings for 0.8"
   fields:
   - name: "Information"
     value: |

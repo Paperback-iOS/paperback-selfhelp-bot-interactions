@@ -3,8 +3,8 @@ embeds:
     description: "If your beta access has expired, there are several options available for you to continue using the app. Please see below for details:"
     color: "#6DE194"
     fields:
-      - name: "Patreon TestFlight - Version 0.8"
-        value: "To get an invite to the TestFlight, please use the `/invite` command."
+      - name: "Patreon TestFlight"
+        value: "Simply click the TestlFight button in <#1356087630886080632> (#📨・testflight) with the appropriate information."
       - name: "Sideload"
         value: "Sideloading is a good option if you do not want to wait for the Public TestFlight or join the Patreon. Please see the instructions in <#673620355486842920> to learn how to sideload."
     footer:
