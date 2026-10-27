@@ -99,7 +99,7 @@ modules:
       duplicateChannelThreshold: 3
       mediaChannelThreshold: 3
       channelThreshold: 3
-      timeoutDuration: 1 week
+      timeoutDuration: 1 day
       deleteMessages: true
       notifyUser: true
 
