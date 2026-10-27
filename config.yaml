@@ -93,6 +93,16 @@ modules:
           - "${ ROLES.COMMUNITY_HELPER }"
       muteRole: ${ROLES.MUTED}
 
+    spamDetection:
+      enabled: true
+      windowSeconds: 30
+      duplicateChannelThreshold: 3
+      mediaChannelThreshold: 3
+      channelThreshold: 3
+      timeoutDuration: 1 week
+      deleteMessages: true
+      notifyUser: true
+
   userNotes:
     enabled: false
     permissions:
@@ -230,8 +240,7 @@ modules:
     button:
       title: "I agree*"
       type: "PRIMARY"
-      
-      
+
   supportThreads:
     enabled: false
     
